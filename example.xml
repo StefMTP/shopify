@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>322233</id>
+        <name><![CDATA[Converse All Star Chuck Taylor Ox]]></name>
+        <link><![CDATA[https://www.mywebstore.co.uk/product/322233]]></link>
+        <image><![CDATA[https://www.mywebstore.co.uk/product/322233.jpg]]></image>
+        <additionalimage><![CDATA[https://www.mywebstore.co.uk/product/322233/front.jpg]]></additionalimage>
+        <category><![CDATA[Outdor > Sneakers]]></category>
+        <price_with_vat>30.00</price_with_vat>
+        <manufacturer><![CDATA[Converse]]></manufacturer>
+        <mpn>M7652C</mpn>
+        <ean>886952780692</ean>
+        <instock>N</instock>
+        <availability>Delivery 1 to 3 days</availability>
+        <size>5.5,6</size>
+        <weight>2000</weight>
+        <color>White</color>
+        <description>
+            The Chuck Taylor All Star is one of the most iconic sneakers
+            of all ages. It is a unique design with a classic and comfortable
+            fit, in white color, with durable non-slip exterior rubber sole.
+            It is an ideal piece for all kinds of appearances.
+        </description>
+    </product>
+    <product>
+        <id>232322</id>
+        <name><![CDATA[Converse All Star Chuck Taylor 4x]]></name>
+        <link><![CDATA[https://www.mywebstore.co.uk/product/232322]]></link>
+        <image><![CDATA[https://www.mywebstore.co.uk/product/232322.jpg]]></image>
+        <additionalimage><![CDATA[https://www.mywebstore.co.uk/product/232322/front.jpg]]></additionalimage>
+        <category><![CDATA[Outdor > Sneakers]]></category>
+        <price_with_vat>35.00</price_with_vat>
+        <manufacturer><![CDATA[Converse]]></manufacturer>
+        <mpn>M7652A</mpn>
+        <ean>886951230692</ean>
+        <instock>Y</instock>
+        <availability>Foobar</availability>
+        <size>5.5,6</size>
+        <weight>2000</weight>
+        <color>Black</color>
+        <description>
+            The Chuck Taylor All Star is one of the most iconic sneakers
+            of all ages. It is a unique design with a classic and comfortable
+            fit, in black color, with durable non-slip exterior rubber sole.
+            It is an ideal piece for all kinds of appearances.
+        </description>
+    </product>
+</products>

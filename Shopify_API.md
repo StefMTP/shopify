@@ -11,6 +11,18 @@ Variant = products come in different options in a lot of stores, for example COL
 Inventory = a store's complete list of VARIANTS
 Item = one unit of a product (if there are variants, an item is one unit of a variant)
 
+#### Search Syntax of the Shopify API
+
+Reference to how queries can be structured and what keywords can be used.
+https://shopify.dev/concepts/about-apis/search-syntax
+
+#### API response codes
+
+- **2XX**: 200 - OK, 201 - resource created, 202 - accepted and processing
+- **3XX**: 303 - follow the response on the Location header for a different URL
+- **4XX**: 400 - bad request (content type, bad syntax), 401 - unauthorized, 402 - payment required to unfreeze, 403 - forbidden (can't access resource based on the scopes), 404 - not found, 406 - not acceptable headers in the request, 422 - unprocessable entity, 423 - shop is currently locked, 429 - too many requests based on rate limit
+- **5XX**: 500 - internal server error, 501 - endpoint not implemented on particular shop, 503 - service unavailable, 504 - gateway timeout (Shopify waits up to 10 seconds for a response)
+
 #### Using the Shopify CLI
 
 The CLI offers an easy way to automate Shopify app creation and setting up.
@@ -25,7 +37,7 @@ Useful points extracted from developing Shopify store apps: embedded apps and th
 
 ### Making API calls to an App
 
-Making sure we have enabled the creation and testing through PRIVATE APPS, we create a new one and copy the api key and password that is given to us. Through Postman, we make requests on our shop apps like this: {api-key}:{api-token}@{store-url}.admin/api/{api-version}/{api-resource}. Shopify requires this HTTP authentication.
+Making sure we have enabled the creation and testing through PRIVATE APPS, we create a new one and copy the api key and password that is given to us. Through Postman, we make requests to our shop on behalf of its private apps like this: {api-key}:{api-token}@{store-url}.admin/api/{api-version}/{api-resource}. Shopify requires this HTTP authentication.
 
 #### Things to watch out for on the API and its docs
 
