@@ -2,7 +2,7 @@
 
 Skroutz allows merchants to send data about their products, taken from their Shopify stores, to Skroutz's body, so that they can be included and listed on skroutz.gr. However, Skroutz has its own way of accepting product information.
 
-Skroutz requirements:
+**Skroutz requirements:**
 
 - The product list must be sent in an XML file
 - The XML file must have proper encoding, and that must be included in the XML head of the file
@@ -11,7 +11,7 @@ Skroutz requirements:
 - Every product must be listed only once
 
 
-Apart from these specifications, there is a list of required attributes that must be included for every product, if we want the XML file to be valid. These are:
+Apart from these specifications, there is a list of **required attributes** that must be included for every product, if we want the XML file to be valid. These are:
 
 - Unique ID (str): the unique identifier of the product
 - Name (str): the title of the product, must include necessary details like manufacturer, product options etc.
@@ -28,7 +28,7 @@ Apart from these specifications, there is a list of required attributes that mus
 - Manufacturer (str): the product's manufacturer (or vendor for example Apple, Samsung, Microsoft etc.)
 - MPN / ISBN (str): the unique manufacturer identifier of the product
 
-There are also some fields that are required on certain items, these are: 
+There are also some fields that are **required on certain items**, these are: 
 
 - Size (str): all available sizes for the product can be included separated by commas (required for fashion items)
 - Additional Image Link (str): URL that points to additional photos of the product (required for fashion items)
@@ -36,12 +36,19 @@ There are also some fields that are required on certain items, these are:
 - Color (str): the color of the product (products with different color options of course must be sumbitted as different products, color is required for fashion items)
 - Description (str): the description/explanation of the product (strongly recommended for all products)
 
-Other attributes that are not required:
+Other attributes that are **not necessarily required**:
 
 - EAN/barcode (int): the barcode of the product, international article number for identification in retail products
-- InStock: the stock status of the product, can be either Y or N, as in yes or no (when it is not provided, the default attribute value of the product will be N)
-- Shipping Costs: the shipping cost of the product regardless of customer location, if it is known beforehand it should be included (free shipping can be indicated by providing 0 as a value)
+- InStock (List - Y/N): the stock status of the product, can be either Y or N, as in yes or no (when it is not provided, the default attribute value of the product will be N)
+- Shipping Costs (decimal): the shipping cost of the product regardless of customer location, if it is known beforehand it should be included (free shipping can be indicated by providing 0 as a value)
 
+**Important notes:**
+- Shopify provides us with variants and we list them as separate products
+- Need to check out whether a product that is not in stock is listed or not in the Skroutz website
+How are category paths created for our products (product tags?)
+- Availability
+- In stock
 
 #### Data feed validator
 https://validator.skroutz.gr/
+https://engineering.skroutz.gr/blog/the-skroutz-feed-validator/

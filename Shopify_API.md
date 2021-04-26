@@ -125,6 +125,60 @@ We can change the limit of results through following requests (if I initially ma
 
 Pagination URLs are temporary and should be used when working with the requests that generated them in the first place.
 
-#### Using Partners API: App Events to send automated emails upon app installation and uninstallation
+#### Using Partners API
+
+**Why do we need this API?**
+App Events will trigger custom hooks to send automated emails upon app installation and uninstallation ("Thank you for installing our application etc." / "We recently saw you uninstalled the application, give us some feedback etc.")
+
+The Partners API can only be accessed using GraphQL requests. Unlike REST APIs, which expose a different endpoint for each resource object, a GraphQL API makes all data available at a single endpoint. A client specifies exactly the data that it wants, and the server responds with only that data.
+REST APIs work with different types of requests (GET, POST, PUT, DELETE...), while GraphQL works with queries and mutations.
+
+You can make GraphQL requests through the GraphiQL explorer in the partners page, or through Postman, by making a post request to graphql.json, providing the organization id in the url and the X-Shopify-Access-Token as a header, with the code below being an example body (text/plain for the Content-Type header seems to work fine):
+
+    query {
+        app(id: "gid://partners/App/5191721") {
+            id,
+            name
+            events (types:[RELATIONSHIP_INSTALLED]) {
+                edges {
+                    node {
+                        type,
+                        occurredAt,
+                        shop {
+                            id,
+                            name
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+This query finds all events that match the relationship installed type for the app id we provided, and retrieves the date it occured and the shop id and name it occured on. Basically, it tells us when our application was installed and for which shops. The response will be a JSON that looks like this: 
+
+    {   
+        "data": {
+            "app": {
+                "id": "gid://partners/App/5191721",
+                "name": "Testing App",
+                "events": {
+                    "edges": [
+                        {
+                            "node": {
+                                "type": "RELATIONSHIP_INSTALLED",
+                                "occurredAt": "2021-04-21T12:44:42.000000Z",
+                                "shop": {
+                                    "id": "gid://partners/Shop/56474304703",
+                                    "name": "my-stef-store"
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+
+**What the heck are edges and nodes supposed to be?** Well, in Shopify's GraphQL API, everything is visually represented in the form of a graph. Graphs contain nodes that are interconnected through edges, for example Products is a root node that is connected through edges to several different Product nodes.
 
 ### In the future: Storefront API
