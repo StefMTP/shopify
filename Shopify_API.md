@@ -56,7 +56,15 @@ The Rest Admin API is organized by resource. Obviously, that means we need to us
 - Customers: customer details that they have filled in when making purchases and ways to edit them
 - Deprecated API calls
 - Discounts: apply discounts based on price rules you set and check them out
-- Events: Shopify resources generate events when certain actions are completed (articles, blogs, collections, comments, pages, orders, price rules, products ...). With this API, a merchant can track events for any resources that are important for them. Also, by using webhooks, a merchant can set trigger actions when specific events occur in their shop.
+- **Events**: Shopify resources generate **events** when certain actions are completed (articles, blogs, collections, comments, pages, orders, price rules, products ...). With this API, a merchant can track events for any resources that are important for them. Also, by using **webhooks**, a merchant can set trigger actions when specific events occur in their shop.
+In order to create a custom webhook, for example one that tracks when our app is installed/uninstalled, let's check out the fields of Webhooks that we need to set:
+    - *address*: URL where the webhook subscription must send the post request when the event occurs
+    - *fields*: an optional array of fields that should be included in the subscription
+    -format: data format of the subscription (either "json" or "xml")
+    - *topic*: event that **triggers** the webhook!
+
+***So, if we wanted to create a webhook for tracking app uninstallations, we should send a post request to the webhooks resource, with the topic being "app/uninstalled" (for some reason, there doesn't seem to be a topic for apps being installed).***
+
 - **Inventory**: Inventory items are the physical goods available to be shipped to a customer. Every product variant (see more in the product section) has a one to one relationship with an inventory item, and every inventory item can have many locations. An inventory location can have many inventory items for many variants. Between inventory items and their locations, there are intermediate blocks called inventory levels, that represent a certain inventory item's quantity at a certain location. Locations can be a business' headquarters, stores etc.
 - Marketing Events
 - Metafields: metafields are pieces of data that apps attach to products, customers, orders etc. They can attach additional info that otherwise cannot be placed into other categories, such as instructions for washing and drying for a certain apparel item.
@@ -180,5 +188,8 @@ This query finds all events that match the relationship installed type for the a
     }
 
 **What the heck are edges and nodes supposed to be?** Well, in Shopify's GraphQL API, everything is visually represented in the form of a graph. Graphs contain nodes that are interconnected through edges, for example Products is a root node that is connected through edges to several different Product nodes.
+
+
+
 
 ### In the future: Storefront API
