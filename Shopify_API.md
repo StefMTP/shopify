@@ -63,7 +63,7 @@ In order to create a custom webhook, for example one that tracks when our app is
     -format: data format of the subscription (either "json" or "xml")
     - *topic*: event that **triggers** the webhook!
 
-***So, if we wanted to create a webhook for tracking app uninstallations, we should send a post request to the webhooks resource, with the topic being "app/uninstalled" (for some reason, there doesn't seem to be a topic for apps being installed).***
+***So, if we wanted to create a webhook for tracking app uninstallations, we should send a post request to the webhooks resource, with the topic being "app/uninstalled" (for some reason, there doesn't seem to be a topic for apps being installed, but we can make a trigger in our app once someone installs it).***
 
 - **Inventory**: Inventory items are the physical goods available to be shipped to a customer. Every product variant (see more in the product section) has a one to one relationship with an inventory item, and every inventory item can have many locations. An inventory location can have many inventory items for many variants. Between inventory items and their locations, there are intermediate blocks called inventory levels, that represent a certain inventory item's quantity at a certain location. Locations can be a business' headquarters, stores etc.
 - Marketing Events
