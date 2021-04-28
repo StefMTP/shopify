@@ -131,7 +131,7 @@ Now the header includes links for both the previous page of results and the next
 
 We can change the limit of results through following requests (if I initially made a request with a limit of 3 and want to continue to the next page, I can make a request to it with a limit of 6 if I want).
 
-Pagination URLs are temporary and should be used when working with the requests that generated them in the first place.
+Pagination URLs are temporary and should be used when working with the requests that generated them in the first place. Never forget that the same authorization will be required on the subsequent requests for the next resources!
 
 #### Using Partners API
 

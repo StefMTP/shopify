@@ -1,4 +1,4 @@
-### Skroutz XML Feed
+## Skroutz XML Feed
 
 Skroutz allows merchants to send data about their products, taken from their Shopify stores, to Skroutz's body, so that they can be included and listed on skroutz.gr. However, Skroutz has its own way of accepting product information.
 
