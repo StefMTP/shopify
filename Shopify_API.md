@@ -39,23 +39,37 @@ Useful points extracted from developing Shopify store apps: embedded apps and th
 
 Making sure we have enabled the creation and testing through PRIVATE APPS, we create a new one and copy the api key and password that is given to us. Through Postman, we make requests to our shop on behalf of its private apps like this: {api-key}:{api-token}@{store-url}.admin/api/{api-version}/{api-resource}. Shopify requires this HTTP authentication.
 
+#### Authenticate on Custom and Public Apps
+
+Public and custom apps authenticate differently. While private apps allow direct access with the api key and password, in public and custom Shopify apps, authentication is achieved through **OAuth**.
+When a merchant (user) makes a request to install a public/custom app for the first time, the application (client) redirects them to Shopify, that loads the OAuth grant screen and requests the required scopes. Shopify displays the required scopes and prompts the merchant to log in. Once the merchants agrees on the scopes, they are redirected to the redirect_uri (set by the app, a ngrok tunnel in our case). The application requests an access token from Shopify including the client_id, client_secret and code. Shopify responds with the access token and the requested scopes. Now, the app has the access token and can make requests to the Shopify REST API for data.
+
+From our point of view, as creators of such an app, in order to send the merchant the prompt to install it, we are practically accepting a GET request on the app url we have set. The request parameters will include the shop, timestamp and hmac. From our side, we must remove the hmac from the query and process it through sha256 decryption using the app secret. If the authenticity of the request is verified, then we show the prompt to the user, by redirecting them to this URL:
+
+https://{shop}.myshopify.com/admin/oauth/authorize?client_id={api_key}&scope={scopes}&redirect_uri={redirect_uri}&state={nonce}&grant_options[]={access_mode}
+
+Where **shop** is the name of the user's shop, **api_key** is the api key of the app, **scopes** is a list of scopes we require from the user to grant us in order for the app to work, **redirect_uri** is the URL the user is redirected after authorizing the app, **nonce** is a unique random value for every authorization request that must be the same in the next step, and **access_mode** is either online (meant for user interactions that work with web sessions) or offline (meant for long term access to a store with no user interaction, for example something that requires automated background work such as webhooks).
+
+When the user clicks to install the app, they are redirected as specified above and the access code is passed in the confirmation redirect. Again, security checks must be made, by checking the nonce, hmac and shop parameters. If everything is ok, a POST request is made from our side to the shop's access_token endpoint (https://{shop}.myshopify.com/admin/oauth/access_token), making sure that in the body of the request, the client_id, the client_secret and code are provided. The response comes back with the access_token value (string) and scopes (a string separated by commas). If we had requested for online access mode, in the redirection step, then we also get some more data (when the token expires, information about the user etc.).
+
+Now that the application has the API access token, it can use it as a 'X-Shopify-Access-Token' header to make authenticated requests to shop REST APIs.
+
 #### Things to watch out for on the API and its docs
 
 In order to debug properly with Postman, the app needs to be under the private scope. Making requests by looking up the proper urls on the browser works for any app, but through Postman, public or custom apps don't behave in the same way (there's oAuth in the way). Make a private app and set the scopes for any endpoints to read/write so that get/post requests can be made.
 
 For some reason, the API key is called username in some parts of the documentation (and if I recall correctly, the api password is other times called access token in the error response messages).
 
-#### API resources
+#### Admin API resources
 
-The Rest Admin API is organized by resource. Obviously, that means we need to use different APIs to access different resources (the whole shop, products, orders etc.). The APIs are:
+The Rest Admin API is organized by resource. Obviously, that means we need to use different APIs to access different resources (the whole shop, products, orders etc.). The APIs are: 
 
-
-- Access: view and manage access scopes given by the merchant
-- Analytics: gives the merchant reports to analyze business performance
-- Billing: how much the apps cost (if they are paid) and what payment plans they have
-- Customers: customer details that they have filled in when making purchases and ways to edit them
-- Deprecated API calls
-- Discounts: apply discounts based on price rules you set and check them out
+- Access: View access scopes given by the merchant and give out Storefront Access Tokens to give unauthenticated access scopes to clients that need unauthenticated access to the Storefront API.
+- Analytics: Gives the merchant reports to analyze business performance.
+- Billing: Shows how much the apps cost (if they are paid) and what payment plans they have.
+- Customers: Shows customer details that the customers have filled in when making purchases, plus ways to update them.
+- Deprecated API calls: Call this endpoint to see calls your app has made in the past 30 days that are now deprecated.
+- Discounts: Apply discounts based on price rules you set and check them out.
 - **Events**: Shopify resources generate **events** when certain actions are completed (articles, blogs, collections, comments, pages, orders, price rules, products ...). With this API, a merchant can track events for any resources that are important for them. Also, by using **webhooks**, a merchant can set trigger actions when specific events occur in their shop.
 In order to create a custom webhook, for example one that tracks when our app is installed/uninstalled, let's check out the fields of Webhooks that we need to set:
     - *address*: URL where the webhook subscription must send the post request when the event occurs
@@ -63,7 +77,7 @@ In order to create a custom webhook, for example one that tracks when our app is
     -format: data format of the subscription (either "json" or "xml")
     - *topic*: event that **triggers** the webhook!
 
-***So, if we wanted to create a webhook for tracking app uninstallations, we should send a post request to the webhooks resource, with the topic being "app/uninstalled" (for some reason, there doesn't seem to be a topic for apps being installed, but we can make a trigger in our app once someone installs it).***
+***So, if we wanted to create a webhook for tracking app uninstallations, we should send a post request to the webhooks resource, with the topic being "app/uninstalled" (there doesn't seem to be a topic for apps being installed, but we can make a trigger in our app once someone installs it).***
 
 - **Inventory**: Inventory items are the physical goods available to be shipped to a customer. Every product variant (see more in the product section) has a one to one relationship with an inventory item, and every inventory item can have many locations. An inventory location can have many inventory items for many variants. Between inventory items and their locations, there are intermediate blocks called inventory levels, that represent a certain inventory item's quantity at a certain location. Locations can be a business' headquarters, stores etc.
 - Marketing Events
@@ -72,14 +86,14 @@ In order to create a custom webhook, for example one that tracks when our app is
 - Orders: lets a merchant receive, manage and process their orders (can also show how many checkouts were abandoned, can create orders on behalf of customers, can check risk analysis on orders, create refunds, transactions)
 - Plus
 
-- **Products**: Probably the most important API for our development purposes. It is split into a few different resources that we need to list in detail.
+- **Products**: The most important API for our development purposes. It is split into a few different resources that we need to list in detail.
     
     - Collection: A collection is a grouping of products that merchants create to make their store easier to browse. There are two categories of collections, **custom collections**, which contain products manually added to a collection and **smart collections**, which contain products automatically added to a collection based on a previously set condition.
     - Collect: This is the resource that connects a product to a collection. For every product there is a collect that tracks collection and product id. Obviously, since a product may be in more than one collection (a frappe mixer could be in a collection called "Kitchen Utilities" and one called "Electronics"), there will be a collect resource for every collection the product belongs to. 
     Smart collections also operate with the collect resource, but cannot be created manually, as with the custom collection, since they are **automatically created** based on the **rules** that the smart collection has set. Smart collection rules can change through the Shopify store UI, but I don't know if you can update the rules through the API (at least it is not included in the documentation).
     - Product: this resource allows you to check, update and create products in a merchant's store. As mentioned above, products can be added to collections. Products may have product variants and different product images.
         **Product endpoints to wrap our heads around**:
-        -  *id*: the unique identifier (integer) of a product across the Shopify system.
+        -  *id*: the unique identifier (integer) of a product across the Shopify system
         - *body_html*: description of the product (supports html)
         - *handle*: the slug, a human friendy string for the product
         - *images*: an array of images associated with the product
@@ -94,7 +108,7 @@ In order to create a custom webhook, for example one that tracks when our app is
         - *barcode*: barcode, UPC, ISBN of the product
         - *compare_at_price*: price before an adjustment or sale was applied
         - *price*: the actual price of the variant
-        - *presentment_prices*: an array of objects that is used to list out the prices and compare-at prices in each currency, in which every object holds two objects, one for the price and one of the compate-at price
+        - *presentment_prices*: an array of objects that is used to list out the prices and compare-at prices in each currency, in which every object holds two objects, one for the price and one of the compare-at price
         - *id*: the variant id
         - *product_id*: the product id the variant belongs to
         - *image_id*: the image associated with the variant
@@ -107,8 +121,8 @@ In order to create a custom webhook, for example one that tracks when our app is
 - Sales Channel: This API is relevant to all processes that are done through sales channels, which are apps, websites and online marketplaces, not on Shopify. Through this API you can track, create or update checkouts, payments and other resources.
 - Shipping & fullfilment: We already know that an order is a customer's completed request to purchase one or more products from a shop, meaning they have completed the checkout process. Every order has a fulfillment resource, which tracks if the items in an order are shipped and received by the customer or not, whether it was cancelled etc. Upon the creation of an order (when a checkout was completed), Shopify decrements the inventory of that variant, but it doesn't yet know which location the item will be fulfilled from (which shop/warehouse the customer will receive the item from), unless the order is placed through Shopify POS. Shopify then decrements the inventory level at the location with the lowest ID.
 When the order is actually fulfilled, the fulfillment now includes the fullfillment location id, so Shopify has to check whether it was right with the location it chose to decrement its inventory level. If it wasn't, then it raises the inventory level of the assumed location and lowers the level of the correct location.
-- Shopify Payments: holds info on a merchant's Shopify Payments account (current balance, disputes, payouts and transactions).
-- Store properties: manages a store's configuration (country, currency, province etc.)
+- Shopify Payments: Holds info on a merchant's Shopify Payments account (current balance, disputes, payouts and transactions).
+- Store properties: Manages a store's configuration (country, currency, province etc.)
 - Tender Transactions: Tender transactions represent transactions that modify the shop's balance.
 
 #### API rate limits
@@ -192,4 +206,4 @@ This query finds all events that match the relationship installed type for the a
 
 
 
-### In the future: Storefront API
+### A view on the Storefront API
