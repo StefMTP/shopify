@@ -58,7 +58,7 @@ Common usage: navigation, along with headers and titles, in banner messages, inl
 
 ## Authentication
 
-In Shopify, apps that are embedded on Shopify admin do not rely on third party cookies to store sensitive merchant info. Instead, it uses session tokens to make requests to the backend. The backend uses this token to determine the user's identity.
+In Shopify, apps that are embedded on Shopify admin do not rely on third party cookies to store sensitive merchant info. Instead, they use session tokens to make requests to the backend. The backend uses this token to determine the user's identity.
 
 Session tokens go hand to hand with OAuth, because the backend still needs to have an API Access Token to make requests to Shopify's APIs.
 
@@ -75,7 +75,12 @@ The two last steps are repeated whenever the frontend requires data from the bac
 
 ### Session token request flow
 
-The request is sent with the session token. Is the session token invalid, or expired? Then the request must be rejected. If not, then does the app have an access token for the shop making the request? If not, we must go through OAuth. Otherwise, the backend responds to the request immediately.
+The request is sent with the session token. 
+***Is the session token invalid, or expired?*** 
+Then the request must be rejected. 
+***If not, then does the app have an access token for the shop making the request?*** 
+If not, we must go through OAuth. 
+Otherwise, the backend responds to the request immediately.
 
 The session token is a standard JSON Web Token that is comprised of three fields: 
 
@@ -90,7 +95,7 @@ The response we send to Shopify must have a Content-Security-Policy header set t
 
 The initial OAuth redirect for authorization must occur at parent level, outside the iframe the app is loaded inside. Depending on what the current 'window' is, we redirect the user differently, but they still see the install permission prompt.
 
-The shopOrigin value is required to lock communication with just the one shop currently using the application. It is the encoded value of the shop name, that we can manually extract from the installation confirmation url of the authorization process. App Bridge requires this shop value, so it is best to be stored for the duration of the user session (Could be stored in an Adonis session key-value pair as a http only cookie).
+The shopOrigin value is required to lock communication with just the one shop currently using the application. It is the encoded value of the shop name, that we can manually extract from the installation confirmation url of the authorization process. App Bridge requires this shop value, so it is best to be stored for the duration of the user session (Could be stored in an Adonis session key-value pair as a http only cookie, or a signed/plain cookie).
 
 After the auth flow, the user will end up at the redirect url (recommended to let App Bridge redirect the user back to Shopify to ensure the app is embedded in the admin).
 
