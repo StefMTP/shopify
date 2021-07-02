@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-7"?>
+<store>
+<date>2017-03-15 16:17</date>
+<products>
+​​ ​​
+<product>
+<productId>1001</productId>
+<title><![CDATA[Apple iPhone 7 32GB μαύρο]]></title> <price>1.000,30</price>
+<imagesURL>
+​​​<img1>http://www.samplestore.gr/img/img_1001.jpg</img1> ​​​<img2>.....</img2>
+.....
+.....
+        <img...>.....</img...>
+    </imagesURL>
+<productURL>http://www.samplestore.gr/?product_id=1001</productURL> <category_id>110</category_id>
+<category_name><![CDATA[Τεχνολογία -> Κινητή Τηλεφωνία -> Κινητά Τηλέφωνα]]></category_name> <color>μαύρο</color>
+    <features>
+        <table>
+<tr>
+<td>Ανάλυση κάμερας</td> <td>12MP</td>
+            </tr>
+        </table>
+</features>
+<manufacturer>Apple</manufacturer> ​​ <stock>Y</stock>
+<availability>Διαθέσιμο σε 4-7 ημέρες</availability> <mpn>MN8X2ZD/A</mpn> ​​ <warranty_provider>EU</warranty_provider> ​​ <warranty_duration>24</warranty_duration>
+​​ <isBundle>N</isBundle> <weight>1000</weight> <shipping>3.5</shipping>
+</product>
+<product>
+<productId>2001</productId>
+<title><![CDATA[Γυναικεία μπλουζα Levis]]></title>
+<price>35.50</price> ​​ <image>http://www.samplestore.gr/img/img_2002.jpg</image> ​​ <productURL>http://www.samplestore.gr/?product_id=1002</productURL> <category_id>210</category_id> ​​ <category_name><![CDATA[Ένδυση->Γυναικεία-> Μ πλούζες]]></category_name> <color>blue</color>
+<manufacturer>Levis</manufacturer>
+<stock>Ν</stock>
+<availability>Κατόπιν παραγγελίας</availability>
+<size>S,M</size>
+</product>
+<product>
+<productId>3001</productId>
+<title><![CDATA[Μικροί παράδεισοι]]></title>
+<price>31.49</price>
+<image>http://www.samplestore.gr/img/img_3002.jpg</image> ​​​ <productURL>http://www.samplestore.gr/?product_id=1002</productURL> ​​​ <category_id>310</category_id>
+<category_name><![CDATA[Βιβλία->Γεωργία και συναφείς τεχνολογίες->Γεωργία]]></category_name> <stock>Y</stock>
+<availability>Παράδοση σε 1-3 ημέρες</availability>
+<isbn>960-6604-92-6</isbn>
+​​​ ​​​
+​​​
+​​</product> </products>
+</store>
