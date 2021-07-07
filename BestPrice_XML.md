@@ -37,7 +37,7 @@ There are some fields that required for certain items:
 
 Other fields not necessarily required:
 
-- categoryID: the id of the category that the product belongs to in the store 
+- categoryID (str): the id of the category that the product belongs to in the store 
 - stock (List - Y/N): the stock status of the product, can be either Y or N, as in yes or no. If the field is empty however, the product availability is set to "Κατόπιν παραγγελίας".
 - color (str): the color of the product, products that come in different colors must be listed as different products
 - warranty_provider (List - GR/EU/STORE): the provider of the product warranty

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SHOP>
+<SHOPITEM>
+<ITEM_ID>abc123</ITEM_ID>
+<ITEMGROUP_ID>A86</ITEMGROUP_ID>
+<PRODUCTNAME>Adidas Superstar II</PRODUCTNAME>
+<DESCRIPTION><![CDATA[Παπούτσια lifestyle από τη συλλογή adidas Originals από δέρμα υψηλής ποιότητας.]]></DESCRIPTION>
+<URL>http://www.example.com/adidas-superstar-ii-2015/</URL>
+<URL_SIZE>http://www.example.com/adidas-superstar-ii-2015/?size=41</URL_SIZE>
+<IMGURL>http://images.example.com/adidas-superstar-ii-2015.jpg</IMGURL>
+<IMGURL_ALTERNATIVE>http://images.example.com/adidas-superstar-ii-2015-alt-1.jpg</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>http://images.example.com/adidas-superstar-ii-2015-alt-2.jpg</IMGURL_ALTERNATIVE>
+<IMGURL_ALTERNATIVE>http://images.example.com/adidas-superstar-ii-2015-alt-3.jpg</IMGURL_ALTERNATIVE>
+<PRICE_VAT>1390</PRICE_VAT>
+<MANUFACTURER>Adidas</MANUFACTURER>
+<CATEGORYTEXT>Glami.gr | Γυναικεία ρούχα και παπούτσια | Γυναικεία ρούχα | Φόρεμα</CATEGORYTEXT>
+<EAN>1234567890123</EAN>
+<GLAMI_CPC>0.0456</GLAMI_CPC>
+<PROMOTION_ID>12</PROMOTION_ID>
+<PARAM>
+<PARAM_NAME>μέγεθος</PARAM_NAME>
+<VAL>41</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>size_system</PARAM_NAME>
+<VAL>EU</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>χρώμα</PARAM_NAME>
+<VAL>λευκό</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>μήκος</PARAM_NAME>
+<VAL>τυπικό</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>υλικό φόδρας</PARAM_NAME>
+<VAL>βαμβάκι</VAL>
+<PERCENTAGE>50%</PERCENTAGE>
+</PARAM>
+<PARAM>
+<PARAM_NAME>υλικό φόδρας</PARAM_NAME>
+<VAL>πολυεστέρας</VAL>
+<PERCENTAGE>50%</PERCENTAGE>
+</PARAM>
+<PARAM>
+<PARAM_NAME>υλικό σόλας</PARAM_NAME>
+<VAL>καουτσούκ</VAL>
+<PERCENTAGE>100%</PERCENTAGE>
+</PARAM>
+<PARAM>
+<PARAM_NAME>περίσταση</PARAM_NAME>
+<VAL>τρέξιμο;άνοιξη;καλοκαίρι;φθινόπωρο</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>σχέδιο</PARAM_NAME>
+<VAL>μονόχρωμο</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>σεζόν</PARAM_NAME>
+<VAL>άνοιξη;καλοκαίρι;φθινόπωρο</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>στυλ</PARAM_NAME>
+<VAL>lifestyle</VAL>
+</PARAM>
+<PARAM>
+<PARAM_NAME>είδος</PARAM_NAME>
+<VAL>Αστραγάλου</VAL>
+</PARAM>
+<DELIVERY_DATE>0</DELIVERY_DATE>
+<DELIVERY>
+<DELIVERY_ID>PPL</DELIVERY_ID>
+<DELIVERY_PRICE>69</DELIVERY_PRICE>
+<DELIVERY_PRICE_COD>109</DELIVERY_PRICE_COD>
+</DELIVERY>
+<DELIVERY>
+<DELIVERY_ID>Česká pošta</DELIVERY_ID>
+<DELIVERY_PRICE>59</DELIVERY_PRICE>
+<DELIVERY_PRICE_COD>99</DELIVERY_PRICE_COD>
+</DELIVERY>
+</SHOPITEM>
+</SHOP>
