@@ -80,11 +80,22 @@ In order to create a custom webhook, for example one that tracks when our app is
 ***So, if we wanted to create a webhook for tracking app uninstallations, we should send a post request to the webhooks resource, with the topic being "app/uninstalled" (there doesn't seem to be a topic for apps being installed, but we can make a trigger in our app once someone installs it).***
 
 - **Inventory**: Inventory items are the physical goods available to be shipped to a customer. Every product variant (see more in the product section) has a one to one relationship with an inventory item, and every inventory item can have many locations. An inventory location can have many inventory items for many variants. Between inventory items and their locations, there are intermediate blocks called inventory levels, that represent a certain inventory item's quantity at a certain location. Locations can be a business' headquarters, stores etc.
-- Marketing Events
-- Metafields: metafields are pieces of data that apps attach to products, customers, orders etc. They can attach additional info that otherwise cannot be placed into other categories, such as instructions for washing and drying for a certain apparel item.
+- Marketing Events.
+- **Metafields**: metafields are pieces of data that apps attach to products, customers, orders etc. They can attach additional info that otherwise cannot be placed into other categories, such as instructions for washing and drying for a certain apparel item. <span style="color:orange; font-weight:bold">!!! UPDATE THIS, NOW METAFIELDS ARE STARTING TO BECOME A BIG THING WITH NEW METAFIELD TYPES (AND PROBABLY WILL USE THEM INSTEAD OF PRODUCT TAGS) !!!</span>
+    **Metafield properties:**
+    - *id*: unique id of the metafield
+    - *key*: the name of the metafield
+    - *value*: the information stored as metadata
+    - *type*: the type of the value stored in this metafield (single_line_text_field, multi_line_text_field, page_reference, product_reference, variant_reference, file_reference, number_integer, number_decimal, date, date_time, url, json, boolean, color, weight, volume, dimension)
+    - *description*: a description of the information that the metafield contains
+    - *owner_resource*: since metafields can be attached to a lot of types of resources, this attribute informs us of the resource the metafield refers to
+    - *owner_id*: the unique id of the resource the metafield is attached to (if the resource is a product, this will be the product_id)
+    - *namespace*: a container for a set of metafields (custom, needs to exists in order to differentiate our own app's metafields for other apps)
+    - *created_at*: creation date
+    - *updated_at*: last update date
 - Online Store: an API that has to do with the merchant's online storefront and its content (articles, pages, blogs, redirects, comments, themes etc.)
 - Orders: lets a merchant receive, manage and process their orders (can also show how many checkouts were abandoned, can create orders on behalf of customers, can check risk analysis on orders, create refunds, transactions)
-- Plus
+- Plus.
 
 - **Products**: The most important API for our development purposes. It is split into a few different resources that we need to list in detail.
     
@@ -99,7 +110,7 @@ In order to create a custom webhook, for example one that tracks when our app is
         - *images*: an array of images associated with the product
         - *options*: an array the options of the product that the variants will be based on
         - status: active (ready to sell, available to customers), archived (no longer being sold, unavailable to customers), draft (not yet ready to sell and become available to customers)
-        - *tags*: string of comma separated tags (why not array?)
+        - *tags*: string of comma separated tags 
         - *title*: the name of the product
         - *vendor*: the product's supply chain
         - ***variants***: an array that lists out product variants for a product
@@ -122,7 +133,7 @@ In order to create a custom webhook, for example one that tracks when our app is
 - Shipping & fullfilment: We already know that an order is a customer's completed request to purchase one or more products from a shop, meaning they have completed the checkout process. Every order has a fulfillment resource, which tracks if the items in an order are shipped and received by the customer or not, whether it was cancelled etc. Upon the creation of an order (when a checkout was completed), Shopify decrements the inventory of that variant, but it doesn't yet know which location the item will be fulfilled from (which shop/warehouse the customer will receive the item from), unless the order is placed through Shopify POS. Shopify then decrements the inventory level at the location with the lowest ID.
 When the order is actually fulfilled, the fulfillment now includes the fullfillment location id, so Shopify has to check whether it was right with the location it chose to decrement its inventory level. If it wasn't, then it raises the inventory level of the assumed location and lowers the level of the correct location.
 - Shopify Payments: Holds info on a merchant's Shopify Payments account (current balance, disputes, payouts and transactions).
-- Store properties: Manages a store's configuration (country, currency, province etc.)
+- Store properties: Manages a store's configuration (country, currency, province etc.).
 - Tender Transactions: Tender transactions represent transactions that modify the shop's balance.
 
 #### API rate limits
@@ -207,3 +218,5 @@ This query finds all events that match the relationship installed type for the a
 
 
 ### A view on the Storefront API
+
+*Coming soon...*
