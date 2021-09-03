@@ -30,11 +30,11 @@ Apart from these specifications, there is a list of **required attributes** that
 
 There are also some fields that are **required on certain items**, these are: 
 
+- Description (str): the description/explanation of the product (strongly recommended for all products)
 - Size (str): all available sizes for the product can be included separated by commas (required for fashion items)
 - Additional Image Link (str): URL that points to additional photos of the product (required for fashion items)
 - Weight (decimal): the weight of the product in grams or kgs (required when shops use weight for their shipping cost rules)
 - Color (str): the color of the product (products with different color options must be sumbitted as different products, color is required for fashion items)
-- Description (str): the description/explanation of the product (strongly recommended for all products)
 
 Other attributes that are **not necessarily required**:
 
@@ -45,7 +45,7 @@ Other attributes that are **not necessarily required**:
 **Important notes:**
 - Shopify provides us with variants and we list them as separate products
 - Need to check out whether a product that is not in stock is listed or not in the Skroutz website
-- How are category paths created for our products (product tags?)
+- How are category paths created for our products - **Merchant links each product type to a category path**
 - Availability
 - In stock
 
