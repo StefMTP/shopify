@@ -1,0 +1,2215 @@
+[
+    {
+        "code": "delivery_time",
+        "values": [
+            {
+                "shop": "123oogdruppels.myshopify.com",
+                "value": "1 to 3 days"
+            },
+            {
+                "shop": "123presets.myshopify.com",
+                "value": "Overnight"
+            },
+            {
+                "shop": "3beez-gr.myshopify.com",
+                "value": "Delivery 1 to 5 days"
+            },
+            {
+                "shop": "4apet.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "a-masks.myshopify.com",
+                "value": "Άμεσα διαθέσιμο"
+            },
+            {
+                "shop": "abschlusswelt.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "ace1t.myshopify.com",
+                "value": "5-10 days"
+            },
+            {
+                "shop": "aeolsrl.myshopify.com",
+                "value": "1-2 zile"
+            },
+            {
+                "shop": "agnes-sofie.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "aighard-com.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "aimmazing.myshopify.com",
+                "value": "1 Day"
+            },
+            {
+                "shop": "akaprice.myshopify.com",
+                "value": "5-7"
+            },
+            {
+                "shop": "akcioplaza.myshopify.com",
+                "value": "2-5 nap"
+            },
+            {
+                "shop": "allforyou-cy.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "alpacissimi.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "amamelis-r.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "amber-digital.myshopify.com",
+                "value": "Instant download"
+            },
+            {
+                "shop": "anelia-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "angelo-di-spirito-rosa.myshopify.com",
+                "value": "Delivery 3 to 5 days"
+            },
+            {
+                "shop": "animojo-fr.myshopify.com",
+                "value": "Livraison en 6 à 9 jours"
+            },
+            {
+                "shop": "apero-rocket.myshopify.com",
+                "value": "30 minutes"
+            },
+            {
+                "shop": "apollocalculator.myshopify.com",
+                "value": "12 to 21 days"
+            },
+            {
+                "shop": "aquecimento-exterior.myshopify.com",
+                "value": "Entrega de 7 to 10 dias úteis"
+            },
+            {
+                "shop": "aromamoon.myshopify.com",
+                "value": "delivery time 30- 50 day"
+            },
+            {
+                "shop": "art-scrubs.myshopify.com",
+                "value": "4-10 μέρες"
+            },
+            {
+                "shop": "artensouth.myshopify.com",
+                "value": "Delivery 1 - 3 days"
+            },
+            {
+                "shop": "artesintonia.myshopify.com",
+                "value": "Prazo de entrega: 08 a 12 dias úteis"
+            },
+            {
+                "shop": "arzewena.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "asya-butik.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "atticgo.myshopify.com",
+                "value": "1 - 3 days"
+            },
+            {
+                "shop": "augluserviss.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "authenticbagsandmore.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "avarcas-australia.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "axwelltr.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "b2fashionshop.myshopify.com",
+                "value": "Παράδοση σε 4 - 10 ημέρες"
+            },
+            {
+                "shop": "b-harolds.myshopify.com",
+                "value": "3"
+            },
+            {
+                "shop": "babylissgr.myshopify.com",
+                "value": "Αποστολή σε 1 έως 3 εργάσιμες"
+            },
+            {
+                "shop": "bacanices.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "baetter.myshopify.com",
+                "value": "Lieferung innerhalb von 3 - 5 Tagen"
+            },
+            {
+                "shop": "bagwarsnew.myshopify.com",
+                "value": "Delivery 5 to 20 days"
+            },
+            {
+                "shop": "balui-es.myshopify.com",
+                "value": "Envío de 3 a 7 días"
+            },
+            {
+                "shop": "bassilis.myshopify.com",
+                "value": "Παράδοση 4 έως 10 ημέρες "
+            },
+            {
+                "shop": "beautify-my-walls.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "beauty-flakes.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "beautycollection-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "beautyone-gr.myshopify.com",
+                "value": "3"
+            },
+            {
+                "shop": "bebemama-com.myshopify.com",
+                "value": "3"
+            },
+            {
+                "shop": "beccaskulture.myshopify.com",
+                "value": "5-19 business"
+            },
+            {
+                "shop": "bee-and-you-web.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "bernabutor.myshopify.com",
+                "value": "Szállítás 1-5 hét"
+            },
+            {
+                "shop": "bestarboutique.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "bestpistolgrips.myshopify.com",
+                "value": "Delivery 4-5 working days after finishing your product"
+            },
+            {
+                "shop": "bestydeals-gr.myshopify.com",
+                "value": "Άμεσα διαθέσιμο"
+            },
+            {
+                "shop": "beztest.myshopify.com",
+                "value": "Παράδοση από 1 - 3 ημέρες"
+            },
+            {
+                "shop": "bfocusgr.myshopify.com",
+                "value": "Delivery 1 to 3 Days"
+            },
+            {
+                "shop": "bienartmode.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "bioloka-de.myshopify.com",
+                "value": "5"
+            },
+            {
+                "shop": "bitcoinwardrobe.myshopify.com",
+                "value": "7 to 20 days"
+            },
+            {
+                "shop": "blisskgs.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "blugi.myshopify.com",
+                "value": "1-3 zile"
+            },
+            {
+                "shop": "blushgreece-shop.myshopify.com",
+                "value": "Delivery 10 to 15 days"
+            },
+            {
+                "shop": "blushgreece.myshopify.com",
+                "value": "10 to 15 days"
+            },
+            {
+                "shop": "bogner-sportsfashion.myshopify.com",
+                "value": "1 bis 2 Tage"
+            },
+            {
+                "shop": "bolero-shoes.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "bondi-fashion.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "bonvion.myshopify.com",
+                "value": "Delivery 2 to 10 days"
+            },
+            {
+                "shop": "books4people.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "bossabrasil.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "boxgamesnl.myshopify.com",
+                "value": "Per product verschillend"
+            },
+            {
+                "shop": "brandsluxury-outlet.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "brandstore-sp.myshopify.com",
+                "value": "Entrega em 5 à 8 dias úteis"
+            },
+            {
+                "shop": "brettos-plaka.myshopify.com",
+                "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "bronn.myshopify.com",
+                "value": "Delivery 1 to 5 days"
+            },
+            {
+                "shop": "bruu-much.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "camolots.myshopify.com",
+                "value": "Delivery 0-8 days"
+            },
+            {
+                "shop": "canvasgift-ro.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "careforyou-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "cartsecure.myshopify.com",
+                "value": "3-6 business days"
+            },
+            {
+                "shop": "caseflou.myshopify.com",
+                "value": "Delivery 7 to 14 days"
+            },
+            {
+                "shop": "caseland-marketplace.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "castelli-bags.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "cavaierwatch.myshopify.com",
+                "value": "3-5 Days"
+            },
+            {
+                "shop": "cavistarm.myshopify.com",
+                "value": "Calcule entrega no Checkout"
+            },
+            {
+                "shop": "cbdhouse-shop.myshopify.com",
+                "value": "Versand 1 bis 3 Tage"
+            },
+            {
+                "shop": "cbdtechfr.myshopify.com",
+                "value": "Livraison 3 a 5 Jours "
+            },
+            {
+                "shop": "ceu-kids.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "cheaphouse-gr.myshopify.com",
+                "value": "Άμεσα Διαθέσιμο"
+            },
+            {
+                "shop": "christianity-art-greek-store.myshopify.com",
+                "value": "Άμεση Παράδοση 1-3 ημέρες"
+            },
+            {
+                "shop": "click2bay-com.myshopify.com",
+                "value": "Delivery 10 15 days"
+            },
+            {
+                "shop": "clickandone.myshopify.com",
+                "value": "Παράδοση σε 4-5 ημέρες"
+            },
+            {
+                "shop": "coccaps-tr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "coffeestorye.myshopify.com",
+                "value": "1 - 3 günde teslimat"
+            },
+            {
+                "shop": "coil-kingz.myshopify.com",
+                "value": "2-5 Days Approximately"
+            },
+            {
+                "shop": "computer-orbit.myshopify.com",
+                "value": "2-3 Working Days"
+            },
+            {
+                "shop": "conjure-man.myshopify.com",
+                "value": "Delivery 1 to 7 days"
+            },
+            {
+                "shop": "connection-e-girl.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "cosmeticbay-gr.myshopify.com",
+                "value": "Παράδοση 4 έως 10 ημέρες"
+            },
+            {
+                "shop": "crocus-collector-existanze.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "cryptoholic-shop.myshopify.com",
+                "value": "Delivery: 10 to 43 business days, depending on your location"
+            },
+            {
+                "shop": "crystallotus-eu.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "csgoshop-cz.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "cutepodarok.myshopify.com",
+                "value": "2 - 5 дней"
+            },
+            {
+                "shop": "cv-directo.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "dagiopoulos.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 4 έως 10 ημέρες"
+            },
+            {
+                "shop": "dama-cosmetiicos.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "dcanteysgifts.myshopify.com",
+                "value": "free 3-7 day shipping"
+            },
+            {
+                "shop": "dd-e-shop.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "de-sunglasses-com.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "dealakias.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "dear-denier.myshopify.com",
+                "value": "Levering 1-2 hverdage"
+            },
+            {
+                "shop": "designer-mask-co.myshopify.com",
+                "value": "Standard 2-7 Working Day Delivery"
+            },
+            {
+                "shop": "dezaart-crafts.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "dezorgfirma.myshopify.com",
+                "value": "1 - 3 werkdagen"
+            },
+            {
+                "shop": "digitalsbg.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "dillashop.myshopify.com",
+                "value": "3"
+            },
+            {
+                "shop": "dimlaj-europe.myshopify.com",
+                "value": "Delivery 4 to 7 days"
+            },
+            {
+                "shop": "dinotoyz.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "dirtea-world.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "divine-gifts-unicorn-slovakia.myshopify.com",
+                "value": "Dodanie do 24 hodín."
+            },
+            {
+                "shop": "divineseeds-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "doghouse-gr.myshopify.com",
+                "value": "Delivery 4 to 10 days"
+            },
+            {
+                "shop": "dominosstore.myshopify.com",
+                "value": "Versand von 1 bis 4 Tage"
+            },
+            {
+                "shop": "doorado-eshop.myshopify.com",
+                "value": "Παράδοση 1-3 ημέρες"
+            },
+            {
+                "shop": "doornbike.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "dorgan-rawlings-limited.myshopify.com",
+                "value": "Standard delivery 3-5 working days - £3.99 (free orders over £30), next day delivery - £5.99"
+            },
+            {
+                "shop": "drakoulis.myshopify.com",
+                "value": "Παράδοση 1-3 ημέρες"
+            },
+            {
+                "shop": "drinkwell-store.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "dropbuy-eu.myshopify.com",
+                "value": "Παράδοση 4 έως 10 ημέρες"
+            },
+            {
+                "shop": "durtech.myshopify.com",
+                "value": "Delivery 3 to 7 days"
+            },
+            {
+                "shop": "easyagores.myshopify.com",
+                "value": "Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "eelahsasstyleexpressions.myshopify.com",
+                "value": "Delivery 5 to 8 days"
+            },
+            {
+                "shop": "eguana-gr.myshopify.com",
+                "value": "Παράδοση σε 1 - 3 ημέρες"
+            },
+            {
+                "shop": "ekavishop.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "electroplus-gr.myshopify.com",
+                "value": "Παράδοση 1 έως 3 μέρες"
+            },
+            {
+                "shop": "ellisargiboutique.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "eln-online-store-philippines.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "emakshoes.myshopify.com",
+                "value": "Παράδοση 1 έως 3 μέρες"
+            },
+            {
+                "shop": "emporia-jewerly.myshopify.com",
+                "value": "Lieferzeit 2-6 Werktage. Versandkostenfreie Lieferung."
+            },
+            {
+                "shop": "era24.myshopify.com",
+                "value": "Toimitus jopa 1-3 päivässä"
+            },
+            {
+                "shop": "erotica-adult-superstore.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "essentials-time.myshopify.com",
+                "value": "Lieferzeit: 2-5 Werktage"
+            },
+            {
+                "shop": "facefashion-gr.myshopify.com",
+                "value": "Άμεσα Διαθέσιμο"
+            },
+            {
+                "shop": "familus.myshopify.com",
+                "value": "Delivery 4 to 10 days"
+            },
+            {
+                "shop": "farmaperme.myshopify.com",
+                "value": "Spedizione in 24|48 h"
+            },
+            {
+                "shop": "fashion-brands-you.myshopify.com",
+                "value": "Delivery 3 to 5 days"
+            },
+            {
+                "shop": "fashionblackstyle.myshopify.com",
+                "value": "▷ Fashion online clothing store for men and women | FASHIONS BLACK"
+            },
+            {
+                "shop": "fazzom.myshopify.com",
+                "value": "delivery 3 to 5days"
+            },
+            {
+                "shop": "fhshop-nl.myshopify.com",
+                "value": "Levering binnen 1 tot 8 werkdagen"
+            },
+            {
+                "shop": "fishtaghome.myshopify.com",
+                "value": "Custom"
+            },
+            {
+                "shop": "fittingroom-gr.myshopify.com",
+                "value": "Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "flashybox.myshopify.com",
+                "value": "5 to 7"
+            },
+            {
+                "shop": "flushsell.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "flying-tumbler-euro.myshopify.com",
+                "value": "Delivery in 3 to 5 days"
+            },
+            {
+                "shop": "folders-nz.myshopify.com",
+                "value": "Delivery 1 - 5 Days"
+            },
+            {
+                "shop": "fragile-collection.myshopify.com",
+                "value": "Livrare 5 - 7 zile"
+            },
+            {
+                "shop": "freelinebrands4all.myshopify.com",
+                "value": "Παράδοση σε 1-3 μέρες"
+            },
+            {
+                "shop": "fullhair-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "fun-planet-toys.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "funkdaqueen.myshopify.com",
+                "value": "Delivery  3 to 6 days"
+            },
+            {
+                "shop": "furnhouse-aps.myshopify.com",
+                "value": "Delivery 2 to 5 days"
+            },
+            {
+                "shop": "gate-automation-gr.myshopify.com",
+                "value": "Άμεσα διαθέσιμο"
+            },
+            {
+                "shop": "gberti.myshopify.com",
+                "value": "Delivery 7 to 15 days"
+            },
+            {
+                "shop": "geek-tool.myshopify.com",
+                "value": "4 days"
+            },
+            {
+                "shop": "gengibre-pt.myshopify.com",
+                "value": "5"
+            },
+            {
+                "shop": "george-tatakis.myshopify.com",
+                "value": "Delivery 1 to 5 days"
+            },
+            {
+                "shop": "gestimoda.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "getthatgame.myshopify.com",
+                "value": "Παράδοση 1 - 3 μέρες"
+            },
+            {
+                "shop": "ginuniverset.myshopify.com",
+                "value": "Leveringstid 1-3 hverdage"
+            },
+            {
+                "shop": "giorgio-mandelli.myshopify.com",
+                "value": "Delivery 2 to 4 days"
+            },
+            {
+                "shop": "girafonbleu.myshopify.com",
+                "value": "Livraisons 3 à 5 jours ouvrés"
+            },
+            {
+                "shop": "glasino.myshopify.com",
+                "value": "3 dny"
+            },
+            {
+                "shop": "globehope-fi.myshopify.com",
+                "value": "Delivery 3 to 5 days"
+            },
+            {
+                "shop": "go-minimal-house.myshopify.com",
+                "value": "Default Delivery time: Delivery 15 to 42 days"
+            },
+            {
+                "shop": "goldygr.myshopify.com",
+                "value": "1-3"
+            },
+            {
+                "shop": "golfladan-2020.myshopify.com",
+                "value": "1 day"
+            },
+            {
+                "shop": "grandcruvinhos.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "grapevital.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "greenleaf-online-shop.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "growhairbrasil.myshopify.com",
+                "value": "10-30 dias"
+            },
+            {
+                "shop": "h0ts0urce.myshopify.com",
+                "value": "Delivery 3 - 5 Working days"
+            },
+            {
+                "shop": "hair-claudia.myshopify.com",
+                "value": "changes"
+            },
+            {
+                "shop": "halifaks.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "halloween-found.myshopify.com",
+                "value": "6:00"
+            },
+            {
+                "shop": "hang-ten-surfshop.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "happy-selection-pt.myshopify.com",
+                "value": "Envio de 3 a 4 dias"
+            },
+            {
+                "shop": "harrogate-organics.myshopify.com",
+                "value": "Delivery 1-2 Days "
+            },
+            {
+                "shop": "hebekidshome.myshopify.com",
+                "value": "Delivery time 20 days"
+            },
+            {
+                "shop": "helessence.myshopify.com",
+                "value": "Αποστολή σε 1-3 εργάσιμες ημέρες"
+            },
+            {
+                "shop": "heliacosmos.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "heritage-bathware.myshopify.com",
+                "value": "orders ship within 7-10 working days"
+            },
+            {
+                "shop": "hetlek.myshopify.com",
+                "value": "2-5 vardagar"
+            },
+            {
+                "shop": "hitechstore-io.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "hobbycolours.myshopify.com",
+                "value": "According to our shipping policy "
+            },
+            {
+                "shop": "hobbytheory.myshopify.com",
+                "value": "Παράδοση σε 1 - 3 ημέρες"
+            },
+            {
+                "shop": "hogart-eu.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "homedecorily.myshopify.com",
+                "value": "14 days"
+            },
+            {
+                "shop": "honey-georgaka.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "hoodie0606.myshopify.com",
+                "value": "10 to 15 days"
+            },
+            {
+                "shop": "hookesinteriors.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "hopefashionuk.myshopify.com",
+                "value": "Delivery 2-5 days"
+            },
+            {
+                "shop": "house-of-flora.myshopify.com",
+                "value": "4 to 7 days"
+            },
+            {
+                "shop": "huisentuinspullen.myshopify.com",
+                "value": "1 to 3 days"
+            },
+            {
+                "shop": "hulaloop-gr.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "hush-puppies-portugal.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "hype-n-chic-store.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "icasebrasil.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "icoon.myshopify.com",
+                "value": "Αποστολή σε 2 - 4 εργάσιμες"
+            },
+            {
+                "shop": "id-demo-store.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "ideashopgr.myshopify.com",
+                "value": "Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "ikonomakisgr.myshopify.com",
+                "value": "Άμεση αποστολή (1-3 ημέρες)"
+            },
+            {
+                "shop": "imalentstore.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "inartshop.myshopify.com",
+                "value": "Delivery 4 to 10 days"
+            },
+            {
+                "shop": "infinuty.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "innesvingen.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "iplove-epilator.myshopify.com",
+                "value": "7-14"
+            },
+            {
+                "shop": "ismini-kallergi.myshopify.com",
+                "value": "Delivery 8 to 10 days"
+            },
+            {
+                "shop": "ithinksmart.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "jahflorek.myshopify.com",
+                "value": "1-3 Werktage"
+            },
+            {
+                "shop": "jenicart.myshopify.com",
+                "value": "delivery 3 to 7 days"
+            },
+            {
+                "shop": "jewels-vogue.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "jlvgr.myshopify.com",
+                "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "jocalia-gr.myshopify.com",
+                "value": "Παράδοση σε 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "jovonna-london.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "juma-ideen.myshopify.com",
+                "value": "Instant Download"
+            },
+            {
+                "shop": "justleathergr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "kara-spain.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "karakas-stores.myshopify.com",
+                "value": "Παράδοση 1 έως ημέρες"
+            },
+            {
+                "shop": "karma-sauce.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "katecase.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "katoglou-store.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "keeks-in.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "kervansanal.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "keyesd.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "kids-building-bricks.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "kiht.myshopify.com",
+                "value": "Delivery 3-5 days "
+            },
+            {
+                "shop": "kissthehippo01.myshopify.com",
+                "value": "Delivery 1 to 3 Days"
+            },
+            {
+                "shop": "kosmimatakia-gr.myshopify.com",
+                "value": "3-5 ημέρες"
+            },
+            {
+                "shop": "kpopus.myshopify.com",
+                "value": "3 to 10 days"
+            },
+            {
+                "shop": "kuyichistore.myshopify.com",
+                "value": "Delivery 1 to 5 days"
+            },
+            {
+                "shop": "kz-fones-013.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "l-ones.myshopify.com",
+                "value": "Deliver 1 working day"
+            },
+            {
+                "shop": "la-boutique-daure.myshopify.com",
+                "value": "Livraison en 2 à 5 jours"
+            },
+            {
+                "shop": "la-carta-gr.myshopify.com",
+                "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "la-stampa-shop.myshopify.com",
+                "value": "Παράδοση σε 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "laceboutique-gr.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "lackto.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "laura-ashley-greece.myshopify.com",
+                "value": "Παράδοση 3-5 Εργάσιμες"
+            },
+            {
+                "shop": "laure-green.myshopify.com",
+                "value": "2-10 Werktage"
+            },
+            {
+                "shop": "lavenderworld.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "lemon-lunar-uk.myshopify.com",
+                "value": "Delivery 3 - 5 Days"
+            },
+            {
+                "shop": "leonidasathina.myshopify.com",
+                "value": "Παράδοση 4 έως 10 ημέρες "
+            },
+            {
+                "shop": "lets-fibre-store.myshopify.com",
+                "value": "Delivery 1 to 22 days"
+            },
+            {
+                "shop": "liberitae-pruebas-2.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "limaellimon.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "lj-unlimited.myshopify.com",
+                "value": "2-4 days"
+            },
+            {
+                "shop": "loftonstore.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "london-outlet-store.myshopify.com",
+                "value": "EU Saver (4 - 6 Working Days) tracking     "
+            },
+            {
+                "shop": "loritasdev.myshopify.com",
+                "value": "Delivery 2 to 3 days"
+            },
+            {
+                "shop": "loumidi.myshopify.com",
+                "value": "Άμεση παράδοση 1-3 ημέρες"
+            },
+            {
+                "shop": "lovediva.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "loveyourselfuk.myshopify.com",
+                "value": "Default Delivery time: Delivery 1 to 3 days"
+            },
+            {
+                "shop": "luvr-clothing.myshopify.com",
+                "value": "Παράδoση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "luxe-bags-aus.myshopify.com",
+                "value": "10 to 15 days"
+            },
+            {
+                "shop": "luxe-tones.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "luxolympus-collection.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "maitez-shop.myshopify.com",
+                "value": "Entrega em 20 a 30 Dias"
+            },
+            {
+                "shop": "makey-design.myshopify.com",
+                "value": "5-7 εργάσιμες μέρες"
+            },
+            {
+                "shop": "mankonmarket.myshopify.com",
+                "value": "Παράδοση 3 - 5 εργάσιμες ημέρες"
+            },
+            {
+                "shop": "marie-raxevsky-store.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "marinamiracle-sk1.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "market4u-itcs.myshopify.com",
+                "value": "Delivery up to 30 days"
+            },
+            {
+                "shop": "markys-shoes.myshopify.com",
+                "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "martha-medeiros-loja.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "maskchain.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "maskowi-pl.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "masque-my-day.myshopify.com",
+                "value": "Παράδoση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "master-gunworks.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "masticlife-cz.myshopify.com",
+                "value": "Delivery 1 day"
+            },
+            {
+                "shop": "meats-and-potatoes.myshopify.com",
+                "value": "Same day delivery"
+            },
+            {
+                "shop": "medici-knives.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "meditators-merch.myshopify.com",
+                "value": "7"
+            },
+            {
+                "shop": "megabrandelectronics.myshopify.com",
+                "value": "Delivery 3-5 Days"
+            },
+            {
+                "shop": "meltedco.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "menstylebeauty.myshopify.com",
+                "value": "Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "milcky.myshopify.com",
+                "value": "default"
+            },
+            {
+                "shop": "miscotas.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "misfitmasks.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "mister-zampa.myshopify.com",
+                "value": "Consegna in 5-7 giorni lavorativi"
+            },
+            {
+                "shop": "mistral-online.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "mjvd-boutique-3.myshopify.com",
+                "value": "Délais de livraison : 2 à 4 semaines"
+            },
+            {
+                "shop": "mmkartdesign.myshopify.com",
+                "value": "Szállítás 3-5 munkanap"
+            },
+            {
+                "shop": "mondecor.myshopify.com",
+                "value": "1 - 3 gün"
+            },
+            {
+                "shop": "montazstore.myshopify.com",
+                "value": "Σε απόθεμα Παράδοση 1 έως 3 εργάσιμες ημέρες"
+            },
+            {
+                "shop": "mooi-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "morati-world.myshopify.com",
+                "value": "Delivery 3 to 7 days"
+            },
+            {
+                "shop": "moyomo.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "mpl2.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "mucoff-uk.myshopify.com",
+                "value": "Delivery 2-6 days"
+            },
+            {
+                "shop": "my-triple-moon.myshopify.com",
+                "value": "3"
+            },
+            {
+                "shop": "mybrandstrial.myshopify.com",
+                "value": "1-3 munkanap"
+            },
+            {
+                "shop": "mystarmapgr.myshopify.com",
+                "value": "Delivery 3 to 5 "
+            },
+            {
+                "shop": "natalee-fashion.myshopify.com",
+                "value": "4-8 zile lucratoare"
+            },
+            {
+                "shop": "niai-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "norwest-customs.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "npbro.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "nu-in-eu.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "office-human-romania.myshopify.com",
+                "value": "13.99"
+            },
+            {
+                "shop": "ohbabydev.myshopify.com",
+                "value": "Άμεσα διαθέσιμο. Αποστολή 1-3 ημέρες. "
+            },
+            {
+                "shop": "oikosimo.myshopify.com",
+                "value": "Παράδoση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "one-fashion-limani.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "onehealthsa.myshopify.com",
+                "value": "Delivery 2-6 Business Days"
+            },
+            {
+                "shop": "oppcollection.myshopify.com",
+                "value": "Άμεση παραλαβή"
+            },
+            {
+                "shop": "our-baby-nursery.myshopify.com",
+                "value": "Delivery 7-20 days"
+            },
+            {
+                "shop": "p-kontopoulos.myshopify.com",
+                "value": "Παράδοση σε 4-10 ημέρες"
+            },
+            {
+                "shop": "padforpet.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "painting-expert.myshopify.com",
+                "value": "Verzending 10-15 dagen"
+            },
+            {
+                "shop": "pandoo-cz.myshopify.com",
+                "value": "Doručení 3 až 21 dní"
+            },
+            {
+                "shop": "paradis-athens.myshopify.com",
+                "value": "Παράδοση σε 1 - 3 ημέρες"
+            },
+            {
+                "shop": "paris-france-beauty.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "pataugas.myshopify.com",
+                "value": "Livraison en 24 à 72H"
+            },
+            {
+                "shop": "payless-mall.myshopify.com",
+                "value": "Delivery 7 to 10 days"
+            },
+            {
+                "shop": "pelleturca-com.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "penti-gr.myshopify.com",
+                "value": "Παραλαβή 1-3 μέρες "
+            },
+            {
+                "shop": "pepi-lou.myshopify.com",
+                "value": "Αποστολή σε 1 με 3 εργάσιμες ημέρες"
+            },
+            {
+                "shop": "perfumm.myshopify.com",
+                "value": "2 a 4 semanas"
+            },
+            {
+                "shop": "persephones-paradise.myshopify.com",
+                "value": "Delivery in 5-7 business days"
+            },
+            {
+                "shop": "phonoclean.myshopify.com",
+                "value": "Delivery excluding 4 - 10 days"
+            },
+            {
+                "shop": "photo-rings.myshopify.com",
+                "value": "Delivery time 4 to 8"
+            },
+            {
+                "shop": "pieco-ro.myshopify.com",
+                "value": "2-4 zile"
+            },
+            {
+                "shop": "pinguino-underwear.myshopify.com",
+                "value": "Άμεσα Διαθέσιμο"
+            },
+            {
+                "shop": "pliuskis-lt.myshopify.com",
+                "value": "Pristatymas 5-7 dienos"
+            },
+            {
+                "shop": "polinechildrenshoes.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "posterlad.myshopify.com",
+                "value": "-"
+            },
+            {
+                "shop": "profiswim-sk.myshopify.com",
+                "value": "na sklade"
+            },
+            {
+                "shop": "pslfireandsafety-co-nz.myshopify.com",
+                "value": "1 to 3 Business working Days"
+            },
+            {
+                "shop": "pyrexx-dk.myshopify.com",
+                "value": "Delivery 2 hours - 4 hours"
+            },
+            {
+                "shop": "quality-silver-and-gold-store.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "raisemeup-bg.myshopify.com",
+                "value": "Delivery 3-5 days"
+            },
+            {
+                "shop": "ramen-nation.myshopify.com",
+                "value": "10 to 15 days"
+            },
+            {
+                "shop": "ramy-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "ravecorner-com.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "reisespill-no.myshopify.com",
+                "value": "Levering innen 2-4 dager"
+            },
+            {
+                "shop": "remedium-health-care-systems.myshopify.com",
+                "value": "Παράδοση με Γενική Ταχυδρομική σε 2 - 5 εργάσιμες ημέρες."
+            },
+            {
+                "shop": "richebebe.myshopify.com",
+                "value": "3"
+            },
+            {
+                "shop": "ricolee-official.myshopify.com",
+                "value": "Delivery 12 to 18 days"
+            },
+            {
+                "shop": "riobrascz.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "romvous.myshopify.com",
+                "value": "Παράδοση έως 30 ημέρες"
+            },
+            {
+                "shop": "romylosallabouthair.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "rosyandcute.myshopify.com",
+                "value": "Dodání do 15 pracovních dnů"
+            },
+            {
+                "shop": "royalbee-uk.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "rustile-prekes-namams.myshopify.com",
+                "value": "Pristatymo terminas – iki 5 darbo dienų"
+            },
+            {
+                "shop": "s-coffees-coffeehouse.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "sadrabiohellas.myshopify.com",
+                "value": "2-3 εργάσιμες ημέρες"
+            },
+            {
+                "shop": "saffrania.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "santos-werkzeugmaschinen-ug.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "sappatos.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "sareve-thebrand.myshopify.com",
+                "value": "Delivery 2 to 4 days"
+            },
+            {
+                "shop": "schuhbeck.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "seasucker-shop.myshopify.com",
+                "value": "1 to 3 days"
+            },
+            {
+                "shop": "seksgear-com.myshopify.com",
+                "value": "Voor 23:00 besteld is morgen in huis"
+            },
+            {
+                "shop": "semiology-define-the-code-of-style.myshopify.com",
+                "value": "Παράδοση σε 1 εώς 3 ημέρες"
+            },
+            {
+                "shop": "sensa-milano.myshopify.com",
+                "value": "Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "sensuex-uk.myshopify.com",
+                "value": "Default Delivery time: Delivery 1 to 3 days "
+            },
+            {
+                "shop": "serenity-press.myshopify.com",
+                "value": "Delivery 3 to 5 Days"
+            },
+            {
+                "shop": "sexsobersucks-adult-superstore.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "seyhan-store.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "shield-apparels.myshopify.com",
+                "value": "Delivery from 2 to 3 days"
+            },
+            {
+                "shop": "shishalounge.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "shoesbags-gr.myshopify.com",
+                "value": "Παράδοση 1 εώς 3 μέρες "
+            },
+            {
+                "shop": "shopbuddylove.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "shopvirtal.myshopify.com",
+                "value": "15"
+            },
+            {
+                "shop": "show-room-of-items.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "sierrafruitsnacks.myshopify.com",
+                "value": "3 to 5"
+            },
+            {
+                "shop": "simone-martin2.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "sklavounisstore.myshopify.com",
+                "value": "ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟ"
+            },
+            {
+                "shop": "sky-high-elite-designs.myshopify.com",
+                "value": "4-13 "
+            },
+            {
+                "shop": "slapiosnosys.myshopify.com",
+                "value": "Pristatymas 1-2 d.d."
+            },
+            {
+                "shop": "smartfits-ltd.myshopify.com",
+                "value": "Παράδοση σε 4-10 Εργάσιμες Ημέρες"
+            },
+            {
+                "shop": "smash-piraeus.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "sneakersfromfrance.myshopify.com",
+                "value": "Delivery 1 to 10 days"
+            },
+            {
+                "shop": "so-cute-cut.myshopify.com",
+                "value": "4-10 days"
+            },
+            {
+                "shop": "sofi-moukidou-jewellery.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "softverlacnoo.myshopify.com",
+                "value": "0 až 6 hodín"
+            },
+            {
+                "shop": "sondranickki79.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "sovrakofanela.myshopify.com",
+                "value": "Παράδοση 1 - 3 ημέρες"
+            },
+            {
+                "shop": "sovvackert-se.myshopify.com",
+                "value": "2-5 dagar"
+            },
+            {
+                "shop": "spark-plug5.myshopify.com",
+                "value": "1 to 5 days"
+            },
+            {
+                "shop": "sport-duwe-saulheim.myshopify.com",
+                "value": "Lieferzeit: 2-3 Werktage"
+            },
+            {
+                "shop": "st-nk.myshopify.com",
+                "value": "Delivery time is 1 to 4 days"
+            },
+            {
+                "shop": "statueallemagne.myshopify.com",
+                "value": "delivery 12 to 21 days"
+            },
+            {
+                "shop": "stokalathi.myshopify.com",
+                "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "sutil-casa.myshopify.com",
+                "value": "Entrega em 10-30 dias"
+            },
+            {
+                "shop": "svet-elektrokol.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "swycha-phones.myshopify.com",
+                "value": "Free Next Day"
+            },
+            {
+                "shop": "take-care-medical.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "tatem-jewelry.myshopify.com",
+                "value": "Доставка 2-4 дня"
+            },
+            {
+                "shop": "tchotech-shop.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "tech-expert-gr.myshopify.com",
+                "value": "Παράδοση από 4-10 εργάσιμες ημέρες"
+            },
+            {
+                "shop": "techiton-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "telis-fashion.myshopify.com",
+                "value": "Αποστολή σε 1-3 εργάσιμες"
+            },
+            {
+                "shop": "tendtudo-pt.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "teploff-handmade.myshopify.com",
+                "value": "Доставка 1-3 дня"
+            },
+            {
+                "shop": "test-en-store-inkbook-pl.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "testshopforlewis.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "teststorestarspl.myshopify.com",
+                "value": "7 days"
+            },
+            {
+                "shop": "tezyo-cz.myshopify.com",
+                "value": "Doručení 2 až 5 dnů"
+            },
+            {
+                "shop": "tfn-online.myshopify.com",
+                "value": "Piegāde Venipak"
+            },
+            {
+                "shop": "the-basic-babe-store.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "the-foot-factory-ltd.myshopify.com",
+                "value": "2 to 5 days"
+            },
+            {
+                "shop": "the-house-of-co-ky.myshopify.com",
+                "value": "Delivery 5-15 business days depends on Geo Location"
+            },
+            {
+                "shop": "the-watchmaker-store.myshopify.com",
+                "value": "Delivery 4 to 10 days"
+            },
+            {
+                "shop": "thefashionwholesalers.myshopify.com",
+                "value": "Delivery 4 to 10 days"
+            },
+            {
+                "shop": "thegoodstaff.myshopify.com",
+                "value": "7-27"
+            },
+            {
+                "shop": "thehouseproduct.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "thepoplace.myshopify.com",
+                "value": "7 jours ouvrés"
+            },
+            {
+                "shop": "thewineconnection.myshopify.com",
+                "value": "Please refer to our shipping page for estimated shipping times."
+            },
+            {
+                "shop": "tobikini.myshopify.com",
+                "value": "Άμεσα Διαθέσιμο / Παράδoση 1 έως 3 ημέρες."
+            },
+            {
+                "shop": "tokiogels.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "topy-kids.myshopify.com",
+                "value": "https://skroutzofficial.thinkplus.dev/xml-skroutz?shop=topy-kids.myshopify.com"
+            },
+            {
+                "shop": "totemrd.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "tranum-molle.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "trendiflystore.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "trevill-design.myshopify.com",
+                "value": "Delivery 3 to 5 days"
+            },
+            {
+                "shop": "triclicks-store.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "trivoshop-com.myshopify.com",
+                "value": "Delivery 7 to 10 days"
+            },
+            {
+                "shop": "tyes-by-tara.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "tzoukas.myshopify.com",
+                "value": "Παράδοση σε 1 με 3 ημέρες"
+            },
+            {
+                "shop": "uandu-de.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "ukmobile-store.myshopify.com",
+                "value": "1-2 Days Delivery "
+            },
+            {
+                "shop": "ultrabee-uae.myshopify.com",
+                "value": "Deliver in 1 to 3 days"
+            },
+            {
+                "shop": "updressme.myshopify.com",
+                "value": "3-10 business days"
+            },
+            {
+                "shop": "urbans-gr.myshopify.com",
+                "value": "Παράδοση 1 εως 3 μέρες"
+            },
+            {
+                "shop": "ustyle-gr.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "valdo-it.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "valentetr.myshopify.com",
+                "value": "14 Business Days"
+            },
+            {
+                "shop": "valet-de-pique.myshopify.com",
+                "value": "Livraison 5 - 10 jours (fabrication à la demande)"
+            },
+            {
+                "shop": "vanquish-emporium.myshopify.com",
+                "value": "Delivery 1"
+            },
+            {
+                "shop": "vaxvax.myshopify.com",
+                "value": "Delivery 7 to 15 days"
+            },
+            {
+                "shop": "veikals-bambini.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "vente-ordi-com.myshopify.com",
+                "value": "1 to 2 hours"
+            },
+            {
+                "shop": "vhita2020.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "vilbury-london.myshopify.com",
+                "value": "Delivery 4 to 6 days"
+            },
+            {
+                "shop": "vintageshowroom.myshopify.com",
+                "value": "Παράδοση σε 1-3 ημέρες"
+            },
+            {
+                "shop": "vipbeautycompany.myshopify.com",
+                "value": "Delivery 7 to 18 days"
+            },
+            {
+                "shop": "virus-eu.myshopify.com",
+                "value": "Delivery 3 to 5 days"
+            },
+            {
+                "shop": "visoslovos.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "vitacoral.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "vitavieuk.myshopify.com",
+                "value": "Delivery 1 to 2 days"
+            },
+            {
+                "shop": "vittorio-citro.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "vovebox.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "wearenumbsofficial.myshopify.com",
+                "value": "Delivery time is 15-30 days."
+            },
+            {
+                "shop": "weareshoes-athens.myshopify.com",
+                "value": "Παράδoση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "wearshop-greece.myshopify.com",
+                "value": "Delivery 5 to 10 days"
+            },
+            {
+                "shop": "wellliving-gr.myshopify.com",
+                "value": "Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "westgate-contemporary-art.myshopify.com",
+                "value": "Delivery 3-8 days"
+            },
+            {
+                "shop": "what-supplement.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "white-snus.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "whitefabric.myshopify.com",
+                "value": "Παράδοση 1 έως 3 εργάσιμες"
+            },
+            {
+                "shop": "whiteroom-korinthos.myshopify.com",
+                "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+            },
+            {
+                "shop": "wonderurbanfashion.myshopify.com",
+                "value": "1-3 days"
+            },
+            {
+                "shop": "woodmymap.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "wrinkle-art-online.myshopify.com",
+                "value": "Delivery 7-21 Days"
+            },
+            {
+                "shop": "wurstwaren.myshopify.com",
+                "value": "3"
+            },
+            {
+                "shop": "www-keru.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "www-naturallife-co-za.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "www-shoffer.myshopify.com",
+                "value": "4-10 ημέρες"
+            },
+            {
+                "shop": "www-xrysos-gr.myshopify.com",
+                "value": ""
+            },
+            {
+                "shop": "xn-zlbckaaujog5bet4afu8b.myshopify.com",
+                "value": "delivery is 1 to 3 days"
+            },
+            {
+                "shop": "xn-zmc6czbsg.myshopify.com",
+                "value": "Delivery 1 to 3 Days"
+            },
+            {
+                "shop": "xplayer-gr.myshopify.com",
+                "value": "Παράδοση σε 4-10 εργάσιμες ημέρες"
+            },
+            {
+                "shop": "xyz-lab.myshopify.com",
+                "value": "up to 30 business days"
+            },
+            {
+                "shop": "yamako-showten.myshopify.com",
+                "value": "Delivery term is changes depends on your address"
+            },
+            {
+                "shop": "yoga-maste.myshopify.com",
+                "value": "1 day"
+            },
+            {
+                "shop": "yomigodo.myshopify.com",
+                "value": "48h"
+            },
+            {
+                "shop": "your-luck-angel.myshopify.com",
+                "value": "10 - 14"
+            },
+            {
+                "shop": "yourpetcenter.myshopify.com",
+                "value": "Delivery 15 - 40 days"
+            },
+            {
+                "shop": "yststyle.myshopify.com",
+                "value": "Άμεσα διαθέσιμο μέσα σε 1 με 5 μέρες"
+            },
+            {
+                "shop": "zad-fit.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "zappy-fashion.myshopify.com",
+                "value": "Delivery 1 to 3 days"
+            },
+            {
+                "shop": "zerogravitystore.myshopify.com",
+                "value": "Available in store / Delivery 1 to 3 days"
+            },
+            {
+                "shop": "zestforquality.myshopify.com",
+                "value": "Free Shipping (14-25 business days)"
+            }
+        ]
+    },
+    {
+        "code": "customTitleAndImage",
+        "values": [
+            {
+                "shop": "a-masks.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "separate_variants",
+        "values": [
+            {
+                "shop": "blisskgs.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "emakshoes.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "luvr-clothing.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "missintimo.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "rafi-gr.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "sappatos.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "delivery_on_no_stock",
+        "values": [
+            {
+                "shop": "crystallotus-eu.myshopify.com",
+                "value": "Παράδοση έως 30 ημέρες"
+            }
+        ]
+    },
+    {
+        "code": "give_compare_at_price",
+        "values": [
+            {
+                "shop": "cv-directo.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "kallyc.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "thepoplace.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "use_https_tag",
+        "values": [
+            {
+                "shop": "cv-directo.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "groupSizesTag",
+        "values": [
+            {
+                "shop": "dagiopoulos.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "shop_url",
+        "values": [
+            {
+                "shop": "dorgan-rawlings-limited.myshopify.com",
+                "value": "www.ology32.com"
+            }
+        ]
+    },
+    {
+        "code": "separate_variants_complete",
+        "values": [
+            {
+                "shop": "fakebox.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "termovelshop.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "whitefabric.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "delivery_from_tag",
+        "values": [
+            {
+                "shop": "goldygr.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "katoglou-store.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "ohbabydev.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "stokalathi.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "category_split_variants",
+        "values": [
+            {
+                "shop": "goldygr.myshopify.com",
+                "value": "Βέρες Γάμου"
+            }
+        ]
+    },
+    {
+        "code": "preindexed",
+        "values": [
+            {
+                "shop": "greenleaf-online-shop.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "no_stock",
+        "values": [
+            {
+                "shop": "hobbycolours.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "glami_delivery_time",
+        "values": [
+            {
+                "shop": "hulaloop-gr.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "luvr-clothing.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "pinguino-underwear.myshopify.com",
+                "value": "2"
+            },
+            {
+                "shop": "wonderurbanfashion.myshopify.com",
+                "value": ""
+            }
+        ]
+    },
+    {
+        "code": "hasSnif",
+        "values": [
+            {
+                "shop": "ikonomakisgr.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "custom_categories",
+        "values": [
+            {
+                "shop": "inartshop.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "wonderurbanfashion.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "custom_url",
+        "values": [
+            {
+                "shop": "k-m-testovaci.myshopify.com",
+                "value": "winesbay.com"
+            }
+        ]
+    },
+    {
+        "code": "groupSizes",
+        "values": [
+            {
+                "shop": "karakas-stores.myshopify.com",
+                "value": "1"
+            },
+            {
+                "shop": "whiteroom-korinthos.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "collectionOnly",
+        "values": [
+            {
+                "shop": "laura-ashley-greece.myshopify.com",
+                "value": "leykaeidi"
+            }
+        ]
+    },
+    {
+        "code": "custom_titles",
+        "values": [
+            {
+                "shop": "laura-ashley-greece.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "reverse_cs",
+        "values": [
+            {
+                "shop": "luvr-clothing.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "color_ids",
+        "values": [
+            {
+                "shop": "luvr-clothing.myshopify.com",
+                "value": "1"
+            }
+        ]
+    },
+    {
+        "code": "test",
+        "values": [
+            {
+                "shop": "thinkplustraining.myshopify.com",
+                "value": "value"
+            }
+        ]
+    },
+    {
+        "code": "custom_image",
+        "values": [
+            {
+                "shop": "tobikini.myshopify.com",
+                "value": "2"
+            }
+        ]
+    },
+    {
+        "code": "compare_at_price",
+        "values": [
+            {
+                "shop": "whiteroom-korinthos.myshopify.com",
+                "value": "1"
+            }
+        ]
+    }
+]
