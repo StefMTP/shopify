@@ -1,0 +1,5897 @@
+{
+    "skroutz": {
+        "customer_count": 931,
+        "dimitrioschar.myshopify.com": {
+            "domain": "dimitrioschar.myshopify.com",
+            "options": []
+        },
+        "macon-clothing.myshopify.com": {
+            "domain": "macon-clothing.myshopify.com",
+            "options": []
+        },
+        "albertina-py.myshopify.com": {
+            "domain": "albertina-py.myshopify.com",
+            "options": []
+        },
+        "sappatos.myshopify.com": {
+            "domain": "sappatos.myshopify.com",
+            "options": [
+                {
+                    "code": "separate_variants",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "icu-sexy.myshopify.com": {
+            "domain": "icu-sexy.myshopify.com",
+            "options": []
+        },
+        "kmax-gr.myshopify.com": {
+            "domain": "kmax-gr.myshopify.com",
+            "options": []
+        },
+        "macron-store-thessaloniki.myshopify.com": {
+            "domain": "macron-store-thessaloniki.myshopify.com",
+            "options": []
+        },
+        "angelinoboutique.myshopify.com": {
+            "domain": "angelinoboutique.myshopify.com",
+            "options": []
+        },
+        "iamvos.myshopify.com": {
+            "domain": "iamvos.myshopify.com",
+            "options": []
+        },
+        "smash-piraeus.myshopify.com": {
+            "domain": "smash-piraeus.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "indyexperience.myshopify.com": {
+            "domain": "indyexperience.myshopify.com",
+            "options": []
+        },
+        "jahflorek.myshopify.com": {
+            "domain": "jahflorek.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1-3 Werktage"
+                }
+            ]
+        },
+        "custfield.myshopify.com": {
+            "domain": "custfield.myshopify.com",
+            "options": []
+        },
+        "ideashopgr.myshopify.com": {
+            "domain": "ideashopgr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "baddmadrass.myshopify.com": {
+            "domain": "baddmadrass.myshopify.com",
+            "options": []
+        },
+        "fab-u-lous-com.myshopify.com": {
+            "domain": "fab-u-lous-com.myshopify.com",
+            "options": []
+        },
+        "laura-ashley-greece.myshopify.com": {
+            "domain": "laura-ashley-greece.myshopify.com",
+            "options": [
+                {
+                    "code": "collectionOnly",
+                    "value": "leykaeidi"
+                },
+                {
+                    "code": "custom_titles",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 3-5 Εργάσιμες"
+                }
+            ]
+        },
+        "dagiopoulos.myshopify.com": {
+            "domain": "dagiopoulos.myshopify.com",
+            "options": [
+                {
+                    "code": "groupSizesTag",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 4 έως 10 ημέρες"
+                }
+            ]
+        },
+        "montce.myshopify.com": {
+            "domain": "montce.myshopify.com",
+            "options": []
+        },
+        "cc-flowerbe.myshopify.com": {
+            "domain": "cc-flowerbe.myshopify.com",
+            "options": []
+        },
+        "riobrascz.myshopify.com": {
+            "domain": "riobrascz.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "goldygr.myshopify.com": {
+            "domain": "goldygr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_from_tag",
+                    "value": "1"
+                },
+                {
+                    "code": "category_split_variants",
+                    "value": "Βέρες Γάμου"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "1-3"
+                }
+            ]
+        },
+        "airdoctorstore.myshopify.com": {
+            "domain": "airdoctorstore.myshopify.com",
+            "options": []
+        },
+        "kozee-gr.myshopify.com": {
+            "domain": "kozee-gr.myshopify.com",
+            "options": []
+        },
+        "ikonomakisgr.myshopify.com": {
+            "domain": "ikonomakisgr.myshopify.com",
+            "options": [
+                {
+                    "code": "hasSnif",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση αποστολή (1-3 ημέρες)"
+                }
+            ]
+        },
+        "ihunt-hu.myshopify.com": {
+            "domain": "ihunt-hu.myshopify.com",
+            "options": []
+        },
+        "elephantbox.myshopify.com": {
+            "domain": "elephantbox.myshopify.com",
+            "options": []
+        },
+        "electroplus-gr.myshopify.com": {
+            "domain": "electroplus-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως 3 μέρες"
+                }
+            ]
+        },
+        "gate-automation-gr.myshopify.com": {
+            "domain": "gate-automation-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο"
+                }
+            ]
+        },
+        "pit-bull-jeans-oficial.myshopify.com": {
+            "domain": "pit-bull-jeans-oficial.myshopify.com",
+            "options": []
+        },
+        "ekavishop.myshopify.com": {
+            "domain": "ekavishop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "mens-shopdk.myshopify.com": {
+            "domain": "mens-shopdk.myshopify.com",
+            "options": []
+        },
+        "racerc.myshopify.com": {
+            "domain": "racerc.myshopify.com",
+            "options": []
+        },
+        "inartshop.myshopify.com": {
+            "domain": "inartshop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4 to 10 days"
+                },
+                {
+                    "code": "custom_categories",
+                    "value": "1"
+                }
+            ]
+        },
+        "mousamas.myshopify.com": {
+            "domain": "mousamas.myshopify.com",
+            "options": []
+        },
+        "zolly-fashion.myshopify.com": {
+            "domain": "zolly-fashion.myshopify.com",
+            "options": []
+        },
+        "ambersleys.myshopify.com": {
+            "domain": "ambersleys.myshopify.com",
+            "options": []
+        },
+        "fun-planet-toys.myshopify.com": {
+            "domain": "fun-planet-toys.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "undersun-fitness.myshopify.com": {
+            "domain": "undersun-fitness.myshopify.com",
+            "options": []
+        },
+        "hulaloop-gr.myshopify.com": {
+            "domain": "hulaloop-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                },
+                {
+                    "code": "glami_delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "sgt-knots-supply-co.myshopify.com": {
+            "domain": "sgt-knots-supply-co.myshopify.com",
+            "options": []
+        },
+        "sithappen.myshopify.com": {
+            "domain": "sithappen.myshopify.com",
+            "options": []
+        },
+        "mundopresente.myshopify.com": {
+            "domain": "mundopresente.myshopify.com",
+            "options": []
+        },
+        "kallyc.myshopify.com": {
+            "domain": "kallyc.myshopify.com",
+            "options": [
+                {
+                    "code": "give_compare_at_price",
+                    "value": "1"
+                }
+            ]
+        },
+        "jerk-fit.myshopify.com": {
+            "domain": "jerk-fit.myshopify.com",
+            "options": []
+        },
+        "christianity-art-greek-store.myshopify.com": {
+            "domain": "christianity-art-greek-store.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση Παράδοση 1-3 ημέρες"
+                }
+            ]
+        },
+        "thelactone.myshopify.com": {
+            "domain": "thelactone.myshopify.com",
+            "options": []
+        },
+        "karakas-stores.myshopify.com": {
+            "domain": "karakas-stores.myshopify.com",
+            "options": [
+                {
+                    "code": "groupSizes",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως ημέρες"
+                }
+            ]
+        },
+        "ellabisa.myshopify.com": {
+            "domain": "ellabisa.myshopify.com",
+            "options": []
+        },
+        "therapy-weighted-blanket.myshopify.com": {
+            "domain": "therapy-weighted-blanket.myshopify.com",
+            "options": []
+        },
+        "sprockettestsite.myshopify.com": {
+            "domain": "sprockettestsite.myshopify.com",
+            "options": []
+        },
+        "preis24-ch.myshopify.com": {
+            "domain": "preis24-ch.myshopify.com",
+            "options": []
+        },
+        "accessorylab-co-za.myshopify.com": {
+            "domain": "accessorylab-co-za.myshopify.com",
+            "options": []
+        },
+        "women-market-brasil.myshopify.com": {
+            "domain": "women-market-brasil.myshopify.com",
+            "options": []
+        },
+        "fabini-furniture.myshopify.com": {
+            "domain": "fabini-furniture.myshopify.com",
+            "options": []
+        },
+        "twotags-au.myshopify.com": {
+            "domain": "twotags-au.myshopify.com",
+            "options": []
+        },
+        "npbro.myshopify.com": {
+            "domain": "npbro.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "first-physique.myshopify.com": {
+            "domain": "first-physique.myshopify.com",
+            "options": []
+        },
+        "socratesdergi.myshopify.com": {
+            "domain": "socratesdergi.myshopify.com",
+            "options": []
+        },
+        "thepoplace.myshopify.com": {
+            "domain": "thepoplace.myshopify.com",
+            "options": [
+                {
+                    "code": "give_compare_at_price",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "7 jours ouvrés"
+                }
+            ]
+        },
+        "kissthehippo01.myshopify.com": {
+            "domain": "kissthehippo01.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 Days"
+                }
+            ]
+        },
+        "the-rice-emporium.myshopify.com": {
+            "domain": "the-rice-emporium.myshopify.com",
+            "options": []
+        },
+        "purvari.myshopify.com": {
+            "domain": "purvari.myshopify.com",
+            "options": []
+        },
+        "gummy-candy-city.myshopify.com": {
+            "domain": "gummy-candy-city.myshopify.com",
+            "options": []
+        },
+        "myshoppingtestabc.myshopify.com": {
+            "domain": "myshoppingtestabc.myshopify.com",
+            "options": []
+        },
+        "kissesonthebeach.myshopify.com": {
+            "domain": "kissesonthebeach.myshopify.com",
+            "options": []
+        },
+        "mykarma-gr.myshopify.com": {
+            "domain": "mykarma-gr.myshopify.com",
+            "options": []
+        },
+        "virvar-no.myshopify.com": {
+            "domain": "virvar-no.myshopify.com",
+            "options": []
+        },
+        "zando-cz.myshopify.com": {
+            "domain": "zando-cz.myshopify.com",
+            "options": []
+        },
+        "katoglou-store.myshopify.com": {
+            "domain": "katoglou-store.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_from_tag",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "bhbh-h.myshopify.com": {
+            "domain": "bhbh-h.myshopify.com",
+            "options": []
+        },
+        "topdekori.myshopify.com": {
+            "domain": "topdekori.myshopify.com",
+            "options": []
+        },
+        "lnmykonos.myshopify.com": {
+            "domain": "lnmykonos.myshopify.com",
+            "options": []
+        },
+        "gdfgdrrtsskrt.myshopify.com": {
+            "domain": "gdfgdrrtsskrt.myshopify.com",
+            "options": []
+        },
+        "marinelistore.myshopify.com": {
+            "domain": "marinelistore.myshopify.com",
+            "options": []
+        },
+        "maskowi-pl.myshopify.com": {
+            "domain": "maskowi-pl.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "gameregion.myshopify.com": {
+            "domain": "gameregion.myshopify.com",
+            "options": []
+        },
+        "jewelietta-contemporary-handmade-jewelry.myshopify.com": {
+            "domain": "jewelietta-contemporary-handmade-jewelry.myshopify.com",
+            "options": []
+        },
+        "unicorn-jewelry.myshopify.com": {
+            "domain": "unicorn-jewelry.myshopify.com",
+            "options": []
+        },
+        "the-touchdk.myshopify.com": {
+            "domain": "the-touchdk.myshopify.com",
+            "options": []
+        },
+        "pistolulcubuline.myshopify.com": {
+            "domain": "pistolulcubuline.myshopify.com",
+            "options": []
+        },
+        "horosimansi.myshopify.com": {
+            "domain": "horosimansi.myshopify.com",
+            "options": []
+        },
+        "hair-2-0.myshopify.com": {
+            "domain": "hair-2-0.myshopify.com",
+            "options": []
+        },
+        "hempsociety-gr.myshopify.com": {
+            "domain": "hempsociety-gr.myshopify.com",
+            "options": []
+        },
+        "silverstro.myshopify.com": {
+            "domain": "silverstro.myshopify.com",
+            "options": []
+        },
+        "digitalsbg.myshopify.com": {
+            "domain": "digitalsbg.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "mihena.myshopify.com": {
+            "domain": "mihena.myshopify.com",
+            "options": []
+        },
+        "atlasday-com.myshopify.com": {
+            "domain": "atlasday-com.myshopify.com",
+            "options": []
+        },
+        "ithinksmart.myshopify.com": {
+            "domain": "ithinksmart.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "spacebar-gg.myshopify.com": {
+            "domain": "spacebar-gg.myshopify.com",
+            "options": []
+        },
+        "yoga-maste.myshopify.com": {
+            "domain": "yoga-maste.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1 day"
+                }
+            ]
+        },
+        "lotsupplies.myshopify.com": {
+            "domain": "lotsupplies.myshopify.com",
+            "options": []
+        },
+        "lestello-pl.myshopify.com": {
+            "domain": "lestello-pl.myshopify.com",
+            "options": []
+        },
+        "pravaliaidicel.myshopify.com": {
+            "domain": "pravaliaidicel.myshopify.com",
+            "options": []
+        },
+        "fusci.myshopify.com": {
+            "domain": "fusci.myshopify.com",
+            "options": []
+        },
+        "northgr.myshopify.com": {
+            "domain": "northgr.myshopify.com",
+            "options": []
+        },
+        "blisskgs.myshopify.com": {
+            "domain": "blisskgs.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση σε 1-3 ημέρες"
+                },
+                {
+                    "code": "separate_variants",
+                    "value": "1"
+                }
+            ]
+        },
+        "smutform.myshopify.com": {
+            "domain": "smutform.myshopify.com",
+            "options": []
+        },
+        "fullhair-gr.myshopify.com": {
+            "domain": "fullhair-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "beztest.myshopify.com": {
+            "domain": "beztest.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση από 1 - 3 ημέρες"
+                }
+            ]
+        },
+        "getbackdev-3.myshopify.com": {
+            "domain": "getbackdev-3.myshopify.com",
+            "options": []
+        },
+        "all-battery-technology.myshopify.com": {
+            "domain": "all-battery-technology.myshopify.com",
+            "options": []
+        },
+        "legloru.myshopify.com": {
+            "domain": "legloru.myshopify.com",
+            "options": []
+        },
+        "active-naughtily.myshopify.com": {
+            "domain": "active-naughtily.myshopify.com",
+            "options": []
+        },
+        "azconoltd.myshopify.com": {
+            "domain": "azconoltd.myshopify.com",
+            "options": []
+        },
+        "svetnyme66.myshopify.com": {
+            "domain": "svetnyme66.myshopify.com",
+            "options": []
+        },
+        "pabucix.myshopify.com": {
+            "domain": "pabucix.myshopify.com",
+            "options": []
+        },
+        "hocl.myshopify.com": {
+            "domain": "hocl.myshopify.com",
+            "options": []
+        },
+        "duff-lashes.myshopify.com": {
+            "domain": "duff-lashes.myshopify.com",
+            "options": []
+        },
+        "one-fashion-limani.myshopify.com": {
+            "domain": "one-fashion-limani.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "quarterandlast.myshopify.com": {
+            "domain": "quarterandlast.myshopify.com",
+            "options": []
+        },
+        "marinamiracle-sk1.myshopify.com": {
+            "domain": "marinamiracle-sk1.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "flauven.myshopify.com": {
+            "domain": "flauven.myshopify.com",
+            "options": []
+        },
+        "trendiflyguru.myshopify.com": {
+            "domain": "trendiflyguru.myshopify.com",
+            "options": []
+        },
+        "babylissgr.myshopify.com": {
+            "domain": "babylissgr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Αποστολή σε 1 έως 3 εργάσιμες"
+                }
+            ]
+        },
+        "scent-of-finland.myshopify.com": {
+            "domain": "scent-of-finland.myshopify.com",
+            "options": []
+        },
+        "bacanices.myshopify.com": {
+            "domain": "bacanices.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "branded-supplies.myshopify.com": {
+            "domain": "branded-supplies.myshopify.com",
+            "options": []
+        },
+        "nouscraftproducts.myshopify.com": {
+            "domain": "nouscraftproducts.myshopify.com",
+            "options": []
+        },
+        "cbd-chemist.myshopify.com": {
+            "domain": "cbd-chemist.myshopify.com",
+            "options": []
+        },
+        "shishalounge.myshopify.com": {
+            "domain": "shishalounge.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "mallia-gr.myshopify.com": {
+            "domain": "mallia-gr.myshopify.com",
+            "options": []
+        },
+        "seupetart.myshopify.com": {
+            "domain": "seupetart.myshopify.com",
+            "options": []
+        },
+        "samurai-vertical-sapatos.myshopify.com": {
+            "domain": "samurai-vertical-sapatos.myshopify.com",
+            "options": []
+        },
+        "h2n-store.myshopify.com": {
+            "domain": "h2n-store.myshopify.com",
+            "options": []
+        },
+        "ttvapes.myshopify.com": {
+            "domain": "ttvapes.myshopify.com",
+            "options": []
+        },
+        "wrinkle-art-online.myshopify.com": {
+            "domain": "wrinkle-art-online.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 7-21 Days"
+                }
+            ]
+        },
+        "petshopup.myshopify.com": {
+            "domain": "petshopup.myshopify.com",
+            "options": []
+        },
+        "zerogravitystore.myshopify.com": {
+            "domain": "zerogravitystore.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Available in store / Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "beautygram-gr.myshopify.com": {
+            "domain": "beautygram-gr.myshopify.com",
+            "options": []
+        },
+        "brettos-plaka.myshopify.com": {
+            "domain": "brettos-plaka.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "norsu-designs.myshopify.com": {
+            "domain": "norsu-designs.myshopify.com",
+            "options": []
+        },
+        "beaconscene.myshopify.com": {
+            "domain": "beaconscene.myshopify.com",
+            "options": []
+        },
+        "techiton-gr.myshopify.com": {
+            "domain": "techiton-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "scentlicious-uk.myshopify.com": {
+            "domain": "scentlicious-uk.myshopify.com",
+            "options": []
+        },
+        "kuruyemisborsasi.myshopify.com": {
+            "domain": "kuruyemisborsasi.myshopify.com",
+            "options": []
+        },
+        "shoesbags-gr.myshopify.com": {
+            "domain": "shoesbags-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 εώς 3 μέρες "
+                }
+            ]
+        },
+        "daboo-imports.myshopify.com": {
+            "domain": "daboo-imports.myshopify.com",
+            "options": []
+        },
+        "stokalathi.myshopify.com": {
+            "domain": "stokalathi.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+                },
+                {
+                    "code": "delivery_from_tag",
+                    "value": "1"
+                }
+            ]
+        },
+        "kuyichistore.myshopify.com": {
+            "domain": "kuyichistore.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 5 days"
+                }
+            ]
+        },
+        "nuspace.myshopify.com": {
+            "domain": "nuspace.myshopify.com",
+            "options": []
+        },
+        "luilui-eu.myshopify.com": {
+            "domain": "luilui-eu.myshopify.com",
+            "options": []
+        },
+        "raposa-outlet.myshopify.com": {
+            "domain": "raposa-outlet.myshopify.com",
+            "options": []
+        },
+        "parebrix.myshopify.com": {
+            "domain": "parebrix.myshopify.com",
+            "options": []
+        },
+        "luxuries-for-less-uk.myshopify.com": {
+            "domain": "luxuries-for-less-uk.myshopify.com",
+            "options": []
+        },
+        "golfladan-2020.myshopify.com": {
+            "domain": "golfladan-2020.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1 day"
+                }
+            ]
+        },
+        "beautycollection-gr.myshopify.com": {
+            "domain": "beautycollection-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "vovebox.myshopify.com": {
+            "domain": "vovebox.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "neubria-us.myshopify.com": {
+            "domain": "neubria-us.myshopify.com",
+            "options": []
+        },
+        "zappy-fashion.myshopify.com": {
+            "domain": "zappy-fashion.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "funkdaqueen.myshopify.com": {
+            "domain": "funkdaqueen.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery  3 to 6 days"
+                }
+            ]
+        },
+        "zalefuckingai.myshopify.com": {
+            "domain": "zalefuckingai.myshopify.com",
+            "options": []
+        },
+        "emporia-jewerly.myshopify.com": {
+            "domain": "emporia-jewerly.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Lieferzeit 2-6 Werktage. Versandkostenfreie Lieferung."
+                }
+            ]
+        },
+        "heliacosmos.myshopify.com": {
+            "domain": "heliacosmos.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "dominosstore.myshopify.com": {
+            "domain": "dominosstore.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Versand von 1 bis 4 Tage"
+                }
+            ]
+        },
+        "sortimendo.myshopify.com": {
+            "domain": "sortimendo.myshopify.com",
+            "options": []
+        },
+        "glami-test.myshopify.com": {
+            "domain": "glami-test.myshopify.com",
+            "options": []
+        },
+        "saffrania.myshopify.com": {
+            "domain": "saffrania.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "veikals-bambini.myshopify.com": {
+            "domain": "veikals-bambini.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "luxolympus-collection.myshopify.com": {
+            "domain": "luxolympus-collection.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "angelo-di-spirito-rosa.myshopify.com": {
+            "domain": "angelo-di-spirito-rosa.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 3 to 5 days"
+                }
+            ]
+        },
+        "smallbusinesscoach.myshopify.com": {
+            "domain": "smallbusinesscoach.myshopify.com",
+            "options": []
+        },
+        "lurika1.myshopify.com": {
+            "domain": "lurika1.myshopify.com",
+            "options": []
+        },
+        "aeriko.myshopify.com": {
+            "domain": "aeriko.myshopify.com",
+            "options": []
+        },
+        "vilbury-london.myshopify.com": {
+            "domain": "vilbury-london.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4 to 6 days"
+                }
+            ]
+        },
+        "kraxe-wien.myshopify.com": {
+            "domain": "kraxe-wien.myshopify.com",
+            "options": []
+        },
+        "meats-and-potatoes.myshopify.com": {
+            "domain": "meats-and-potatoes.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Same day delivery"
+                }
+            ]
+        },
+        "loritasdev.myshopify.com": {
+            "domain": "loritasdev.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 2 to 3 days"
+                }
+            ]
+        },
+        "entryshopgr.myshopify.com": {
+            "domain": "entryshopgr.myshopify.com",
+            "options": []
+        },
+        "balui-es.myshopify.com": {
+            "domain": "balui-es.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Envío de 3 a 7 días"
+                }
+            ]
+        },
+        "pliuskis-lt.myshopify.com": {
+            "domain": "pliuskis-lt.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Pristatymas 5-7 dienos"
+                }
+            ]
+        },
+        "ae-sound.myshopify.com": {
+            "domain": "ae-sound.myshopify.com",
+            "options": []
+        },
+        "sexualitty.myshopify.com": {
+            "domain": "sexualitty.myshopify.com",
+            "options": []
+        },
+        "feelfree-jewelry.myshopify.com": {
+            "domain": "feelfree-jewelry.myshopify.com",
+            "options": []
+        },
+        "bar-back.myshopify.com": {
+            "domain": "bar-back.myshopify.com",
+            "options": []
+        },
+        "pclinkgroup.myshopify.com": {
+            "domain": "pclinkgroup.myshopify.com",
+            "options": []
+        },
+        "icoon.myshopify.com": {
+            "domain": "icoon.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Αποστολή σε 2 - 4 εργάσιμες"
+                }
+            ]
+        },
+        "zoesrio-store.myshopify.com": {
+            "domain": "zoesrio-store.myshopify.com",
+            "options": []
+        },
+        "logable.myshopify.com": {
+            "domain": "logable.myshopify.com",
+            "options": []
+        },
+        "style-of-norrland.myshopify.com": {
+            "domain": "style-of-norrland.myshopify.com",
+            "options": []
+        },
+        "authenticbagsandmore.myshopify.com": {
+            "domain": "authenticbagsandmore.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "sur-dev.myshopify.com": {
+            "domain": "sur-dev.myshopify.com",
+            "options": []
+        },
+        "vintageshowroom.myshopify.com": {
+            "domain": "vintageshowroom.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "dude-clothing.myshopify.com": {
+            "domain": "dude-clothing.myshopify.com",
+            "options": []
+        },
+        "shenderovsky.myshopify.com": {
+            "domain": "shenderovsky.myshopify.com",
+            "options": []
+        },
+        "socutebydimi.myshopify.com": {
+            "domain": "socutebydimi.myshopify.com",
+            "options": []
+        },
+        "jarlo.myshopify.com": {
+            "domain": "jarlo.myshopify.com",
+            "options": []
+        },
+        "hookahjoy-gr.myshopify.com": {
+            "domain": "hookahjoy-gr.myshopify.com",
+            "options": []
+        },
+        "incrivellar.myshopify.com": {
+            "domain": "incrivellar.myshopify.com",
+            "options": []
+        },
+        "gioiava.myshopify.com": {
+            "domain": "gioiava.myshopify.com",
+            "options": []
+        },
+        "camolots.myshopify.com": {
+            "domain": "camolots.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 0-8 days"
+                }
+            ]
+        },
+        "wellliving-gr.myshopify.com": {
+            "domain": "wellliving-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "cv-directo.myshopify.com": {
+            "domain": "cv-directo.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                },
+                {
+                    "code": "give_compare_at_price",
+                    "value": "1"
+                },
+                {
+                    "code": "use_https_tag",
+                    "value": "1"
+                }
+            ]
+        },
+        "teknomehmet.myshopify.com": {
+            "domain": "teknomehmet.myshopify.com",
+            "options": []
+        },
+        "latium.myshopify.com": {
+            "domain": "latium.myshopify.com",
+            "options": []
+        },
+        "h2-world.myshopify.com": {
+            "domain": "h2-world.myshopify.com",
+            "options": []
+        },
+        "dropbuy-eu.myshopify.com": {
+            "domain": "dropbuy-eu.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 4 έως 10 ημέρες"
+                }
+            ]
+        },
+        "glasses-now.myshopify.com": {
+            "domain": "glasses-now.myshopify.com",
+            "options": []
+        },
+        "footsteps-glyfada.myshopify.com": {
+            "domain": "footsteps-glyfada.myshopify.com",
+            "options": []
+        },
+        "xn-zlbckaaujog5bet4afu8b.myshopify.com": {
+            "domain": "xn-zlbckaaujog5bet4afu8b.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "delivery is 1 to 3 days"
+                }
+            ]
+        },
+        "revir.myshopify.com": {
+            "domain": "revir.myshopify.com",
+            "options": []
+        },
+        "nail-nais.myshopify.com": {
+            "domain": "nail-nais.myshopify.com",
+            "options": []
+        },
+        "mors-dag-chokolade-compagniet.myshopify.com": {
+            "domain": "mors-dag-chokolade-compagniet.myshopify.com",
+            "options": []
+        },
+        "histoiredecrapule.myshopify.com": {
+            "domain": "histoiredecrapule.myshopify.com",
+            "options": []
+        },
+        "moyomo.myshopify.com": {
+            "domain": "moyomo.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "sofi-moukidou-jewellery.myshopify.com": {
+            "domain": "sofi-moukidou-jewellery.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "esocksgr.myshopify.com": {
+            "domain": "esocksgr.myshopify.com",
+            "options": []
+        },
+        "highr-online-store.myshopify.com": {
+            "domain": "highr-online-store.myshopify.com",
+            "options": []
+        },
+        "www-naturallife-co-za.myshopify.com": {
+            "domain": "www-naturallife-co-za.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "friko-ecommerce.myshopify.com": {
+            "domain": "friko-ecommerce.myshopify.com",
+            "options": []
+        },
+        "allart-gallery.myshopify.com": {
+            "domain": "allart-gallery.myshopify.com",
+            "options": []
+        },
+        "aluxero.myshopify.com": {
+            "domain": "aluxero.myshopify.com",
+            "options": []
+        },
+        "whiteroom-korinthos.myshopify.com": {
+            "domain": "whiteroom-korinthos.myshopify.com",
+            "options": [
+                {
+                    "code": "compare_at_price",
+                    "value": "1"
+                },
+                {
+                    "code": "groupSizes",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "beautify-my-walls.myshopify.com": {
+            "domain": "beautify-my-walls.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "yabebo.myshopify.com": {
+            "domain": "yabebo.myshopify.com",
+            "options": []
+        },
+        "wwfmarket.myshopify.com": {
+            "domain": "wwfmarket.myshopify.com",
+            "options": []
+        },
+        "spark-plug5.myshopify.com": {
+            "domain": "spark-plug5.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1 to 5 days"
+                }
+            ]
+        },
+        "fakebox.myshopify.com": {
+            "domain": "fakebox.myshopify.com",
+            "options": [
+                {
+                    "code": "separate_variants_complete",
+                    "value": "1"
+                }
+            ]
+        },
+        "revive-supplements-me.myshopify.com": {
+            "domain": "revive-supplements-me.myshopify.com",
+            "options": []
+        },
+        "hifilife.myshopify.com": {
+            "domain": "hifilife.myshopify.com",
+            "options": []
+        },
+        "unlockdtvonfire.myshopify.com": {
+            "domain": "unlockdtvonfire.myshopify.com",
+            "options": []
+        },
+        "one-only-baby.myshopify.com": {
+            "domain": "one-only-baby.myshopify.com",
+            "options": []
+        },
+        "hercules-store-2.myshopify.com": {
+            "domain": "hercules-store-2.myshopify.com",
+            "options": []
+        },
+        "drakoulis.myshopify.com": {
+            "domain": "drakoulis.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1-3 ημέρες"
+                }
+            ]
+        },
+        "smartmag49store.myshopify.com": {
+            "domain": "smartmag49store.myshopify.com",
+            "options": []
+        },
+        "johns-roaster-coffee.myshopify.com": {
+            "domain": "johns-roaster-coffee.myshopify.com",
+            "options": []
+        },
+        "rafi-gr.myshopify.com": {
+            "domain": "rafi-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "separate_variants",
+                    "value": "2"
+                }
+            ]
+        },
+        "careofbeds.myshopify.com": {
+            "domain": "careofbeds.myshopify.com",
+            "options": []
+        },
+        "markys-shoes.myshopify.com": {
+            "domain": "markys-shoes.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "british-clothing-gr.myshopify.com": {
+            "domain": "british-clothing-gr.myshopify.com",
+            "options": []
+        },
+        "payless-mall.myshopify.com": {
+            "domain": "payless-mall.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 7 to 10 days"
+                }
+            ]
+        },
+        "hill-napper.myshopify.com": {
+            "domain": "hill-napper.myshopify.com",
+            "options": []
+        },
+        "initialshopstart.myshopify.com": {
+            "domain": "initialshopstart.myshopify.com",
+            "options": []
+        },
+        "couture-club-2.myshopify.com": {
+            "domain": "couture-club-2.myshopify.com",
+            "options": []
+        },
+        "vooey.myshopify.com": {
+            "domain": "vooey.myshopify.com",
+            "options": []
+        },
+        "decko-tiles-hungary.myshopify.com": {
+            "domain": "decko-tiles-hungary.myshopify.com",
+            "options": []
+        },
+        "veikals-miedzins.myshopify.com": {
+            "domain": "veikals-miedzins.myshopify.com",
+            "options": []
+        },
+        "stehr-bernhard2825.myshopify.com": {
+            "domain": "stehr-bernhard2825.myshopify.com",
+            "options": []
+        },
+        "qubbix-cz.myshopify.com": {
+            "domain": "qubbix-cz.myshopify.com",
+            "options": []
+        },
+        "suavite.myshopify.com": {
+            "domain": "suavite.myshopify.com",
+            "options": []
+        },
+        "crocus-collector-existanze.myshopify.com": {
+            "domain": "crocus-collector-existanze.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "teago-dk.myshopify.com": {
+            "domain": "teago-dk.myshopify.com",
+            "options": []
+        },
+        "ohbabydev.myshopify.com": {
+            "domain": "ohbabydev.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο. Αποστολή 1-3 ημέρες. "
+                },
+                {
+                    "code": "delivery_from_tag",
+                    "value": "1"
+                }
+            ]
+        },
+        "blackroll-gr.myshopify.com": {
+            "domain": "blackroll-gr.myshopify.com",
+            "options": []
+        },
+        "laughing-buddha-cbd.myshopify.com": {
+            "domain": "laughing-buddha-cbd.myshopify.com",
+            "options": []
+        },
+        "gestimoda.myshopify.com": {
+            "domain": "gestimoda.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "monika-dubey.myshopify.com": {
+            "domain": "monika-dubey.myshopify.com",
+            "options": []
+        },
+        "pavlidis-kosmimata.myshopify.com": {
+            "domain": "pavlidis-kosmimata.myshopify.com",
+            "options": []
+        },
+        "mybrands-store.myshopify.com": {
+            "domain": "mybrands-store.myshopify.com",
+            "options": []
+        },
+        "dev-patagonia-provisions.myshopify.com": {
+            "domain": "dev-patagonia-provisions.myshopify.com",
+            "options": []
+        },
+        "la-stampa-shop.myshopify.com": {
+            "domain": "la-stampa-shop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "cappelletto.myshopify.com": {
+            "domain": "cappelletto.myshopify.com",
+            "options": []
+        },
+        "era24.myshopify.com": {
+            "domain": "era24.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Toimitus jopa 1-3 päivässä"
+                }
+            ]
+        },
+        "homedecorily.myshopify.com": {
+            "domain": "homedecorily.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "14 days"
+                }
+            ]
+        },
+        "laptop-parts-uk.myshopify.com": {
+            "domain": "laptop-parts-uk.myshopify.com",
+            "options": []
+        },
+        "thefashionwholesalers.myshopify.com": {
+            "domain": "thefashionwholesalers.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4 to 10 days"
+                }
+            ]
+        },
+        "sexopedia.myshopify.com": {
+            "domain": "sexopedia.myshopify.com",
+            "options": []
+        },
+        "blackroseboutique-store.myshopify.com": {
+            "domain": "blackroseboutique-store.myshopify.com",
+            "options": []
+        },
+        "oppyerotic.myshopify.com": {
+            "domain": "oppyerotic.myshopify.com",
+            "options": []
+        },
+        "vipbeautycompany.myshopify.com": {
+            "domain": "vipbeautycompany.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 7 to 18 days"
+                }
+            ]
+        },
+        "eroticasshop.myshopify.com": {
+            "domain": "eroticasshop.myshopify.com",
+            "options": []
+        },
+        "oh-well-shop.myshopify.com": {
+            "domain": "oh-well-shop.myshopify.com",
+            "options": []
+        },
+        "kosmimatakia-gr.myshopify.com": {
+            "domain": "kosmimatakia-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "3-5 ημέρες"
+                }
+            ]
+        },
+        "apollocalculator.myshopify.com": {
+            "domain": "apollocalculator.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "12 to 21 days"
+                }
+            ]
+        },
+        "catemel434.myshopify.com": {
+            "domain": "catemel434.myshopify.com",
+            "options": []
+        },
+        "valentetr.myshopify.com": {
+            "domain": "valentetr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "14 Business Days"
+                }
+            ]
+        },
+        "mixshopgr-gr.myshopify.com": {
+            "domain": "mixshopgr-gr.myshopify.com",
+            "options": []
+        },
+        "aplex777.myshopify.com": {
+            "domain": "aplex777.myshopify.com",
+            "options": []
+        },
+        "shop-runswimplay-gr.myshopify.com": {
+            "domain": "shop-runswimplay-gr.myshopify.com",
+            "options": []
+        },
+        "kozmetica.myshopify.com": {
+            "domain": "kozmetica.myshopify.com",
+            "options": []
+        },
+        "coccaps-tr.myshopify.com": {
+            "domain": "coccaps-tr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "aslamcenter.myshopify.com": {
+            "domain": "aslamcenter.myshopify.com",
+            "options": []
+        },
+        "tshirtsbg.myshopify.com": {
+            "domain": "tshirtsbg.myshopify.com",
+            "options": []
+        },
+        "ergaleioxoros.myshopify.com": {
+            "domain": "ergaleioxoros.myshopify.com",
+            "options": []
+        },
+        "early-bird-lucky.myshopify.com": {
+            "domain": "early-bird-lucky.myshopify.com",
+            "options": []
+        },
+        "hobbycolours.myshopify.com": {
+            "domain": "hobbycolours.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "According to our shipping policy "
+                },
+                {
+                    "code": "no_stock",
+                    "value": "1"
+                }
+            ]
+        },
+        "crystallotus-eu.myshopify.com": {
+            "domain": "crystallotus-eu.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_on_no_stock",
+                    "value": "Παράδοση έως 30 ημέρες"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "bestydeals-gr.myshopify.com": {
+            "domain": "bestydeals-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο"
+                }
+            ]
+        },
+        "e-ukr.myshopify.com": {
+            "domain": "e-ukr.myshopify.com",
+            "options": []
+        },
+        "barker-shoes-ltd-us.myshopify.com": {
+            "domain": "barker-shoes-ltd-us.myshopify.com",
+            "options": []
+        },
+        "trendiflystore.myshopify.com": {
+            "domain": "trendiflystore.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "delectatio.myshopify.com": {
+            "domain": "delectatio.myshopify.com",
+            "options": []
+        },
+        "microsoft-software-for-wholesale-price.myshopify.com": {
+            "domain": "microsoft-software-for-wholesale-price.myshopify.com",
+            "options": []
+        },
+        "davidpublication.myshopify.com": {
+            "domain": "davidpublication.myshopify.com",
+            "options": []
+        },
+        "your-baby-safety-store.myshopify.com": {
+            "domain": "your-baby-safety-store.myshopify.com",
+            "options": []
+        },
+        "tarishop13.myshopify.com": {
+            "domain": "tarishop13.myshopify.com",
+            "options": []
+        },
+        "dope-roasting.myshopify.com": {
+            "domain": "dope-roasting.myshopify.com",
+            "options": []
+        },
+        "wcm-photography.myshopify.com": {
+            "domain": "wcm-photography.myshopify.com",
+            "options": []
+        },
+        "botanic-art-ike.myshopify.com": {
+            "domain": "botanic-art-ike.myshopify.com",
+            "options": []
+        },
+        "doorado-eshop.myshopify.com": {
+            "domain": "doorado-eshop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1-3 ημέρες"
+                }
+            ]
+        },
+        "ace1t.myshopify.com": {
+            "domain": "ace1t.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "5-10 days"
+                }
+            ]
+        },
+        "kozmetikstore.myshopify.com": {
+            "domain": "kozmetikstore.myshopify.com",
+            "options": []
+        },
+        "cavistarm.myshopify.com": {
+            "domain": "cavistarm.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Calcule entrega no Checkout"
+                }
+            ]
+        },
+        "sugar-shop-bsm.myshopify.com": {
+            "domain": "sugar-shop-bsm.myshopify.com",
+            "options": []
+        },
+        "canalpakstore.myshopify.com": {
+            "domain": "canalpakstore.myshopify.com",
+            "options": []
+        },
+        "nu-in-eu.myshopify.com": {
+            "domain": "nu-in-eu.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "product-sync-test-store.myshopify.com": {
+            "domain": "product-sync-test-store.myshopify.com",
+            "options": []
+        },
+        "hmly.myshopify.com": {
+            "domain": "hmly.myshopify.com",
+            "options": []
+        },
+        "megabrandelectronics.myshopify.com": {
+            "domain": "megabrandelectronics.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 3-5 Days"
+                }
+            ]
+        },
+        "augluserviss.myshopify.com": {
+            "domain": "augluserviss.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "dimlaj-europe.myshopify.com": {
+            "domain": "dimlaj-europe.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4 to 7 days"
+                }
+            ]
+        },
+        "numeusa.myshopify.com": {
+            "domain": "numeusa.myshopify.com",
+            "options": []
+        },
+        "trevill-design.myshopify.com": {
+            "domain": "trevill-design.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 3 to 5 days"
+                }
+            ]
+        },
+        "evacosmeticsgr.myshopify.com": {
+            "domain": "evacosmeticsgr.myshopify.com",
+            "options": []
+        },
+        "dolps-vestidos-de-festa.myshopify.com": {
+            "domain": "dolps-vestidos-de-festa.myshopify.com",
+            "options": []
+        },
+        "youngldn20.myshopify.com": {
+            "domain": "youngldn20.myshopify.com",
+            "options": []
+        },
+        "cultwine.myshopify.com": {
+            "domain": "cultwine.myshopify.com",
+            "options": []
+        },
+        "freshcut-gr.myshopify.com": {
+            "domain": "freshcut-gr.myshopify.com",
+            "options": []
+        },
+        "undoutcom.myshopify.com": {
+            "domain": "undoutcom.myshopify.com",
+            "options": []
+        },
+        "muliery-shop.myshopify.com": {
+            "domain": "muliery-shop.myshopify.com",
+            "options": []
+        },
+        "menstylebeauty.myshopify.com": {
+            "domain": "menstylebeauty.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "shoppinibr.myshopify.com": {
+            "domain": "shoppinibr.myshopify.com",
+            "options": []
+        },
+        "pinguino-underwear.myshopify.com": {
+            "domain": "pinguino-underwear.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα Διαθέσιμο"
+                },
+                {
+                    "code": "glami_delivery_time",
+                    "value": "2"
+                }
+            ]
+        },
+        "keepsmile-shop.myshopify.com": {
+            "domain": "keepsmile-shop.myshopify.com",
+            "options": []
+        },
+        "milcky.myshopify.com": {
+            "domain": "milcky.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "default"
+                }
+            ]
+        },
+        "kara-spain.myshopify.com": {
+            "domain": "kara-spain.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2"
+                }
+            ]
+        },
+        "my-legacy-imp.myshopify.com": {
+            "domain": "my-legacy-imp.myshopify.com",
+            "options": []
+        },
+        "aurorejewelry.myshopify.com": {
+            "domain": "aurorejewelry.myshopify.com",
+            "options": []
+        },
+        "selfpontochique.myshopify.com": {
+            "domain": "selfpontochique.myshopify.com",
+            "options": []
+        },
+        "go-minimal-house.myshopify.com": {
+            "domain": "go-minimal-house.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Default Delivery time: Delivery 15 to 42 days"
+                }
+            ]
+        },
+        "ramallah-sale.myshopify.com": {
+            "domain": "ramallah-sale.myshopify.com",
+            "options": []
+        },
+        "venusg.myshopify.com": {
+            "domain": "venusg.myshopify.com",
+            "options": []
+        },
+        "queroshop.myshopify.com": {
+            "domain": "queroshop.myshopify.com",
+            "options": []
+        },
+        "sara-day.myshopify.com": {
+            "domain": "sara-day.myshopify.com",
+            "options": []
+        },
+        "ohspecs.myshopify.com": {
+            "domain": "ohspecs.myshopify.com",
+            "options": []
+        },
+        "stuffutech.myshopify.com": {
+            "domain": "stuffutech.myshopify.com",
+            "options": []
+        },
+        "sara-store-online.myshopify.com": {
+            "domain": "sara-store-online.myshopify.com",
+            "options": []
+        },
+        "veobaby.myshopify.com": {
+            "domain": "veobaby.myshopify.com",
+            "options": []
+        },
+        "demoonejbk.myshopify.com": {
+            "domain": "demoonejbk.myshopify.com",
+            "options": []
+        },
+        "hubbl-home.myshopify.com": {
+            "domain": "hubbl-home.myshopify.com",
+            "options": []
+        },
+        "adrienneart.myshopify.com": {
+            "domain": "adrienneart.myshopify.com",
+            "options": []
+        },
+        "test-spotter-com-mt.myshopify.com": {
+            "domain": "test-spotter-com-mt.myshopify.com",
+            "options": []
+        },
+        "artesintonia.myshopify.com": {
+            "domain": "artesintonia.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Prazo de entrega: 08 a 12 dias úteis"
+                }
+            ]
+        },
+        "el-mercado-py.myshopify.com": {
+            "domain": "el-mercado-py.myshopify.com",
+            "options": []
+        },
+        "lojadebebidas.myshopify.com": {
+            "domain": "lojadebebidas.myshopify.com",
+            "options": []
+        },
+        "terra-dt.myshopify.com": {
+            "domain": "terra-dt.myshopify.com",
+            "options": []
+        },
+        "jocalia-gr.myshopify.com": {
+            "domain": "jocalia-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "yomigodo.myshopify.com": {
+            "domain": "yomigodo.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "48h"
+                }
+            ]
+        },
+        "ellisargiboutique.myshopify.com": {
+            "domain": "ellisargiboutique.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "fashionboxgr.myshopify.com": {
+            "domain": "fashionboxgr.myshopify.com",
+            "options": []
+        },
+        "tzoukas.myshopify.com": {
+            "domain": "tzoukas.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1 με 3 ημέρες"
+                }
+            ]
+        },
+        "fashion4pluss.myshopify.com": {
+            "domain": "fashion4pluss.myshopify.com",
+            "options": []
+        },
+        "coffeestorye.myshopify.com": {
+            "domain": "coffeestorye.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1 - 3 günde teslimat"
+                }
+            ]
+        },
+        "innesvingen.myshopify.com": {
+            "domain": "innesvingen.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "easygrowlighting.myshopify.com": {
+            "domain": "easygrowlighting.myshopify.com",
+            "options": []
+        },
+        "radekstore1.myshopify.com": {
+            "domain": "radekstore1.myshopify.com",
+            "options": []
+        },
+        "test-170017.myshopify.com": {
+            "domain": "test-170017.myshopify.com",
+            "options": []
+        },
+        "bolero-shoes.myshopify.com": {
+            "domain": "bolero-shoes.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "baran-aydin-ayakkabi.myshopify.com": {
+            "domain": "baran-aydin-ayakkabi.myshopify.com",
+            "options": []
+        },
+        "ekszertv.myshopify.com": {
+            "domain": "ekszertv.myshopify.com",
+            "options": []
+        },
+        "electrothermoco.myshopify.com": {
+            "domain": "electrothermoco.myshopify.com",
+            "options": []
+        },
+        "eichsp.myshopify.com": {
+            "domain": "eichsp.myshopify.com",
+            "options": []
+        },
+        "coon-sunglasses.myshopify.com": {
+            "domain": "coon-sunglasses.myshopify.com",
+            "options": []
+        },
+        "anelia-gr.myshopify.com": {
+            "domain": "anelia-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "parlesilver.myshopify.com": {
+            "domain": "parlesilver.myshopify.com",
+            "options": []
+        },
+        "shopilovebanago.myshopify.com": {
+            "domain": "shopilovebanago.myshopify.com",
+            "options": []
+        },
+        "derondicom.myshopify.com": {
+            "domain": "derondicom.myshopify.com",
+            "options": []
+        },
+        "petra-greece.myshopify.com": {
+            "domain": "petra-greece.myshopify.com",
+            "options": []
+        },
+        "bodnica-feed.myshopify.com": {
+            "domain": "bodnica-feed.myshopify.com",
+            "options": []
+        },
+        "lemonee-cz.myshopify.com": {
+            "domain": "lemonee-cz.myshopify.com",
+            "options": []
+        },
+        "msoffice-software.myshopify.com": {
+            "domain": "msoffice-software.myshopify.com",
+            "options": []
+        },
+        "importslapnos.myshopify.com": {
+            "domain": "importslapnos.myshopify.com",
+            "options": []
+        },
+        "ahhzzz.myshopify.com": {
+            "domain": "ahhzzz.myshopify.com",
+            "options": []
+        },
+        "bohoboho-cz.myshopify.com": {
+            "domain": "bohoboho-cz.myshopify.com",
+            "options": []
+        },
+        "bshop-plus.myshopify.com": {
+            "domain": "bshop-plus.myshopify.com",
+            "options": []
+        },
+        "tisa-s-trendy-boutique.myshopify.com": {
+            "domain": "tisa-s-trendy-boutique.myshopify.com",
+            "options": []
+        },
+        "sorentessi.myshopify.com": {
+            "domain": "sorentessi.myshopify.com",
+            "options": []
+        },
+        "aesgifts.myshopify.com": {
+            "domain": "aesgifts.myshopify.com",
+            "options": []
+        },
+        "mobilacata.myshopify.com": {
+            "domain": "mobilacata.myshopify.com",
+            "options": []
+        },
+        "naoliving.myshopify.com": {
+            "domain": "naoliving.myshopify.com",
+            "options": []
+        },
+        "loumidi.myshopify.com": {
+            "domain": "loumidi.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παράδοση 1-3 ημέρες"
+                }
+            ]
+        },
+        "total-brands.myshopify.com": {
+            "domain": "total-brands.myshopify.com",
+            "options": []
+        },
+        "bronn.myshopify.com": {
+            "domain": "bronn.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 5 days"
+                }
+            ]
+        },
+        "juliusserrano.myshopify.com": {
+            "domain": "juliusserrano.myshopify.com",
+            "options": []
+        },
+        "lackto.myshopify.com": {
+            "domain": "lackto.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2"
+                }
+            ]
+        },
+        "sitebilltest.myshopify.com": {
+            "domain": "sitebilltest.myshopify.com",
+            "options": []
+        },
+        "wyhnez-gr.myshopify.com": {
+            "domain": "wyhnez-gr.myshopify.com",
+            "options": []
+        },
+        "thewineconnection.myshopify.com": {
+            "domain": "thewineconnection.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Please refer to our shipping page for estimated shipping times."
+                }
+            ]
+        },
+        "mon-macrame.myshopify.com": {
+            "domain": "mon-macrame.myshopify.com",
+            "options": []
+        },
+        "inface-cz.myshopify.com": {
+            "domain": "inface-cz.myshopify.com",
+            "options": []
+        },
+        "igli-kapinova99.myshopify.com": {
+            "domain": "igli-kapinova99.myshopify.com",
+            "options": []
+        },
+        "wurstwaren.myshopify.com": {
+            "domain": "wurstwaren.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "3"
+                }
+            ]
+        },
+        "masque-my-day.myshopify.com": {
+            "domain": "masque-my-day.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδoση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "mysteelshop.myshopify.com": {
+            "domain": "mysteelshop.myshopify.com",
+            "options": []
+        },
+        "luxe-tones.myshopify.com": {
+            "domain": "luxe-tones.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "14giorni123.myshopify.com": {
+            "domain": "14giorni123.myshopify.com",
+            "options": []
+        },
+        "reebelo-dev.myshopify.com": {
+            "domain": "reebelo-dev.myshopify.com",
+            "options": []
+        },
+        "wearshop-greece.myshopify.com": {
+            "domain": "wearshop-greece.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 5 to 10 days"
+                }
+            ]
+        },
+        "reisespill-no.myshopify.com": {
+            "domain": "reisespill-no.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Levering innen 2-4 dager"
+                }
+            ]
+        },
+        "morapple.myshopify.com": {
+            "domain": "morapple.myshopify.com",
+            "options": []
+        },
+        "life-rebel-store.myshopify.com": {
+            "domain": "life-rebel-store.myshopify.com",
+            "options": []
+        },
+        "the-wine-shop-at-lora.myshopify.com": {
+            "domain": "the-wine-shop-at-lora.myshopify.com",
+            "options": []
+        },
+        "clickandone.myshopify.com": {
+            "domain": "clickandone.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 4-5 ημέρες"
+                }
+            ]
+        },
+        "thessakoules-antallaktika-com.myshopify.com": {
+            "domain": "thessakoules-antallaktika-com.myshopify.com",
+            "options": []
+        },
+        "enelpuntog.myshopify.com": {
+            "domain": "enelpuntog.myshopify.com",
+            "options": []
+        },
+        "retromaniacs.myshopify.com": {
+            "domain": "retromaniacs.myshopify.com",
+            "options": []
+        },
+        "oznaturalsmtb.myshopify.com": {
+            "domain": "oznaturalsmtb.myshopify.com",
+            "options": []
+        },
+        "giorgio-mandelli.myshopify.com": {
+            "domain": "giorgio-mandelli.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 2 to 4 days"
+                }
+            ]
+        },
+        "legi-leginy-cz.myshopify.com": {
+            "domain": "legi-leginy-cz.myshopify.com",
+            "options": []
+        },
+        "loveyourselfuk.myshopify.com": {
+            "domain": "loveyourselfuk.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Default Delivery time: Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "a-masks.myshopify.com": {
+            "domain": "a-masks.myshopify.com",
+            "options": [
+                {
+                    "code": "customTitleAndImage",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο"
+                }
+            ]
+        },
+        "strengtht-and-steel.myshopify.com": {
+            "domain": "strengtht-and-steel.myshopify.com",
+            "options": []
+        },
+        "test-katerina.myshopify.com": {
+            "domain": "test-katerina.myshopify.com",
+            "options": []
+        },
+        "mutaz-qab.myshopify.com": {
+            "domain": "mutaz-qab.myshopify.com",
+            "options": []
+        },
+        "thepoplaceus.myshopify.com": {
+            "domain": "thepoplaceus.myshopify.com",
+            "options": []
+        },
+        "amamelis-r.myshopify.com": {
+            "domain": "amamelis-r.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "gadgetsoftheday.myshopify.com": {
+            "domain": "gadgetsoftheday.myshopify.com",
+            "options": []
+        },
+        "littlerayofsunshineboots.myshopify.com": {
+            "domain": "littlerayofsunshineboots.myshopify.com",
+            "options": []
+        },
+        "romvous.myshopify.com": {
+            "domain": "romvous.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "vegan-protein-greece.myshopify.com": {
+            "domain": "vegan-protein-greece.myshopify.com",
+            "options": []
+        },
+        "elisabet-shoes.myshopify.com": {
+            "domain": "elisabet-shoes.myshopify.com",
+            "options": []
+        },
+        "gengibre-pt.myshopify.com": {
+            "domain": "gengibre-pt.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "5"
+                }
+            ]
+        },
+        "my-bambinidreams.myshopify.com": {
+            "domain": "my-bambinidreams.myshopify.com",
+            "options": []
+        },
+        "sip-say.myshopify.com": {
+            "domain": "sip-say.myshopify.com",
+            "options": []
+        },
+        "euroshuz-com.myshopify.com": {
+            "domain": "euroshuz-com.myshopify.com",
+            "options": []
+        },
+        "designer-mask-co.myshopify.com": {
+            "domain": "designer-mask-co.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Standard 2-7 Working Day Delivery"
+                }
+            ]
+        },
+        "rexowlshop.myshopify.com": {
+            "domain": "rexowlshop.myshopify.com",
+            "options": []
+        },
+        "kardioprotektin.myshopify.com": {
+            "domain": "kardioprotektin.myshopify.com",
+            "options": []
+        },
+        "profiswim-sk.myshopify.com": {
+            "domain": "profiswim-sk.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "na sklade"
+                }
+            ]
+        },
+        "bb-malin.myshopify.com": {
+            "domain": "bb-malin.myshopify.com",
+            "options": []
+        },
+        "azvino-cz.myshopify.com": {
+            "domain": "azvino-cz.myshopify.com",
+            "options": []
+        },
+        "biocity-biobolt.myshopify.com": {
+            "domain": "biocity-biobolt.myshopify.com",
+            "options": []
+        },
+        "mutamid.myshopify.com": {
+            "domain": "mutamid.myshopify.com",
+            "options": []
+        },
+        "intune-drinks.myshopify.com": {
+            "domain": "intune-drinks.myshopify.com",
+            "options": []
+        },
+        "tech-house-ionia.myshopify.com": {
+            "domain": "tech-house-ionia.myshopify.com",
+            "options": []
+        },
+        "bondi-fashion.myshopify.com": {
+            "domain": "bondi-fashion.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "bestesshop-de.myshopify.com": {
+            "domain": "bestesshop-de.myshopify.com",
+            "options": []
+        },
+        "pshop-hu.myshopify.com": {
+            "domain": "pshop-hu.myshopify.com",
+            "options": []
+        },
+        "decoplantco.myshopify.com": {
+            "domain": "decoplantco.myshopify.com",
+            "options": []
+        },
+        "lemon-lunar-uk.myshopify.com": {
+            "domain": "lemon-lunar-uk.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 3 - 5 Days"
+                }
+            ]
+        },
+        "blackgreenn.myshopify.com": {
+            "domain": "blackgreenn.myshopify.com",
+            "options": []
+        },
+        "salons-ostudio.myshopify.com": {
+            "domain": "salons-ostudio.myshopify.com",
+            "options": []
+        },
+        "sutil-casa.myshopify.com": {
+            "domain": "sutil-casa.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Entrega em 10-30 dias"
+                }
+            ]
+        },
+        "smartmann.myshopify.com": {
+            "domain": "smartmann.myshopify.com",
+            "options": []
+        },
+        "tes-wigs.myshopify.com": {
+            "domain": "tes-wigs.myshopify.com",
+            "options": []
+        },
+        "cosmeticbay-gr.myshopify.com": {
+            "domain": "cosmeticbay-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 4 έως 10 ημέρες"
+                }
+            ]
+        },
+        "dealakias.myshopify.com": {
+            "domain": "dealakias.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "pstorehu.myshopify.com": {
+            "domain": "pstorehu.myshopify.com",
+            "options": []
+        },
+        "topy-kids.myshopify.com": {
+            "domain": "topy-kids.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "https://skroutzofficial.thinkplus.dev/xml-skroutz?shop=topy-kids.myshopify.com"
+                }
+            ]
+        },
+        "shirt-lab-store.myshopify.com": {
+            "domain": "shirt-lab-store.myshopify.com",
+            "options": []
+        },
+        "tesla-mag.myshopify.com": {
+            "domain": "tesla-mag.myshopify.com",
+            "options": []
+        },
+        "hebekidshome.myshopify.com": {
+            "domain": "hebekidshome.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery time 20 days"
+                }
+            ]
+        },
+        "milcky-uk.myshopify.com": {
+            "domain": "milcky-uk.myshopify.com",
+            "options": []
+        },
+        "weareshoes-athens.myshopify.com": {
+            "domain": "weareshoes-athens.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδoση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "nargili.myshopify.com": {
+            "domain": "nargili.myshopify.com",
+            "options": []
+        },
+        "mxonlineshop.myshopify.com": {
+            "domain": "mxonlineshop.myshopify.com",
+            "options": []
+        },
+        "rewebat.myshopify.com": {
+            "domain": "rewebat.myshopify.com",
+            "options": []
+        },
+        "freelinebrands4all.myshopify.com": {
+            "domain": "freelinebrands4all.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1-3 μέρες"
+                }
+            ]
+        },
+        "modacalling.myshopify.com": {
+            "domain": "modacalling.myshopify.com",
+            "options": []
+        },
+        "kiajadwattrial.myshopify.com": {
+            "domain": "kiajadwattrial.myshopify.com",
+            "options": []
+        },
+        "fatboy-fr.myshopify.com": {
+            "domain": "fatboy-fr.myshopify.com",
+            "options": []
+        },
+        "engraved-in-nature.myshopify.com": {
+            "domain": "engraved-in-nature.myshopify.com",
+            "options": []
+        },
+        "down-to-earth-wine.myshopify.com": {
+            "domain": "down-to-earth-wine.myshopify.com",
+            "options": []
+        },
+        "alpha-delta-s-a.myshopify.com": {
+            "domain": "alpha-delta-s-a.myshopify.com",
+            "options": []
+        },
+        "bossabrasil.myshopify.com": {
+            "domain": "bossabrasil.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "sklavounisstore.myshopify.com": {
+            "domain": "sklavounisstore.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "ΑΜΕΣΑ ΔΙΑΘΕΣΙΜΟ"
+                }
+            ]
+        },
+        "eco-tiny.myshopify.com": {
+            "domain": "eco-tiny.myshopify.com",
+            "options": []
+        },
+        "secret-gardening-club.myshopify.com": {
+            "domain": "secret-gardening-club.myshopify.com",
+            "options": []
+        },
+        "art-for-memories.myshopify.com": {
+            "domain": "art-for-memories.myshopify.com",
+            "options": []
+        },
+        "r-beautystore.myshopify.com": {
+            "domain": "r-beautystore.myshopify.com",
+            "options": []
+        },
+        "buytopgift.myshopify.com": {
+            "domain": "buytopgift.myshopify.com",
+            "options": []
+        },
+        "telis-fashion.myshopify.com": {
+            "domain": "telis-fashion.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Αποστολή σε 1-3 εργάσιμες"
+                }
+            ]
+        },
+        "guffstore.myshopify.com": {
+            "domain": "guffstore.myshopify.com",
+            "options": []
+        },
+        "lavenderworld.myshopify.com": {
+            "domain": "lavenderworld.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "nume-optimization.myshopify.com": {
+            "domain": "nume-optimization.myshopify.com",
+            "options": []
+        },
+        "beautyitemsgr.myshopify.com": {
+            "domain": "beautyitemsgr.myshopify.com",
+            "options": []
+        },
+        "hamamcii.myshopify.com": {
+            "domain": "hamamcii.myshopify.com",
+            "options": []
+        },
+        "dognrose.myshopify.com": {
+            "domain": "dognrose.myshopify.com",
+            "options": []
+        },
+        "kutts1.myshopify.com": {
+            "domain": "kutts1.myshopify.com",
+            "options": []
+        },
+        "bestpistolgrips.myshopify.com": {
+            "domain": "bestpistolgrips.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4-5 working days after finishing your product"
+                }
+            ]
+        },
+        "beauty-flakes.myshopify.com": {
+            "domain": "beauty-flakes.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "htdr.myshopify.com": {
+            "domain": "htdr.myshopify.com",
+            "options": []
+        },
+        "sensa-milano.myshopify.com": {
+            "domain": "sensa-milano.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "nayacandles.myshopify.com": {
+            "domain": "nayacandles.myshopify.com",
+            "options": []
+        },
+        "jlvgr.myshopify.com": {
+            "domain": "jlvgr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "yststyle.myshopify.com": {
+            "domain": "yststyle.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο μέσα σε 1 με 5 μέρες"
+                }
+            ]
+        },
+        "elektrik-concept.myshopify.com": {
+            "domain": "elektrik-concept.myshopify.com",
+            "options": []
+        },
+        "addbagnet.myshopify.com": {
+            "domain": "addbagnet.myshopify.com",
+            "options": []
+        },
+        "erotikashop24.myshopify.com": {
+            "domain": "erotikashop24.myshopify.com",
+            "options": []
+        },
+        "conjure-man.myshopify.com": {
+            "domain": "conjure-man.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 7 days"
+                }
+            ]
+        },
+        "blushgreece-shop.myshopify.com": {
+            "domain": "blushgreece-shop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 10 to 15 days"
+                }
+            ]
+        },
+        "jacques-hermes.myshopify.com": {
+            "domain": "jacques-hermes.myshopify.com",
+            "options": []
+        },
+        "plove-brand.myshopify.com": {
+            "domain": "plove-brand.myshopify.com",
+            "options": []
+        },
+        "tfn-online.myshopify.com": {
+            "domain": "tfn-online.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Piegāde Venipak"
+                }
+            ]
+        },
+        "la-carta-gr.myshopify.com": {
+            "domain": "la-carta-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "serenity-cbd-espana.myshopify.com": {
+            "domain": "serenity-cbd-espana.myshopify.com",
+            "options": []
+        },
+        "sovrakofanela.myshopify.com": {
+            "domain": "sovrakofanela.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 - 3 ημέρες"
+                }
+            ]
+        },
+        "e-panelas.myshopify.com": {
+            "domain": "e-panelas.myshopify.com",
+            "options": []
+        },
+        "sport-duwe-saulheim.myshopify.com": {
+            "domain": "sport-duwe-saulheim.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Lieferzeit: 2-3 Werktage"
+                }
+            ]
+        },
+        "csgoshop-cz.myshopify.com": {
+            "domain": "csgoshop-cz.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "exactly-different.myshopify.com": {
+            "domain": "exactly-different.myshopify.com",
+            "options": []
+        },
+        "saturmedia.myshopify.com": {
+            "domain": "saturmedia.myshopify.com",
+            "options": []
+        },
+        "2upgradesrl.myshopify.com": {
+            "domain": "2upgradesrl.myshopify.com",
+            "options": []
+        },
+        "zoomba-eu.myshopify.com": {
+            "domain": "zoomba-eu.myshopify.com",
+            "options": []
+        },
+        "kasadaoferta.myshopify.com": {
+            "domain": "kasadaoferta.myshopify.com",
+            "options": []
+        },
+        "vector-foods.myshopify.com": {
+            "domain": "vector-foods.myshopify.com",
+            "options": []
+        },
+        "leonidasathina.myshopify.com": {
+            "domain": "leonidasathina.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 4 έως 10 ημέρες "
+                }
+            ]
+        },
+        "legowiskopsa-pl.myshopify.com": {
+            "domain": "legowiskopsa-pl.myshopify.com",
+            "options": []
+        },
+        "turquoise-tx.myshopify.com": {
+            "domain": "turquoise-tx.myshopify.com",
+            "options": []
+        },
+        "videobabilon.myshopify.com": {
+            "domain": "videobabilon.myshopify.com",
+            "options": []
+        },
+        "topchobeanbags.myshopify.com": {
+            "domain": "topchobeanbags.myshopify.com",
+            "options": []
+        },
+        "halifaks.myshopify.com": {
+            "domain": "halifaks.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "stamatakis-shoes.myshopify.com": {
+            "domain": "stamatakis-shoes.myshopify.com",
+            "options": []
+        },
+        "marianne-jones.myshopify.com": {
+            "domain": "marianne-jones.myshopify.com",
+            "options": []
+        },
+        "poshmarketgr.myshopify.com": {
+            "domain": "poshmarketgr.myshopify.com",
+            "options": []
+        },
+        "ultrabee-uae.myshopify.com": {
+            "domain": "ultrabee-uae.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Deliver in 1 to 3 days"
+                }
+            ]
+        },
+        "xn-dldb6ay8bbbckbbcam2cobcj9b2cmcuv4t.myshopify.com": {
+            "domain": "xn-dldb6ay8bbbckbbcam2cobcj9b2cmcuv4t.myshopify.com",
+            "options": []
+        },
+        "theoakjournal.myshopify.com": {
+            "domain": "theoakjournal.myshopify.com",
+            "options": []
+        },
+        "beautyone-gr.myshopify.com": {
+            "domain": "beautyone-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "3"
+                }
+            ]
+        },
+        "ropeincense.myshopify.com": {
+            "domain": "ropeincense.myshopify.com",
+            "options": []
+        },
+        "find-good-life-with-us.myshopify.com": {
+            "domain": "find-good-life-with-us.myshopify.com",
+            "options": []
+        },
+        "enecta-hellas.myshopify.com": {
+            "domain": "enecta-hellas.myshopify.com",
+            "options": []
+        },
+        "ricolee-official.myshopify.com": {
+            "domain": "ricolee-official.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 12 to 18 days"
+                }
+            ]
+        },
+        "photo-rings.myshopify.com": {
+            "domain": "photo-rings.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery time 4 to 8"
+                }
+            ]
+        },
+        "clothinginsta.myshopify.com": {
+            "domain": "clothinginsta.myshopify.com",
+            "options": []
+        },
+        "iplove-epilator.myshopify.com": {
+            "domain": "iplove-epilator.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "7-14"
+                }
+            ]
+        },
+        "blazeandchill.myshopify.com": {
+            "domain": "blazeandchill.myshopify.com",
+            "options": []
+        },
+        "arasambulsam.myshopify.com": {
+            "domain": "arasambulsam.myshopify.com",
+            "options": []
+        },
+        "ustyle-gr.myshopify.com": {
+            "domain": "ustyle-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "tokiogels.myshopify.com": {
+            "domain": "tokiogels.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "norwest-customs.myshopify.com": {
+            "domain": "norwest-customs.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "heletest.myshopify.com": {
+            "domain": "heletest.myshopify.com",
+            "options": []
+        },
+        "issacar-certificado-digital.myshopify.com": {
+            "domain": "issacar-certificado-digital.myshopify.com",
+            "options": []
+        },
+        "brasil-adesivos-bronzeamento.myshopify.com": {
+            "domain": "brasil-adesivos-bronzeamento.myshopify.com",
+            "options": []
+        },
+        "remedium-health-care-systems.myshopify.com": {
+            "domain": "remedium-health-care-systems.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση με Γενική Ταχυδρομική σε 2 - 5 εργάσιμες ημέρες."
+                }
+            ]
+        },
+        "autoleds-gr.myshopify.com": {
+            "domain": "autoleds-gr.myshopify.com",
+            "options": []
+        },
+        "bassilis.myshopify.com": {
+            "domain": "bassilis.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 4 έως 10 ημέρες "
+                }
+            ]
+        },
+        "montazstore.myshopify.com": {
+            "domain": "montazstore.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Σε απόθεμα Παράδοση 1 έως 3 εργάσιμες ημέρες"
+                }
+            ]
+        },
+        "gente-moda.myshopify.com": {
+            "domain": "gente-moda.myshopify.com",
+            "options": []
+        },
+        "happy-selection-pt.myshopify.com": {
+            "domain": "happy-selection-pt.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Envio de 3 a 4 dias"
+                }
+            ]
+        },
+        "the-basic-babe-store.myshopify.com": {
+            "domain": "the-basic-babe-store.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "polinechildrenshoes.myshopify.com": {
+            "domain": "polinechildrenshoes.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "shopandgo-online.myshopify.com": {
+            "domain": "shopandgo-online.myshopify.com",
+            "options": []
+        },
+        "papiruveikals.myshopify.com": {
+            "domain": "papiruveikals.myshopify.com",
+            "options": []
+        },
+        "morati-world.myshopify.com": {
+            "domain": "morati-world.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 3 to 7 days"
+                }
+            ]
+        },
+        "klerr-eu.myshopify.com": {
+            "domain": "klerr-eu.myshopify.com",
+            "options": []
+        },
+        "triclicks-store.myshopify.com": {
+            "domain": "triclicks-store.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "du-son-company-gr.myshopify.com": {
+            "domain": "du-son-company-gr.myshopify.com",
+            "options": []
+        },
+        "paradis-athens.myshopify.com": {
+            "domain": "paradis-athens.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1 - 3 ημέρες"
+                }
+            ]
+        },
+        "tunchiyu-wear.myshopify.com": {
+            "domain": "tunchiyu-wear.myshopify.com",
+            "options": []
+        },
+        "telex-store.myshopify.com": {
+            "domain": "telex-store.myshopify.com",
+            "options": []
+        },
+        "emblue-dev-lm.myshopify.com": {
+            "domain": "emblue-dev-lm.myshopify.com",
+            "options": []
+        },
+        "mytestpharmacy.myshopify.com": {
+            "domain": "mytestpharmacy.myshopify.com",
+            "options": []
+        },
+        "miss-suki-beauty.myshopify.com": {
+            "domain": "miss-suki-beauty.myshopify.com",
+            "options": []
+        },
+        "alexandris.myshopify.com": {
+            "domain": "alexandris.myshopify.com",
+            "options": []
+        },
+        "shopartofentertainment.myshopify.com": {
+            "domain": "shopartofentertainment.myshopify.com",
+            "options": []
+        },
+        "xplayer-gr.myshopify.com": {
+            "domain": "xplayer-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 4-10 εργάσιμες ημέρες"
+                }
+            ]
+        },
+        "mekkoua.myshopify.com": {
+            "domain": "mekkoua.myshopify.com",
+            "options": []
+        },
+        "3beez-gr.myshopify.com": {
+            "domain": "3beez-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 5 days"
+                }
+            ]
+        },
+        "bonvila.myshopify.com": {
+            "domain": "bonvila.myshopify.com",
+            "options": []
+        },
+        "projecthomme.myshopify.com": {
+            "domain": "projecthomme.myshopify.com",
+            "options": []
+        },
+        "thesinglecask-co-uk.myshopify.com": {
+            "domain": "thesinglecask-co-uk.myshopify.com",
+            "options": []
+        },
+        "brandsluxury-outlet.myshopify.com": {
+            "domain": "brandsluxury-outlet.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "technogama4.myshopify.com": {
+            "domain": "technogama4.myshopify.com",
+            "options": []
+        },
+        "baltagulbe.myshopify.com": {
+            "domain": "baltagulbe.myshopify.com",
+            "options": []
+        },
+        "zhengshi-2021.myshopify.com": {
+            "domain": "zhengshi-2021.myshopify.com",
+            "options": []
+        },
+        "bioaquastic.myshopify.com": {
+            "domain": "bioaquastic.myshopify.com",
+            "options": []
+        },
+        "delbovecosmetics.myshopify.com": {
+            "domain": "delbovecosmetics.myshopify.com",
+            "options": []
+        },
+        "greecestoree.myshopify.com": {
+            "domain": "greecestoree.myshopify.com",
+            "options": []
+        },
+        "amatime.myshopify.com": {
+            "domain": "amatime.myshopify.com",
+            "options": []
+        },
+        "lord-georges.myshopify.com": {
+            "domain": "lord-georges.myshopify.com",
+            "options": []
+        },
+        "masticlife-cz.myshopify.com": {
+            "domain": "masticlife-cz.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 day"
+                }
+            ]
+        },
+        "whitefabric.myshopify.com": {
+            "domain": "whitefabric.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως 3 εργάσιμες"
+                },
+                {
+                    "code": "separate_variants_complete",
+                    "value": "1"
+                }
+            ]
+        },
+        "bystag.myshopify.com": {
+            "domain": "bystag.myshopify.com",
+            "options": []
+        },
+        "www-orajbutik-com.myshopify.com": {
+            "domain": "www-orajbutik-com.myshopify.com",
+            "options": []
+        },
+        "itmerchant.myshopify.com": {
+            "domain": "itmerchant.myshopify.com",
+            "options": []
+        },
+        "barilliance-demo.myshopify.com": {
+            "domain": "barilliance-demo.myshopify.com",
+            "options": []
+        },
+        "pelleturca-com.myshopify.com": {
+            "domain": "pelleturca-com.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "kasa-feliz.myshopify.com": {
+            "domain": "kasa-feliz.myshopify.com",
+            "options": []
+        },
+        "pandectes.myshopify.com": {
+            "domain": "pandectes.myshopify.com",
+            "options": []
+        },
+        "zingyzoo.myshopify.com": {
+            "domain": "zingyzoo.myshopify.com",
+            "options": []
+        },
+        "bestarboutique.myshopify.com": {
+            "domain": "bestarboutique.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "dorgan-rawlings-limited.myshopify.com": {
+            "domain": "dorgan-rawlings-limited.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Standard delivery 3-5 working days - £3.99 (free orders over £30), next day delivery - £5.99"
+                },
+                {
+                    "code": "shop_url",
+                    "value": "www.ology32.com"
+                }
+            ]
+        },
+        "www-xrysos-gr.myshopify.com": {
+            "domain": "www-xrysos-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "lotusone-x.myshopify.com": {
+            "domain": "lotusone-x.myshopify.com",
+            "options": []
+        },
+        "petsexclusive.myshopify.com": {
+            "domain": "petsexclusive.myshopify.com",
+            "options": []
+        },
+        "homedecor-trends.myshopify.com": {
+            "domain": "homedecor-trends.myshopify.com",
+            "options": []
+        },
+        "allforyou-cy.myshopify.com": {
+            "domain": "allforyou-cy.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "bluemoonbiz.myshopify.com": {
+            "domain": "bluemoonbiz.myshopify.com",
+            "options": []
+        },
+        "dreams-custom-dc.myshopify.com": {
+            "domain": "dreams-custom-dc.myshopify.com",
+            "options": []
+        },
+        "beautygramgreece.myshopify.com": {
+            "domain": "beautygramgreece.myshopify.com",
+            "options": []
+        },
+        "hot-adventures.myshopify.com": {
+            "domain": "hot-adventures.myshopify.com",
+            "options": []
+        },
+        "maskedy.myshopify.com": {
+            "domain": "maskedy.myshopify.com",
+            "options": []
+        },
+        "tech-expert-gr.myshopify.com": {
+            "domain": "tech-expert-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση από 4-10 εργάσιμες ημέρες"
+                }
+            ]
+        },
+        "careforyou-gr.myshopify.com": {
+            "domain": "careforyou-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "helessence.myshopify.com": {
+            "domain": "helessence.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Αποστολή σε 1-3 εργάσιμες ημέρες"
+                }
+            ]
+        },
+        "white-snus.myshopify.com": {
+            "domain": "white-snus.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "bfocusgr.myshopify.com": {
+            "domain": "bfocusgr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 Days"
+                }
+            ]
+        },
+        "we-are-here-now-lets-do-it.myshopify.com": {
+            "domain": "we-are-here-now-lets-do-it.myshopify.com",
+            "options": []
+        },
+        "george-tatakis.myshopify.com": {
+            "domain": "george-tatakis.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 5 days"
+                }
+            ]
+        },
+        "vgrtest.myshopify.com": {
+            "domain": "vgrtest.myshopify.com",
+            "options": []
+        },
+        "kldio.myshopify.com": {
+            "domain": "kldio.myshopify.com",
+            "options": []
+        },
+        "atelierul-de-printuri.myshopify.com": {
+            "domain": "atelierul-de-printuri.myshopify.com",
+            "options": []
+        },
+        "ultimate-ali-shop.myshopify.com": {
+            "domain": "ultimate-ali-shop.myshopify.com",
+            "options": []
+        },
+        "rivusstore.myshopify.com": {
+            "domain": "rivusstore.myshopify.com",
+            "options": []
+        },
+        "cheaphouse-gr.myshopify.com": {
+            "domain": "cheaphouse-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα Διαθέσιμο"
+                }
+            ]
+        },
+        "pieco-ro.myshopify.com": {
+            "domain": "pieco-ro.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2-4 zile"
+                }
+            ]
+        },
+        "maquis-and-co-online.myshopify.com": {
+            "domain": "maquis-and-co-online.myshopify.com",
+            "options": []
+        },
+        "vistocityltd.myshopify.com": {
+            "domain": "vistocityltd.myshopify.com",
+            "options": []
+        },
+        "true-face-uk.myshopify.com": {
+            "domain": "true-face-uk.myshopify.com",
+            "options": []
+        },
+        "caseland-marketplace.myshopify.com": {
+            "domain": "caseland-marketplace.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "justhype-ltd.myshopify.com": {
+            "domain": "justhype-ltd.myshopify.com",
+            "options": []
+        },
+        "viralprotect-global.myshopify.com": {
+            "domain": "viralprotect-global.myshopify.com",
+            "options": []
+        },
+        "ramy-gr.myshopify.com": {
+            "domain": "ramy-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "dstrezzed-nl.myshopify.com": {
+            "domain": "dstrezzed-nl.myshopify.com",
+            "options": []
+        },
+        "cryptoholic-shop.myshopify.com": {
+            "domain": "cryptoholic-shop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery: 10 to 43 business days, depending on your location"
+                }
+            ]
+        },
+        "viralprotect-de.myshopify.com": {
+            "domain": "viralprotect-de.myshopify.com",
+            "options": []
+        },
+        "cvshopping-mx.myshopify.com": {
+            "domain": "cvshopping-mx.myshopify.com",
+            "options": []
+        },
+        "glitz-shop-online.myshopify.com": {
+            "domain": "glitz-shop-online.myshopify.com",
+            "options": []
+        },
+        "tiendas-universal.myshopify.com": {
+            "domain": "tiendas-universal.myshopify.com",
+            "options": []
+        },
+        "jdcjewellers.myshopify.com": {
+            "domain": "jdcjewellers.myshopify.com",
+            "options": []
+        },
+        "hempamed-uk.myshopify.com": {
+            "domain": "hempamed-uk.myshopify.com",
+            "options": []
+        },
+        "staging-justhype.myshopify.com": {
+            "domain": "staging-justhype.myshopify.com",
+            "options": []
+        },
+        "where-tomorrow.myshopify.com": {
+            "domain": "where-tomorrow.myshopify.com",
+            "options": []
+        },
+        "boxgamesnl.myshopify.com": {
+            "domain": "boxgamesnl.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Per product verschillend"
+                }
+            ]
+        },
+        "london-outlet-store.myshopify.com": {
+            "domain": "london-outlet-store.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "EU Saver (4 - 6 Working Days) tracking     "
+                }
+            ]
+        },
+        "profitek-com-ua.myshopify.com": {
+            "domain": "profitek-com-ua.myshopify.com",
+            "options": []
+        },
+        "lottie-dolls.myshopify.com": {
+            "domain": "lottie-dolls.myshopify.com",
+            "options": []
+        },
+        "testingas2.myshopify.com": {
+            "domain": "testingas2.myshopify.com",
+            "options": []
+        },
+        "emakshoes.myshopify.com": {
+            "domain": "emakshoes.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως 3 μέρες"
+                },
+                {
+                    "code": "separate_variants",
+                    "value": "2"
+                }
+            ]
+        },
+        "uandu-de.myshopify.com": {
+            "domain": "uandu-de.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "elephant-stores.myshopify.com": {
+            "domain": "elephant-stores.myshopify.com",
+            "options": []
+        },
+        "prohealth-longevity.myshopify.com": {
+            "domain": "prohealth-longevity.myshopify.com",
+            "options": []
+        },
+        "childuniverse.myshopify.com": {
+            "domain": "childuniverse.myshopify.com",
+            "options": []
+        },
+        "simplyhike.myshopify.com": {
+            "domain": "simplyhike.myshopify.com",
+            "options": []
+        },
+        "kamarcin.myshopify.com": {
+            "domain": "kamarcin.myshopify.com",
+            "options": []
+        },
+        "xn-hxajt2bhby.myshopify.com": {
+            "domain": "xn-hxajt2bhby.myshopify.com",
+            "options": []
+        },
+        "sector-pyme.myshopify.com": {
+            "domain": "sector-pyme.myshopify.com",
+            "options": []
+        },
+        "furnhouse-aps.myshopify.com": {
+            "domain": "furnhouse-aps.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 2 to 5 days"
+                }
+            ]
+        },
+        "vessel-essential-oils.myshopify.com": {
+            "domain": "vessel-essential-oils.myshopify.com",
+            "options": []
+        },
+        "lettrage-velo.myshopify.com": {
+            "domain": "lettrage-velo.myshopify.com",
+            "options": []
+        },
+        "wg-interation.myshopify.com": {
+            "domain": "wg-interation.myshopify.com",
+            "options": []
+        },
+        "custom-controllers-uk-limited.myshopify.com": {
+            "domain": "custom-controllers-uk-limited.myshopify.com",
+            "options": []
+        },
+        "melollevocl.myshopify.com": {
+            "domain": "melollevocl.myshopify.com",
+            "options": []
+        },
+        "mymugcart.myshopify.com": {
+            "domain": "mymugcart.myshopify.com",
+            "options": []
+        },
+        "st-nk.myshopify.com": {
+            "domain": "st-nk.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery time is 1 to 4 days"
+                }
+            ]
+        },
+        "naturecan-gr.myshopify.com": {
+            "domain": "naturecan-gr.myshopify.com",
+            "options": []
+        },
+        "calypso-eco-savonnerie.myshopify.com": {
+            "domain": "calypso-eco-savonnerie.myshopify.com",
+            "options": []
+        },
+        "hookesinteriors.myshopify.com": {
+            "domain": "hookesinteriors.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "thetoyman.myshopify.com": {
+            "domain": "thetoyman.myshopify.com",
+            "options": []
+        },
+        "sheorders.myshopify.com": {
+            "domain": "sheorders.myshopify.com",
+            "options": []
+        },
+        "bare-lash.myshopify.com": {
+            "domain": "bare-lash.myshopify.com",
+            "options": []
+        },
+        "woodmymap.myshopify.com": {
+            "domain": "woodmymap.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "currentboutique.myshopify.com": {
+            "domain": "currentboutique.myshopify.com",
+            "options": []
+        },
+        "verzlunarfelagid.myshopify.com": {
+            "domain": "verzlunarfelagid.myshopify.com",
+            "options": []
+        },
+        "backner-aps.myshopify.com": {
+            "domain": "backner-aps.myshopify.com",
+            "options": []
+        },
+        "nicoandyeye-com.myshopify.com": {
+            "domain": "nicoandyeye-com.myshopify.com",
+            "options": []
+        },
+        "animojo-fr.myshopify.com": {
+            "domain": "animojo-fr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Livraison en 6 à 9 jours"
+                }
+            ]
+        },
+        "rhubarb-lemon.myshopify.com": {
+            "domain": "rhubarb-lemon.myshopify.com",
+            "options": []
+        },
+        "vegane-haarpflege.myshopify.com": {
+            "domain": "vegane-haarpflege.myshopify.com",
+            "options": []
+        },
+        "hippie-pants.myshopify.com": {
+            "domain": "hippie-pants.myshopify.com",
+            "options": []
+        },
+        "solo-rugs.myshopify.com": {
+            "domain": "solo-rugs.myshopify.com",
+            "options": []
+        },
+        "bellinoonline.myshopify.com": {
+            "domain": "bellinoonline.myshopify.com",
+            "options": []
+        },
+        "laure-green.myshopify.com": {
+            "domain": "laure-green.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2-10 Werktage"
+                }
+            ]
+        },
+        "helloshophu.myshopify.com": {
+            "domain": "helloshophu.myshopify.com",
+            "options": []
+        },
+        "lottie-irl.myshopify.com": {
+            "domain": "lottie-irl.myshopify.com",
+            "options": []
+        },
+        "electragora.myshopify.com": {
+            "domain": "electragora.myshopify.com",
+            "options": []
+        },
+        "grandcruvinhos.myshopify.com": {
+            "domain": "grandcruvinhos.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "shampoocre-c.myshopify.com": {
+            "domain": "shampoocre-c.myshopify.com",
+            "options": []
+        },
+        "semiology-define-the-code-of-style.myshopify.com": {
+            "domain": "semiology-define-the-code-of-style.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1 εώς 3 ημέρες"
+                }
+            ]
+        },
+        "shopaxl.myshopify.com": {
+            "domain": "shopaxl.myshopify.com",
+            "options": []
+        },
+        "hawemey871.myshopify.com": {
+            "domain": "hawemey871.myshopify.com",
+            "options": []
+        },
+        "coffeeandkitchen.myshopify.com": {
+            "domain": "coffeeandkitchen.myshopify.com",
+            "options": []
+        },
+        "jovonna-london.myshopify.com": {
+            "domain": "jovonna-london.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "arambol.myshopify.com": {
+            "domain": "arambol.myshopify.com",
+            "options": []
+        },
+        "australianwoodwork.myshopify.com": {
+            "domain": "australianwoodwork.myshopify.com",
+            "options": []
+        },
+        "ravary-store.myshopify.com": {
+            "domain": "ravary-store.myshopify.com",
+            "options": []
+        },
+        "werksneakers.myshopify.com": {
+            "domain": "werksneakers.myshopify.com",
+            "options": []
+        },
+        "unsibeaupas.myshopify.com": {
+            "domain": "unsibeaupas.myshopify.com",
+            "options": []
+        },
+        "shopvirtal.myshopify.com": {
+            "domain": "shopvirtal.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "15"
+                }
+            ]
+        },
+        "kervansanal.myshopify.com": {
+            "domain": "kervansanal.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "carmelita-brand.myshopify.com": {
+            "domain": "carmelita-brand.myshopify.com",
+            "options": []
+        },
+        "rede-beauty-brasil.myshopify.com": {
+            "domain": "rede-beauty-brasil.myshopify.com",
+            "options": []
+        },
+        "forb-gemz.myshopify.com": {
+            "domain": "forb-gemz.myshopify.com",
+            "options": []
+        },
+        "watson-parker.myshopify.com": {
+            "domain": "watson-parker.myshopify.com",
+            "options": []
+        },
+        "the-watchmaker-store.myshopify.com": {
+            "domain": "the-watchmaker-store.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4 to 10 days"
+                }
+            ]
+        },
+        "www-shoffer.myshopify.com": {
+            "domain": "www-shoffer.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "4-10 ημέρες"
+                }
+            ]
+        },
+        "mmkartdesign.myshopify.com": {
+            "domain": "mmkartdesign.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Szállítás 3-5 munkanap"
+                }
+            ]
+        },
+        "gamebtye.myshopify.com": {
+            "domain": "gamebtye.myshopify.com",
+            "options": []
+        },
+        "evonnatr.myshopify.com": {
+            "domain": "evonnatr.myshopify.com",
+            "options": []
+        },
+        "ginspecialist.myshopify.com": {
+            "domain": "ginspecialist.myshopify.com",
+            "options": []
+        },
+        "tricot-jean-marc.myshopify.com": {
+            "domain": "tricot-jean-marc.myshopify.com",
+            "options": []
+        },
+        "awarenutrition.myshopify.com": {
+            "domain": "awarenutrition.myshopify.com",
+            "options": []
+        },
+        "just-hype.myshopify.com": {
+            "domain": "just-hype.myshopify.com",
+            "options": []
+        },
+        "xn-rlbkcq4dnpuds4f.myshopify.com": {
+            "domain": "xn-rlbkcq4dnpuds4f.myshopify.com",
+            "options": []
+        },
+        "adaj-ikier.myshopify.com": {
+            "domain": "adaj-ikier.myshopify.com",
+            "options": []
+        },
+        "leon-flam.myshopify.com": {
+            "domain": "leon-flam.myshopify.com",
+            "options": []
+        },
+        "rosyandcute.myshopify.com": {
+            "domain": "rosyandcute.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Dodání do 15 pracovních dnů"
+                }
+            ]
+        },
+        "sit-sack.myshopify.com": {
+            "domain": "sit-sack.myshopify.com",
+            "options": []
+        },
+        "nasomfit.myshopify.com": {
+            "domain": "nasomfit.myshopify.com",
+            "options": []
+        },
+        "world-fitness-day-store.myshopify.com": {
+            "domain": "world-fitness-day-store.myshopify.com",
+            "options": []
+        },
+        "trackingstar.myshopify.com": {
+            "domain": "trackingstar.myshopify.com",
+            "options": []
+        },
+        "bee-belt.myshopify.com": {
+            "domain": "bee-belt.myshopify.com",
+            "options": []
+        },
+        "sohiplay.myshopify.com": {
+            "domain": "sohiplay.myshopify.com",
+            "options": []
+        },
+        "sierrafruitsnacks.myshopify.com": {
+            "domain": "sierrafruitsnacks.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "3 to 5"
+                }
+            ]
+        },
+        "heritage-bathware.myshopify.com": {
+            "domain": "heritage-bathware.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "orders ship within 7-10 working days"
+                }
+            ]
+        },
+        "flying-tumbler-euro.myshopify.com": {
+            "domain": "flying-tumbler-euro.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery in 3 to 5 days"
+                }
+            ]
+        },
+        "lumaland-inc.myshopify.com": {
+            "domain": "lumaland-inc.myshopify.com",
+            "options": []
+        },
+        "infinuty.myshopify.com": {
+            "domain": "infinuty.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2"
+                }
+            ]
+        },
+        "ookse.myshopify.com": {
+            "domain": "ookse.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Instant"
+                }
+            ]
+        },
+        "harrogate-organics.myshopify.com": {
+            "domain": "harrogate-organics.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1-2 Days "
+                }
+            ]
+        },
+        "t3-ecom.myshopify.com": {
+            "domain": "t3-ecom.myshopify.com",
+            "options": []
+        },
+        "wrist-aficionado.myshopify.com": {
+            "domain": "wrist-aficionado.myshopify.com",
+            "options": []
+        },
+        "anne-j-greene.myshopify.com": {
+            "domain": "anne-j-greene.myshopify.com",
+            "options": []
+        },
+        "taio-promos.myshopify.com": {
+            "domain": "taio-promos.myshopify.com",
+            "options": []
+        },
+        "svet-elektrokol.myshopify.com": {
+            "domain": "svet-elektrokol.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "jetlgg.myshopify.com": {
+            "domain": "jetlgg.myshopify.com",
+            "options": []
+        },
+        "enet-images.myshopify.com": {
+            "domain": "enet-images.myshopify.com",
+            "options": []
+        },
+        "chicandsimple-gr.myshopify.com": {
+            "domain": "chicandsimple-gr.myshopify.com",
+            "options": []
+        },
+        "broadway-jewellers-nz.myshopify.com": {
+            "domain": "broadway-jewellers-nz.myshopify.com",
+            "options": []
+        },
+        "valet-de-pique.myshopify.com": {
+            "domain": "valet-de-pique.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Livraison 5 - 10 jours (fabrication à la demande)"
+                }
+            ]
+        },
+        "barn-feed.myshopify.com": {
+            "domain": "barn-feed.myshopify.com",
+            "options": []
+        },
+        "eguana-gr.myshopify.com": {
+            "domain": "eguana-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1 - 3 ημέρες"
+                }
+            ]
+        },
+        "vorteexstore.myshopify.com": {
+            "domain": "vorteexstore.myshopify.com",
+            "options": []
+        },
+        "surfacetes.myshopify.com": {
+            "domain": "surfacetes.myshopify.com",
+            "options": []
+        },
+        "obrazohled.myshopify.com": {
+            "domain": "obrazohled.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "10"
+                }
+            ]
+        },
+        "spartan-store-com.myshopify.com": {
+            "domain": "spartan-store-com.myshopify.com",
+            "options": []
+        },
+        "trilesta.myshopify.com": {
+            "domain": "trilesta.myshopify.com",
+            "options": []
+        },
+        "hellorainbowkids.myshopify.com": {
+            "domain": "hellorainbowkids.myshopify.com",
+            "options": []
+        },
+        "familus.myshopify.com": {
+            "domain": "familus.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4 to 10 days"
+                }
+            ]
+        },
+        "lolitr.myshopify.com": {
+            "domain": "lolitr.myshopify.com",
+            "options": []
+        },
+        "foreas-truck-parts-store.myshopify.com": {
+            "domain": "foreas-truck-parts-store.myshopify.com",
+            "options": []
+        },
+        "optikos-pasaulis.myshopify.com": {
+            "domain": "optikos-pasaulis.myshopify.com",
+            "options": []
+        },
+        "lojaonebrasil.myshopify.com": {
+            "domain": "lojaonebrasil.myshopify.com",
+            "options": []
+        },
+        "sea-band.myshopify.com": {
+            "domain": "sea-band.myshopify.com",
+            "options": []
+        },
+        "ilovej.myshopify.com": {
+            "domain": "ilovej.myshopify.com",
+            "options": []
+        },
+        "tranum-molle.myshopify.com": {
+            "domain": "tranum-molle.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "sky-high-elite-designs.myshopify.com": {
+            "domain": "sky-high-elite-designs.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "4-13 "
+                }
+            ]
+        },
+        "snelladesign-com.myshopify.com": {
+            "domain": "snelladesign-com.myshopify.com",
+            "options": []
+        },
+        "mother-export.myshopify.com": {
+            "domain": "mother-export.myshopify.com",
+            "options": []
+        },
+        "medusa-wonen.myshopify.com": {
+            "domain": "medusa-wonen.myshopify.com",
+            "options": []
+        },
+        "oxoshopsk.myshopify.com": {
+            "domain": "oxoshopsk.myshopify.com",
+            "options": []
+        },
+        "mrliakoss.myshopify.com": {
+            "domain": "mrliakoss.myshopify.com",
+            "options": []
+        },
+        "sadrabiohellas.myshopify.com": {
+            "domain": "sadrabiohellas.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2-3 εργάσιμες ημέρες"
+                }
+            ]
+        },
+        "craftmark-picard.myshopify.com": {
+            "domain": "craftmark-picard.myshopify.com",
+            "options": []
+        },
+        "my-goal-showergel.myshopify.com": {
+            "domain": "my-goal-showergel.myshopify.com",
+            "options": []
+        },
+        "termovelshop.myshopify.com": {
+            "domain": "termovelshop.myshopify.com",
+            "options": [
+                {
+                    "code": "separate_variants_complete",
+                    "value": "1"
+                }
+            ]
+        },
+        "galdojewelry.myshopify.com": {
+            "domain": "galdojewelry.myshopify.com",
+            "options": []
+        },
+        "akcioplaza.myshopify.com": {
+            "domain": "akcioplaza.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2-5 nap"
+                }
+            ]
+        },
+        "beccaskulture.myshopify.com": {
+            "domain": "beccaskulture.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "5-19 business"
+                }
+            ]
+        },
+        "drakoshop-eu.myshopify.com": {
+            "domain": "drakoshop-eu.myshopify.com",
+            "options": []
+        },
+        "nikoszatse.myshopify.com": {
+            "domain": "nikoszatse.myshopify.com",
+            "options": []
+        },
+        "philip-browne-menswear.myshopify.com": {
+            "domain": "philip-browne-menswear.myshopify.com",
+            "options": []
+        },
+        "mitsi-lingerie.myshopify.com": {
+            "domain": "mitsi-lingerie.myshopify.com",
+            "options": []
+        },
+        "useurge.myshopify.com": {
+            "domain": "useurge.myshopify.com",
+            "options": []
+        },
+        "farmatds.myshopify.com": {
+            "domain": "farmatds.myshopify.com",
+            "options": []
+        },
+        "hopefashionuk.myshopify.com": {
+            "domain": "hopefashionuk.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 2-5 days"
+                }
+            ]
+        },
+        "b2fashionshop.myshopify.com": {
+            "domain": "b2fashionshop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 4 - 10 ημέρες"
+                }
+            ]
+        },
+        "ethrif.myshopify.com": {
+            "domain": "ethrif.myshopify.com",
+            "options": []
+        },
+        "deshocks.myshopify.com": {
+            "domain": "deshocks.myshopify.com",
+            "options": []
+        },
+        "cheapytesting.myshopify.com": {
+            "domain": "cheapytesting.myshopify.com",
+            "options": []
+        },
+        "bernabutor.myshopify.com": {
+            "domain": "bernabutor.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Szállítás 1-5 hét"
+                }
+            ]
+        },
+        "lalou-boutique.myshopify.com": {
+            "domain": "lalou-boutique.myshopify.com",
+            "options": []
+        },
+        "zeynbrstore.myshopify.com": {
+            "domain": "zeynbrstore.myshopify.com",
+            "options": []
+        },
+        "myteststorefordev.myshopify.com": {
+            "domain": "myteststorefordev.myshopify.com",
+            "options": []
+        },
+        "luxe-bags-aus.myshopify.com": {
+            "domain": "luxe-bags-aus.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "10 to 15 days"
+                }
+            ]
+        },
+        "alexshop5.myshopify.com": {
+            "domain": "alexshop5.myshopify.com",
+            "options": []
+        },
+        "brasileirashop2.myshopify.com": {
+            "domain": "brasileirashop2.myshopify.com",
+            "options": []
+        },
+        "twobeeps.myshopify.com": {
+            "domain": "twobeeps.myshopify.com",
+            "options": []
+        },
+        "sondranickki79.myshopify.com": {
+            "domain": "sondranickki79.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "meliasah.myshopify.com": {
+            "domain": "meliasah.myshopify.com",
+            "options": []
+        },
+        "ninna-york-jewellery.myshopify.com": {
+            "domain": "ninna-york-jewellery.myshopify.com",
+            "options": []
+        },
+        "koresjewelry.myshopify.com": {
+            "domain": "koresjewelry.myshopify.com",
+            "options": []
+        },
+        "mankonmarket.myshopify.com": {
+            "domain": "mankonmarket.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 3 - 5 εργάσιμες ημέρες"
+                }
+            ]
+        },
+        "my-condones.myshopify.com": {
+            "domain": "my-condones.myshopify.com",
+            "options": []
+        },
+        "utilidades-do-futuro-shop.myshopify.com": {
+            "domain": "utilidades-do-futuro-shop.myshopify.com",
+            "options": []
+        },
+        "como-shoes.myshopify.com": {
+            "domain": "como-shoes.myshopify.com",
+            "options": []
+        },
+        "olimp-sport.myshopify.com": {
+            "domain": "olimp-sport.myshopify.com",
+            "options": []
+        },
+        "luxgoldenstore.myshopify.com": {
+            "domain": "luxgoldenstore.myshopify.com",
+            "options": []
+        },
+        "farmacia-binenti.myshopify.com": {
+            "domain": "farmacia-binenti.myshopify.com",
+            "options": []
+        },
+        "bitcoinwardrobe.myshopify.com": {
+            "domain": "bitcoinwardrobe.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "7 to 20 days"
+                }
+            ]
+        },
+        "woke-gr.myshopify.com": {
+            "domain": "woke-gr.myshopify.com",
+            "options": []
+        },
+        "getthatgame.myshopify.com": {
+            "domain": "getthatgame.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 - 3 μέρες"
+                }
+            ]
+        },
+        "tobikini.myshopify.com": {
+            "domain": "tobikini.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα Διαθέσιμο / Παράδoση 1 έως 3 ημέρες."
+                },
+                {
+                    "code": "custom_image",
+                    "value": "2"
+                }
+            ]
+        },
+        "cbdhouse-shop.myshopify.com": {
+            "domain": "cbdhouse-shop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Versand 1 bis 3 Tage"
+                }
+            ]
+        },
+        "rezo-sunglasses.myshopify.com": {
+            "domain": "rezo-sunglasses.myshopify.com",
+            "options": []
+        },
+        "niai-gr.myshopify.com": {
+            "domain": "niai-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "alserpharm.myshopify.com": {
+            "domain": "alserpharm.myshopify.com",
+            "options": []
+        },
+        "vagenas1.myshopify.com": {
+            "domain": "vagenas1.myshopify.com",
+            "options": []
+        },
+        "treesteem-clothing.myshopify.com": {
+            "domain": "treesteem-clothing.myshopify.com",
+            "options": []
+        },
+        "ecom-ce.myshopify.com": {
+            "domain": "ecom-ce.myshopify.com",
+            "options": []
+        },
+        "kppstechnologies.myshopify.com": {
+            "domain": "kppstechnologies.myshopify.com",
+            "options": []
+        },
+        "the-foot-factory-ltd.myshopify.com": {
+            "domain": "the-foot-factory-ltd.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2 to 5 days"
+                }
+            ]
+        },
+        "mystarmapgr.myshopify.com": {
+            "domain": "mystarmapgr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 3 to 5 "
+                }
+            ]
+        },
+        "hanks-brand-shoes-2.myshopify.com": {
+            "domain": "hanks-brand-shoes-2.myshopify.com",
+            "options": []
+        },
+        "moddingsev.myshopify.com": {
+            "domain": "moddingsev.myshopify.com",
+            "options": []
+        },
+        "ismini-kallergi.myshopify.com": {
+            "domain": "ismini-kallergi.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 8 to 10 days"
+                }
+            ]
+        },
+        "rsha3103.myshopify.com": {
+            "domain": "rsha3103.myshopify.com",
+            "options": []
+        },
+        "hype-n-chic-store.myshopify.com": {
+            "domain": "hype-n-chic-store.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "thefabricsgr.myshopify.com": {
+            "domain": "thefabricsgr.myshopify.com",
+            "options": []
+        },
+        "galpon-de-ropa.myshopify.com": {
+            "domain": "galpon-de-ropa.myshopify.com",
+            "options": []
+        },
+        "easyagores.myshopify.com": {
+            "domain": "easyagores.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "liberitae-pruebas-2.myshopify.com": {
+            "domain": "liberitae-pruebas-2.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "urban-youngrg.myshopify.com": {
+            "domain": "urban-youngrg.myshopify.com",
+            "options": []
+        },
+        "the-house-of-co-ky.myshopify.com": {
+            "domain": "the-house-of-co-ky.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 5-15 business days depends on Geo Location"
+                }
+            ]
+        },
+        "thd-shop-online.myshopify.com": {
+            "domain": "thd-shop-online.myshopify.com",
+            "options": []
+        },
+        "laceboutique-gr.myshopify.com": {
+            "domain": "laceboutique-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "dirtea-world.myshopify.com": {
+            "domain": "dirtea-world.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "dezaart-crafts.myshopify.com": {
+            "domain": "dezaart-crafts.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "sareve-thebrand.myshopify.com": {
+            "domain": "sareve-thebrand.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 2 to 4 days"
+                }
+            ]
+        },
+        "loja-do-mesc.myshopify.com": {
+            "domain": "loja-do-mesc.myshopify.com",
+            "options": []
+        },
+        "saint-male.myshopify.com": {
+            "domain": "saint-male.myshopify.com",
+            "options": []
+        },
+        "lhotseoutdoor.myshopify.com": {
+            "domain": "lhotseoutdoor.myshopify.com",
+            "options": []
+        },
+        "shulph-ink.myshopify.com": {
+            "domain": "shulph-ink.myshopify.com",
+            "options": []
+        },
+        "instyle-gr.myshopify.com": {
+            "domain": "instyle-gr.myshopify.com",
+            "options": []
+        },
+        "nitrocoffee.myshopify.com": {
+            "domain": "nitrocoffee.myshopify.com",
+            "options": []
+        },
+        "algo-bonito-eshop.myshopify.com": {
+            "domain": "algo-bonito-eshop.myshopify.com",
+            "options": []
+        },
+        "vigour-n-spice.myshopify.com": {
+            "domain": "vigour-n-spice.myshopify.com",
+            "options": []
+        },
+        "urbans-gr.myshopify.com": {
+            "domain": "urbans-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 εως 3 μέρες"
+                }
+            ]
+        },
+        "emka-store-gl.myshopify.com": {
+            "domain": "emka-store-gl.myshopify.com",
+            "options": []
+        },
+        "bemisk.myshopify.com": {
+            "domain": "bemisk.myshopify.com",
+            "options": []
+        },
+        "kemco-voordeelshop-xl.myshopify.com": {
+            "domain": "kemco-voordeelshop-xl.myshopify.com",
+            "options": []
+        },
+        "frenesimo.myshopify.com": {
+            "domain": "frenesimo.myshopify.com",
+            "options": []
+        },
+        "tiny-treasure-baby.myshopify.com": {
+            "domain": "tiny-treasure-baby.myshopify.com",
+            "options": []
+        },
+        "maakco.myshopify.com": {
+            "domain": "maakco.myshopify.com",
+            "options": []
+        },
+        "lunamarem.myshopify.com": {
+            "domain": "lunamarem.myshopify.com",
+            "options": []
+        },
+        "mistral-online.myshopify.com": {
+            "domain": "mistral-online.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "konibox.myshopify.com": {
+            "domain": "konibox.myshopify.com",
+            "options": []
+        },
+        "stockmustgo.myshopify.com": {
+            "domain": "stockmustgo.myshopify.com",
+            "options": []
+        },
+        "one-hot-book.myshopify.com": {
+            "domain": "one-hot-book.myshopify.com",
+            "options": []
+        },
+        "dekotool-de.myshopify.com": {
+            "domain": "dekotool-de.myshopify.com",
+            "options": []
+        },
+        "kristal-kutu.myshopify.com": {
+            "domain": "kristal-kutu.myshopify.com",
+            "options": []
+        },
+        "swycha-phones.myshopify.com": {
+            "domain": "swycha-phones.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Free Next Day"
+                }
+            ]
+        },
+        "unity-olives.myshopify.com": {
+            "domain": "unity-olives.myshopify.com",
+            "options": []
+        },
+        "missintimo.myshopify.com": {
+            "domain": "missintimo.myshopify.com",
+            "options": [
+                {
+                    "code": "separate_variants",
+                    "value": "1"
+                }
+            ]
+        },
+        "1h-moi-me.myshopify.com": {
+            "domain": "1h-moi-me.myshopify.com",
+            "options": []
+        },
+        "lottie-dolls-uk.myshopify.com": {
+            "domain": "lottie-dolls-uk.myshopify.com",
+            "options": []
+        },
+        "mikewore.myshopify.com": {
+            "domain": "mikewore.myshopify.com",
+            "options": []
+        },
+        "valdo-it.myshopify.com": {
+            "domain": "valdo-it.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "123oogdruppels.myshopify.com": {
+            "domain": "123oogdruppels.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1 to 3 days"
+                }
+            ]
+        },
+        "epilogisou.myshopify.com": {
+            "domain": "epilogisou.myshopify.com",
+            "options": []
+        },
+        "alamanto.myshopify.com": {
+            "domain": "alamanto.myshopify.com",
+            "options": []
+        },
+        "bykco.myshopify.com": {
+            "domain": "bykco.myshopify.com",
+            "options": []
+        },
+        "thiros.myshopify.com": {
+            "domain": "thiros.myshopify.com",
+            "options": []
+        },
+        "nowa-jeans.myshopify.com": {
+            "domain": "nowa-jeans.myshopify.com",
+            "options": []
+        },
+        "lejoyhome.myshopify.com": {
+            "domain": "lejoyhome.myshopify.com",
+            "options": []
+        },
+        "ceceswarehouse.myshopify.com": {
+            "domain": "ceceswarehouse.myshopify.com",
+            "options": []
+        },
+        "miskie-london.myshopify.com": {
+            "domain": "miskie-london.myshopify.com",
+            "options": []
+        },
+        "misfitmasks.myshopify.com": {
+            "domain": "misfitmasks.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "aquadan.myshopify.com": {
+            "domain": "aquadan.myshopify.com",
+            "options": []
+        },
+        "mojobeard.myshopify.com": {
+            "domain": "mojobeard.myshopify.com",
+            "options": []
+        },
+        "marie-raxevsky-store.myshopify.com": {
+            "domain": "marie-raxevsky-store.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "happy-bargain-items.myshopify.com": {
+            "domain": "happy-bargain-items.myshopify.com",
+            "options": []
+        },
+        "medici-knives.myshopify.com": {
+            "domain": "medici-knives.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "searchlightau.myshopify.com": {
+            "domain": "searchlightau.myshopify.com",
+            "options": []
+        },
+        "zad-fit.myshopify.com": {
+            "domain": "zad-fit.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "gb-technologie.myshopify.com": {
+            "domain": "gb-technologie.myshopify.com",
+            "options": []
+        },
+        "leonglewis.myshopify.com": {
+            "domain": "leonglewis.myshopify.com",
+            "options": []
+        },
+        "resistance-clo.myshopify.com": {
+            "domain": "resistance-clo.myshopify.com",
+            "options": []
+        },
+        "hogart-eu.myshopify.com": {
+            "domain": "hogart-eu.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2"
+                }
+            ]
+        },
+        "vitavieuk.myshopify.com": {
+            "domain": "vitavieuk.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 2 days"
+                }
+            ]
+        },
+        "andreas-development-store.myshopify.com": {
+            "domain": "andreas-development-store.myshopify.com",
+            "options": []
+        },
+        "agnes-sofie.myshopify.com": {
+            "domain": "agnes-sofie.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "s-coffees-coffeehouse.myshopify.com": {
+            "domain": "s-coffees-coffeehouse.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "edizgallery-co-uk.myshopify.com": {
+            "domain": "edizgallery-co-uk.myshopify.com",
+            "options": []
+        },
+        "eangelshop-gr.myshopify.com": {
+            "domain": "eangelshop-gr.myshopify.com",
+            "options": []
+        },
+        "b2gift.myshopify.com": {
+            "domain": "b2gift.myshopify.com",
+            "options": []
+        },
+        "midwest-best-values.myshopify.com": {
+            "domain": "midwest-best-values.myshopify.com",
+            "options": []
+        },
+        "eumisfitmasks.myshopify.com": {
+            "domain": "eumisfitmasks.myshopify.com",
+            "options": []
+        },
+        "yeetys-market.myshopify.com": {
+            "domain": "yeetys-market.myshopify.com",
+            "options": []
+        },
+        "www-keru.myshopify.com": {
+            "domain": "www-keru.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "www-womanfit-gr.myshopify.com": {
+            "domain": "www-womanfit-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "magli-dk.myshopify.com": {
+            "domain": "magli-dk.myshopify.com",
+            "options": []
+        },
+        "motusxd.myshopify.com": {
+            "domain": "motusxd.myshopify.com",
+            "options": []
+        },
+        "fourpurebrewingco.myshopify.com": {
+            "domain": "fourpurebrewingco.myshopify.com",
+            "options": []
+        },
+        "memento-orologi.myshopify.com": {
+            "domain": "memento-orologi.myshopify.com",
+            "options": []
+        },
+        "nunoo-eur.myshopify.com": {
+            "domain": "nunoo-eur.myshopify.com",
+            "options": []
+        },
+        "orica-cards.myshopify.com": {
+            "domain": "orica-cards.myshopify.com",
+            "options": []
+        },
+        "tasosdev.myshopify.com": {
+            "domain": "tasosdev.myshopify.com",
+            "options": []
+        },
+        "cannavico.myshopify.com": {
+            "domain": "cannavico.myshopify.com",
+            "options": []
+        },
+        "jacksonkids.myshopify.com": {
+            "domain": "jacksonkids.myshopify.com",
+            "options": []
+        },
+        "testmif.myshopify.com": {
+            "domain": "testmif.myshopify.com",
+            "options": []
+        },
+        "misfitmasksusa.myshopify.com": {
+            "domain": "misfitmasksusa.myshopify.com",
+            "options": []
+        },
+        "atelierdelavenisenormande.myshopify.com": {
+            "domain": "atelierdelavenisenormande.myshopify.com",
+            "options": []
+        },
+        "kalos-paris.myshopify.com": {
+            "domain": "kalos-paris.myshopify.com",
+            "options": []
+        },
+        "pepi-lou.myshopify.com": {
+            "domain": "pepi-lou.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Αποστολή σε 1 με 3 εργάσιμες ημέρες"
+                }
+            ]
+        },
+        "hobbytheory.myshopify.com": {
+            "domain": "hobbytheory.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο / Παράδοση σε 1 - 3 ημέρες"
+                }
+            ]
+        },
+        "insunlight-co.myshopify.com": {
+            "domain": "insunlight-co.myshopify.com",
+            "options": []
+        },
+        "cartsecure.myshopify.com": {
+            "domain": "cartsecure.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "3-6 business days"
+                }
+            ]
+        },
+        "aziziboutique.myshopify.com": {
+            "domain": "aziziboutique.myshopify.com",
+            "options": []
+        },
+        "pile-ou-face-france.myshopify.com": {
+            "domain": "pile-ou-face-france.myshopify.com",
+            "options": []
+        },
+        "griliai-lt.myshopify.com": {
+            "domain": "griliai-lt.myshopify.com",
+            "options": []
+        },
+        "hair-claudia.myshopify.com": {
+            "domain": "hair-claudia.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "changes"
+                }
+            ]
+        },
+        "p-kontopoulos.myshopify.com": {
+            "domain": "p-kontopoulos.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση σε 4-10 ημέρες"
+                }
+            ]
+        },
+        "mjvd-boutique-3.myshopify.com": {
+            "domain": "mjvd-boutique-3.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Délais de livraison : 2 à 4 semaines"
+                }
+            ]
+        },
+        "lovelyhana-juwelry.myshopify.com": {
+            "domain": "lovelyhana-juwelry.myshopify.com",
+            "options": []
+        },
+        "art-on-me-joolsnmore.myshopify.com": {
+            "domain": "art-on-me-joolsnmore.myshopify.com",
+            "options": []
+        },
+        "psarevo.myshopify.com": {
+            "domain": "psarevo.myshopify.com",
+            "options": []
+        },
+        "divineseeds-gr.myshopify.com": {
+            "domain": "divineseeds-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "zahradnypracovnik.myshopify.com": {
+            "domain": "zahradnypracovnik.myshopify.com",
+            "options": []
+        },
+        "feminisestore.myshopify.com": {
+            "domain": "feminisestore.myshopify.com",
+            "options": []
+        },
+        "visoslovos.myshopify.com": {
+            "domain": "visoslovos.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "nippergr.myshopify.com": {
+            "domain": "nippergr.myshopify.com",
+            "options": []
+        },
+        "cosmeticom-gr.myshopify.com": {
+            "domain": "cosmeticom-gr.myshopify.com",
+            "options": []
+        },
+        "sign247.myshopify.com": {
+            "domain": "sign247.myshopify.com",
+            "options": []
+        },
+        "connection-e-girl.myshopify.com": {
+            "domain": "connection-e-girl.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "nagai24.myshopify.com": {
+            "domain": "nagai24.myshopify.com",
+            "options": []
+        },
+        "jackson-kifisia.myshopify.com": {
+            "domain": "jackson-kifisia.myshopify.com",
+            "options": []
+        },
+        "axwelltr.myshopify.com": {
+            "domain": "axwelltr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1"
+                }
+            ]
+        },
+        "indi-man.myshopify.com": {
+            "domain": "indi-man.myshopify.com",
+            "options": []
+        },
+        "emblue-test.myshopify.com": {
+            "domain": "emblue-test.myshopify.com",
+            "options": []
+        },
+        "rtmg-performance.myshopify.com": {
+            "domain": "rtmg-performance.myshopify.com",
+            "options": []
+        },
+        "arzewena.myshopify.com": {
+            "domain": "arzewena.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "aquecimento-exterior.myshopify.com": {
+            "domain": "aquecimento-exterior.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Entrega de 7 to 10 dias úteis"
+                }
+            ]
+        },
+        "babys-n-bags.myshopify.com": {
+            "domain": "babys-n-bags.myshopify.com",
+            "options": []
+        },
+        "thinkplustraining.myshopify.com": {
+            "domain": "thinkplustraining.myshopify.com",
+            "options": [
+                {
+                    "code": "test",
+                    "value": "value"
+                }
+            ]
+        },
+        "photoniumcz.myshopify.com": {
+            "domain": "photoniumcz.myshopify.com",
+            "options": []
+        },
+        "eboomo.myshopify.com": {
+            "domain": "eboomo.myshopify.com",
+            "options": []
+        },
+        "jewels-vogue.myshopify.com": {
+            "domain": "jewels-vogue.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "info-20087.myshopify.com": {
+            "domain": "info-20087.myshopify.com",
+            "options": []
+        },
+        "gntlmn-essentials.myshopify.com": {
+            "domain": "gntlmn-essentials.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2"
+                }
+            ]
+        },
+        "so-cute-cut.myshopify.com": {
+            "domain": "so-cute-cut.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "4-10 days"
+                }
+            ]
+        },
+        "manore-paris.myshopify.com": {
+            "domain": "manore-paris.myshopify.com",
+            "options": []
+        },
+        "timeelements.myshopify.com": {
+            "domain": "timeelements.myshopify.com",
+            "options": []
+        },
+        "shadesofbeauty-gr.myshopify.com": {
+            "domain": "shadesofbeauty-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "1-3"
+                }
+            ]
+        },
+        "xyz-lab.myshopify.com": {
+            "domain": "xyz-lab.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "up to 30 business days"
+                }
+            ]
+        },
+        "gaiamorfati.myshopify.com": {
+            "domain": "gaiamorfati.myshopify.com",
+            "options": []
+        },
+        "excosmart.myshopify.com": {
+            "domain": "excosmart.myshopify.com",
+            "options": []
+        },
+        "pdejj.myshopify.com": {
+            "domain": "pdejj.myshopify.com",
+            "options": []
+        },
+        "king-x3.myshopify.com": {
+            "domain": "king-x3.myshopify.com",
+            "options": []
+        },
+        "nn-apparel.myshopify.com": {
+            "domain": "nn-apparel.myshopify.com",
+            "options": []
+        },
+        "fotinakis-store.myshopify.com": {
+            "domain": "fotinakis-store.myshopify.com",
+            "options": []
+        },
+        "the-motohut.myshopify.com": {
+            "domain": "the-motohut.myshopify.com",
+            "options": []
+        },
+        "maline-bodywear.myshopify.com": {
+            "domain": "maline-bodywear.myshopify.com",
+            "options": []
+        },
+        "letterboxliquorice.myshopify.com": {
+            "domain": "letterboxliquorice.myshopify.com",
+            "options": []
+        },
+        "tm-peru.myshopify.com": {
+            "domain": "tm-peru.myshopify.com",
+            "options": []
+        },
+        "isadora-peru-shop.myshopify.com": {
+            "domain": "isadora-peru-shop.myshopify.com",
+            "options": []
+        },
+        "active-puzzles.myshopify.com": {
+            "domain": "active-puzzles.myshopify.com",
+            "options": []
+        },
+        "aj-sho-p.myshopify.com": {
+            "domain": "aj-sho-p.myshopify.com",
+            "options": []
+        },
+        "mynistore.myshopify.com": {
+            "domain": "mynistore.myshopify.com",
+            "options": []
+        },
+        "les-petits-garcons.myshopify.com": {
+            "domain": "les-petits-garcons.myshopify.com",
+            "options": []
+        }
+    },
+    "bestprice": {
+        "customer_count": 54,
+        "custfield.myshopify.com": {
+            "domain": "custfield.myshopify.com",
+            "options": []
+        },
+        "dagiopoulos.myshopify.com": {
+            "domain": "dagiopoulos.myshopify.com",
+            "options": [
+                {
+                    "code": "groupSizesTag",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 4 έως 10 ημέρες"
+                }
+            ]
+        },
+        "goldygr.myshopify.com": {
+            "domain": "goldygr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_from_tag",
+                    "value": "1"
+                },
+                {
+                    "code": "category_split_variants",
+                    "value": "Βέρες Γάμου"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "1-3"
+                }
+            ]
+        },
+        "ikonomakisgr.myshopify.com": {
+            "domain": "ikonomakisgr.myshopify.com",
+            "options": [
+                {
+                    "code": "hasSnif",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση αποστολή (1-3 ημέρες)"
+                }
+            ]
+        },
+        "electroplus-gr.myshopify.com": {
+            "domain": "electroplus-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως 3 μέρες"
+                }
+            ]
+        },
+        "gate-automation-gr.myshopify.com": {
+            "domain": "gate-automation-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο"
+                }
+            ]
+        },
+        "ekavishop.myshopify.com": {
+            "domain": "ekavishop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "inartshop.myshopify.com": {
+            "domain": "inartshop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4 to 10 days"
+                },
+                {
+                    "code": "custom_categories",
+                    "value": "1"
+                }
+            ]
+        },
+        "karakas-stores.myshopify.com": {
+            "domain": "karakas-stores.myshopify.com",
+            "options": [
+                {
+                    "code": "groupSizes",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως ημέρες"
+                }
+            ]
+        },
+        "kissesonthebeach.myshopify.com": {
+            "domain": "kissesonthebeach.myshopify.com",
+            "options": []
+        },
+        "topdekori.myshopify.com": {
+            "domain": "topdekori.myshopify.com",
+            "options": []
+        },
+        "lnmykonos.myshopify.com": {
+            "domain": "lnmykonos.myshopify.com",
+            "options": []
+        },
+        "marinelistore.myshopify.com": {
+            "domain": "marinelistore.myshopify.com",
+            "options": []
+        },
+        "the-touchdk.myshopify.com": {
+            "domain": "the-touchdk.myshopify.com",
+            "options": []
+        },
+        "brettos-plaka.myshopify.com": {
+            "domain": "brettos-plaka.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "emporia-jewerly.myshopify.com": {
+            "domain": "emporia-jewerly.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Lieferzeit 2-6 Werktage. Versandkostenfreie Lieferung."
+                }
+            ]
+        },
+        "histoiredecrapule.myshopify.com": {
+            "domain": "histoiredecrapule.myshopify.com",
+            "options": []
+        },
+        "esocksgr.myshopify.com": {
+            "domain": "esocksgr.myshopify.com",
+            "options": []
+        },
+        "payless-mall.myshopify.com": {
+            "domain": "payless-mall.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 7 to 10 days"
+                }
+            ]
+        },
+        "homedecorily.myshopify.com": {
+            "domain": "homedecorily.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "14 days"
+                }
+            ]
+        },
+        "blackroseboutique-store.myshopify.com": {
+            "domain": "blackroseboutique-store.myshopify.com",
+            "options": []
+        },
+        "oppyerotic.myshopify.com": {
+            "domain": "oppyerotic.myshopify.com",
+            "options": []
+        },
+        "kosmimatakia-gr.myshopify.com": {
+            "domain": "kosmimatakia-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "3-5 ημέρες"
+                }
+            ]
+        },
+        "hobbycolours.myshopify.com": {
+            "domain": "hobbycolours.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "According to our shipping policy "
+                },
+                {
+                    "code": "no_stock",
+                    "value": "1"
+                }
+            ]
+        },
+        "bestydeals-gr.myshopify.com": {
+            "domain": "bestydeals-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο"
+                }
+            ]
+        },
+        "barker-shoes-ltd-us.myshopify.com": {
+            "domain": "barker-shoes-ltd-us.myshopify.com",
+            "options": []
+        },
+        "doorado-eshop.myshopify.com": {
+            "domain": "doorado-eshop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1-3 ημέρες"
+                }
+            ]
+        },
+        "go-minimal-house.myshopify.com": {
+            "domain": "go-minimal-house.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Default Delivery time: Delivery 15 to 42 days"
+                }
+            ]
+        },
+        "ellisargiboutique.myshopify.com": {
+            "domain": "ellisargiboutique.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "importslapnos.myshopify.com": {
+            "domain": "importslapnos.myshopify.com",
+            "options": []
+        },
+        "myambitionmart.myshopify.com": {
+            "domain": "myambitionmart.myshopify.com",
+            "options": []
+        },
+        "greenleaf-online-shop.myshopify.com": {
+            "domain": "greenleaf-online-shop.myshopify.com",
+            "options": [
+                {
+                    "code": "preindexed",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "redhot-distributor.myshopify.com": {
+            "domain": "redhot-distributor.myshopify.com",
+            "options": []
+        },
+        "romylosallabouthair.myshopify.com": {
+            "domain": "romylosallabouthair.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "vedettekorse.myshopify.com": {
+            "domain": "vedettekorse.myshopify.com",
+            "options": []
+        },
+        "meublespassion.myshopify.com": {
+            "domain": "meublespassion.myshopify.com",
+            "options": []
+        },
+        "paxxishop.myshopify.com": {
+            "domain": "paxxishop.myshopify.com",
+            "options": []
+        },
+        "emporia-cz.myshopify.com": {
+            "domain": "emporia-cz.myshopify.com",
+            "options": []
+        },
+        "emporia-sk.myshopify.com": {
+            "domain": "emporia-sk.myshopify.com",
+            "options": []
+        },
+        "israty.myshopify.com": {
+            "domain": "israty.myshopify.com",
+            "options": []
+        },
+        "shop-tee-shirts.myshopify.com": {
+            "domain": "shop-tee-shirts.myshopify.com",
+            "options": []
+        },
+        "1office.myshopify.com": {
+            "domain": "1office.myshopify.com",
+            "options": []
+        },
+        "stonex.myshopify.com": {
+            "domain": "stonex.myshopify.com",
+            "options": []
+        },
+        "wonderurbanfashion.myshopify.com": {
+            "domain": "wonderurbanfashion.myshopify.com",
+            "options": [
+                {
+                    "code": "custom_categories",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "1-3 days"
+                },
+                {
+                    "code": "glami_delivery_time",
+                    "value": ""
+                }
+            ]
+        },
+        "zuqaq.myshopify.com": {
+            "domain": "zuqaq.myshopify.com",
+            "options": []
+        },
+        "tshirtbros.myshopify.com": {
+            "domain": "tshirtbros.myshopify.com",
+            "options": []
+        },
+        "st-smoke-shop.myshopify.com": {
+            "domain": "st-smoke-shop.myshopify.com",
+            "options": []
+        },
+        "eln-online-store-philippines.myshopify.com": {
+            "domain": "eln-online-store-philippines.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "2"
+                }
+            ]
+        },
+        "beatabit.myshopify.com": {
+            "domain": "beatabit.myshopify.com",
+            "options": []
+        },
+        "diamond-world-club.myshopify.com": {
+            "domain": "diamond-world-club.myshopify.com",
+            "options": []
+        },
+        "bbqciop.myshopify.com": {
+            "domain": "bbqciop.myshopify.com",
+            "options": []
+        },
+        "1shoppingstore.myshopify.com": {
+            "domain": "1shoppingstore.myshopify.com",
+            "options": []
+        },
+        "tatiez-creation.myshopify.com": {
+            "domain": "tatiez-creation.myshopify.com",
+            "options": []
+        },
+        "dotsdemo.myshopify.com": {
+            "domain": "dotsdemo.myshopify.com",
+            "options": []
+        }
+    },
+    "both": {
+        "customer_count": 30,
+        "custfield.myshopify.com": {
+            "domain": "custfield.myshopify.com",
+            "options": []
+        },
+        "dagiopoulos.myshopify.com": {
+            "domain": "dagiopoulos.myshopify.com",
+            "options": [
+                {
+                    "code": "groupSizesTag",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδοση 4 έως 10 ημέρες"
+                }
+            ]
+        },
+        "goldygr.myshopify.com": {
+            "domain": "goldygr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_from_tag",
+                    "value": "1"
+                },
+                {
+                    "code": "category_split_variants",
+                    "value": "Βέρες Γάμου"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "1-3"
+                }
+            ]
+        },
+        "ikonomakisgr.myshopify.com": {
+            "domain": "ikonomakisgr.myshopify.com",
+            "options": [
+                {
+                    "code": "hasSnif",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση αποστολή (1-3 ημέρες)"
+                }
+            ]
+        },
+        "electroplus-gr.myshopify.com": {
+            "domain": "electroplus-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως 3 μέρες"
+                }
+            ]
+        },
+        "gate-automation-gr.myshopify.com": {
+            "domain": "gate-automation-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο"
+                }
+            ]
+        },
+        "ekavishop.myshopify.com": {
+            "domain": "ekavishop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 1 to 3 days"
+                }
+            ]
+        },
+        "inartshop.myshopify.com": {
+            "domain": "inartshop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 4 to 10 days"
+                },
+                {
+                    "code": "custom_categories",
+                    "value": "1"
+                }
+            ]
+        },
+        "karakas-stores.myshopify.com": {
+            "domain": "karakas-stores.myshopify.com",
+            "options": [
+                {
+                    "code": "groupSizes",
+                    "value": "1"
+                },
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1 έως ημέρες"
+                }
+            ]
+        },
+        "kissesonthebeach.myshopify.com": {
+            "domain": "kissesonthebeach.myshopify.com",
+            "options": []
+        },
+        "topdekori.myshopify.com": {
+            "domain": "topdekori.myshopify.com",
+            "options": []
+        },
+        "lnmykonos.myshopify.com": {
+            "domain": "lnmykonos.myshopify.com",
+            "options": []
+        },
+        "marinelistore.myshopify.com": {
+            "domain": "marinelistore.myshopify.com",
+            "options": []
+        },
+        "the-touchdk.myshopify.com": {
+            "domain": "the-touchdk.myshopify.com",
+            "options": []
+        },
+        "brettos-plaka.myshopify.com": {
+            "domain": "brettos-plaka.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή/Παράδοση σε 1-3 ημέρες"
+                }
+            ]
+        },
+        "emporia-jewerly.myshopify.com": {
+            "domain": "emporia-jewerly.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Lieferzeit 2-6 Werktage. Versandkostenfreie Lieferung."
+                }
+            ]
+        },
+        "histoiredecrapule.myshopify.com": {
+            "domain": "histoiredecrapule.myshopify.com",
+            "options": []
+        },
+        "esocksgr.myshopify.com": {
+            "domain": "esocksgr.myshopify.com",
+            "options": []
+        },
+        "payless-mall.myshopify.com": {
+            "domain": "payless-mall.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Delivery 7 to 10 days"
+                }
+            ]
+        },
+        "homedecorily.myshopify.com": {
+            "domain": "homedecorily.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "14 days"
+                }
+            ]
+        },
+        "blackroseboutique-store.myshopify.com": {
+            "domain": "blackroseboutique-store.myshopify.com",
+            "options": []
+        },
+        "oppyerotic.myshopify.com": {
+            "domain": "oppyerotic.myshopify.com",
+            "options": []
+        },
+        "kosmimatakia-gr.myshopify.com": {
+            "domain": "kosmimatakia-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "3-5 ημέρες"
+                }
+            ]
+        },
+        "hobbycolours.myshopify.com": {
+            "domain": "hobbycolours.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "According to our shipping policy "
+                },
+                {
+                    "code": "no_stock",
+                    "value": "1"
+                }
+            ]
+        },
+        "bestydeals-gr.myshopify.com": {
+            "domain": "bestydeals-gr.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεσα διαθέσιμο"
+                }
+            ]
+        },
+        "barker-shoes-ltd-us.myshopify.com": {
+            "domain": "barker-shoes-ltd-us.myshopify.com",
+            "options": []
+        },
+        "doorado-eshop.myshopify.com": {
+            "domain": "doorado-eshop.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Παράδοση 1-3 ημέρες"
+                }
+            ]
+        },
+        "go-minimal-house.myshopify.com": {
+            "domain": "go-minimal-house.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Default Delivery time: Delivery 15 to 42 days"
+                }
+            ]
+        },
+        "ellisargiboutique.myshopify.com": {
+            "domain": "ellisargiboutique.myshopify.com",
+            "options": [
+                {
+                    "code": "delivery_time",
+                    "value": "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+                }
+            ]
+        },
+        "importslapnos.myshopify.com": {
+            "domain": "importslapnos.myshopify.com",
+            "options": []
+        }
+    }
+}
