@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<products>
+    <product>
+        <title><![CDATA[100 Pant fleece pant, men's 10/11]]></title>
+        <product-url><![CDATA[http://www.merchant.com/product/100-pant-fleecebukse-herre-1011-19959.aspx]]></product-url>
+        <price>599.00</price>
+        <brand><![CDATA[The North Face]]></brand>
+        <description><![CDATA[The North Face TKA 100 Pant fleece pant is designed for cold conditions and fits very well under the shell clothing.]]></description>
+        <image-url><![CDATA[http://www.merchant.com/uploads/pictures/21691-128.jpg]]></image-url>
+        <ean>4856349257328</ean>
+        <merchant-category><![CDATA[Clothing - Men - Pants - Outdoor Pants]]></merchant-category>
+        <availability>1</availability>
+        <delivery-cost>99.00</delivery-cost>
+        <delivery-time><![CDATA[1-3 days]]></delivery-time>
+        <condition></condition>
+        <ecotax></ecotax>
+        <warranty></warranty>
+        <mobile-url></mobile-url>
+        <kelkoo-category-id></kelkoo-category-id>
+        <mpn><![CDATA[AJGW]]></mpn>
+        <sku></sku>
+        <colour></colour>
+        <unit-price></unit-price>
+        <offer-type></offer-type>
+        <merchant-info></merchant-info>
+        <currency></currency>
+        <image-url-2></image-url-2>
+        <image-url-3></image-url-3>
+        <image-url-4></image-url-4>
+        <green-product></green-product>
+        <green-label></green-label>
+        <sales-rank></sales-rank>
+        <unit-quantity></unit-quantity>
+        <made-in></made-in>
+        <occasion></occasion>
+        <keywords></keywords>
+        <shipping-method></shipping-method>
+        <delivery-cost-2></delivery-cost-2>
+        <shipping-method-2></shipping-method-2>
+        <delivery-cost-3></delivery-cost-3>
+        <shipping-method-3></shipping-method-3>
+        <delivery-cost-4></delivery-cost-4>
+        <shipping-method-4></shipping-method-4>
+        <zip-code></zip-code>
+        <stock-quantity></stock-quantity>
+        <shipping-weight></shipping-weight>
+        <payment-methods></payment-methods>
+        <voucher-title></voucher-title>
+        <voucher-description></voucher-description>
+        <voucher-url></voucher-url>
+        <voucher-code></voucher-code>
+        <voucher-start-date></voucher-start-date>
+        <voucher-end-date></voucher-end-date>
+        <price-no-rebate></price-no-rebate>
+        <percentage-promo></percentage-promo>
+        <promo-start-date></promo-start-date>
+        <promo-end-date></promo-end-date>
+        <user-rating></user-rating>
+        <nb-reviews></nb-reviews>
+        <user-review-link></user-review-link>
+        <video-link></video-link>
+        <video-title></video-title>
+    </product>
+</products>

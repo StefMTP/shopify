@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFeeds>
+    <item_data>
+        <item_unique_id>BBBBB56</item_unique_id>
+        <item_mpn>25523</item_mpn>
+        <item_manufacturer>Nikon</item_manufacturer>
+        <item_name>Coolpix 8800 Digital Camera</item_name>
+        <item_category>Electronics / Digital Cameras</item_category>
+        <item_short_desc>Bring your memories to vivid life with the sharp and beautiful images produced by the Coolpix 8800 Digital Camera from Nikon. This compact, lightweight camera delivers up to 8 MP resolutions to provide stunning detail.</item_short_desc>
+        <item_page_url>http://www.yoursite.com/cameras/coolpix8800.htm</item_page_url>
+        <item_image_url>http://www.yoursite.com/images/coolpix8800.jpg</item_image_url>
+        <item_upc>4979006037203</item_upc>
+        <item_price>999.99</item_price>
+        <item_inventory>AVAILABLE</item_inventory>
+        <item_condition>New</item_condition>
+        <item_shipping_charge>5</item_shipping_charge>
+    </item_data>
+    <item_data>
+        <item_unique_id>BBBBB57</item_unique_id>
+        <item_mpn>U6439-900</item_mpn>
+        <item_manufacturer>Hoover</item_manufacturer>
+        <item_name>WindTunnel U6439-900 Vacuum Cleaner</item_name>
+        <item_category>Home and Garden / Small Appliances / Vacuum Cleaners</item_category>
+        <item_short_desc>Perfect for deep cleaning without excessive strain, the self-propelled Hoover WindTunnel Ultra upright takes charge of its own locomotion both coming and going.</item_short_desc>
+        <item_page_url>http://www.yoursite.com/vacuum/wind900.htm</item_page_url>
+        <item_image_url>http://www.yoursite.com/images/wind900.gif</item_image_url>
+        <item_upc>4979006037203</item_upc>
+        <item_price>249.99</item_price>
+        <item_inventory>AVAILABLE</item_inventory>
+        <item_condition>Refurbished</item_condition>
+        <item_shipping_charge>5</item_shipping_charge>
+    </item_data>
+</DataFeeds>
