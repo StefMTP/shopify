@@ -1,9 +1,26 @@
-Every shop that installs our application, can choose some options that will define and differentiate the way the shop's products will be mapped in the XML form. One shop can have many options and one option can belong to many shops (many-to-many relationship).
+## Available Options
 
-### Custom Behaviours that we would like to implement through these options (or through tags included in each product)
+Every shop that installs our application, can choose some options that will define and differentiate the way the shop's products will be mapped in the XML form. One shop can have many options and one option can belong to many shops (many-to-many relationship). Also, since we have multiple xml variations, the same option for the same shop can have a different value in different Shopify apps.
 
-- **Delivery time - "diathesimotita"**: Depending on the value of this option, this value will be inserted in the availability tag of the XML product (example: "Delivery in 5 days", "Delivery up to 30 days" etc.). If we make the customer choose one value for this option through our database options table, then every product will have the same availability. If we instead make this through the product's diathesimotita/delivery tag, then it will be dynamic and different depending on the product, but then the shop owner will be forced to include such a tag in every product.
-(Maybe we could combine these two methods: if there are tags with diathesimotita, create the availability tag through it, otherwise use a default value selected from the options table)
-- **Custom domain**: instead of including the stndard myshopify domain in the URLs of products, use a custom one. Should probably be done through tags.
-- **Separate variants**: It's possible that a shop owner is not using the standard Shopify variant system (where every product has a variant for each of its possible combinations through sizes, colors, materials and other variant options). In this case, every product in the shop is a variant on its own. For example, instead of having a product called "Woman's Blouse" and have its variants be combinations of different colors and sizes (e.g. "Woman's Blouse Medium Pink"), the shop owner decides to record each variant independently ("Woman's Blouse Medium Pink" is a product with just one default 'title' Shopify variant, the same for "Woman's Blouse Large Black" etc.). For this option, there probably has to be a separate_variants option in the options table that alters the way products are parsed (ignoring variants and focusing on each product entirely).
-- **Exclude XML Variation**: products may have tags that are used to notify the XML builder that these products will be excluded from certain channels e.g. exclude-skroutz notifies the builder to not include this product when building the XML for Skroutz.
+1. **Delivery time** (select): Default delivery time that fills the availability field for all products (multiple choice based on the list of provided options, or custom through user input) (DB)
+2. **Out of stock delivery time** (select): If product is out of stock, merchant can select another availability time from the same Skroutz list of availabilities (multiple choice based on the list of provided options, or custom through user input) (DB)
+3. **Custom domain** (text): Custom domain option that replaces product url domain for all products (DB)
+4. **Separate variants** (checkbox): By default, variants are grouped in one product, choices are Separate none, Separate all except size, Separate all (DB)
+5. **Specific collection** (select): Get products only from specific collection (DB)
+6. **Compare at price field** (checkbox): Include the compare_at price in each XML product (DB)
+7. **Delivery time based on product tags** (boolean): Availability through product tag "availability:_%s_" (or "diathesimotita=_%s_" for old customers who still have it saved this way) (tag+DB)
+8. **Product title based on product tags** (boolean): Change product title with tag "title:_%s_" (tag+DB)
+9. **Image URL based on product tags** (boolean): Change image of first variant with tag "image:_%s_" (tag+DB)
+10. **Product URL based on product tags** (boolean): Change product url with tag "url:_%s_" (tag+DB)
+11. **Product Glami CPC based on product tags** (boolean): Change product Glami CPC with tag "glamicpc:_%0.2f_" (tag+DB)
+12. **Product material based on product tags** (boolean): Change product material with tag "material:_%s_|percentage=_%0.2f_" (tag+DB)
+13. **Exclude from xmlVariation** (boolean): Exclude product from XML with tag "exclude-_xmlVariation_" (tag+DB)
+14. **Category tree** (json): Product types mapped to proper xml variation categories, value saved as a json encoded string (DB)
+15. **Skip Required** (checkbox): Just in case some clients don't want to deal with the required fields validation, this option overrides this step and passes all products in the XML, no matter what properties are wrong or lacking (DB)
+16. <strong style="color: red">Generic Feed (text)</strong>: This option is added manually from the developers after communicating with the merchant, to choose the variation of the XML that will be created **(ONLY FOR THE GENERIC SYN APP)**.
+
+Possible options for new variations:
+
+Energy efficiency class
+Tire type/model
+Shipping cost

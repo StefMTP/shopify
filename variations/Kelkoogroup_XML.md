@@ -12,7 +12,7 @@ Required attributes
 - gtin (if it exists)
 - mpn 
 - merchant_category (product category path)
-- delivery_cost ()
+- delivery_cost
 
 Recommended/optional attributes
 

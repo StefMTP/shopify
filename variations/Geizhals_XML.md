@@ -1,25 +1,25 @@
 Required attributes
 
-- product id
-- product name
-- manufacturer
-- gross price in euros (price)
-- "deep link to an order page" (product url probably)
-
+- Unique article number (product id)
+- Article name (product title)
+- Manufacturer
+- Gross price in euros (price)
+- Deep link to an order page (product url)
 
 Recommended/optional attributes
 
-- stock status or availability (delivery time)
-- shipping costs
-- manufacturer product number (MPN)
+- Stock status or availability (delivery time)
+- Product path
+- Product description
+- Image link
+- Color 
+- Size
+- Manufacturer product number (MPN)
 - EAN
-- basic price
-- energy efficiency class
-- pzn for medicine
-- product path
-- product description
-- image link
-- color 
-- size
-- gender
-- model year
+- Shipping costs
+- Basic price (without vat)
+- Energy efficiency class
+- Tire details
+- PZN for medicine
+- Gender (sporting goods)
+- Model year (sporting goods)
